@@ -1,0 +1,10 @@
+# SpecStory explanation file
+.specstory/
+.gemini/
+.cursor/
+.vscode/
+saliendo/
+scripts/
+sources/
+staging/
+.cursorignore
