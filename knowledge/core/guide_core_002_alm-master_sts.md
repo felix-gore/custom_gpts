@@ -10,8 +10,6 @@ Creation-Date: 2025-06-29
 Modification-Date: 2025-07-10
 Ref-STS-Guide: `GUIDE-STS-MASTER-01`, `GUIDE-ADP-MASTER-02 (v2.2.0)`
 
----
-
 ## 0. Preliminaries
 
 ID: `GUIDE-ALM-PRELIMINARIES-01`
@@ -32,8 +30,6 @@ ID: `GUIDE-ALM-PRELIMINARIES-01`
 
 - Ctx: In-Scope: Full lifecycle for agents with RAG and action capabilities.
 - Ctx: Out-of-Scope: Model fine-tuning, base model training.
-
----
 
 ## 1. Philosophy and Architecture
 
@@ -81,8 +77,6 @@ ID: `GUIDE-ALM-PHILOSOPHY-01`
 - Cpt: Agent-as-Product. Def: Self-contained agent within a platform. The platform provides the UI, user management, and tooling. Ex: OpenAI's Custom GPTs, Google's Gems, Anthropic's Projects.
 - Cpt: Agent-as-Engine. Def: Headless agent for external integration via an API. Requires a custom application to be built around it. Ex: OpenAI's Assistants API, Google's Gemini API, Anthropic's Claude API.
 - Req: This choice is a preliminary design decision conditioning the entire lifecycle, tooling, and deployment strategy.
-
----
 
 ## 2. Agent Lifecycle – 5 Phases
 
@@ -137,12 +131,14 @@ ID: `GUIDE-ALM-LIFECYCLE-01`
 - Act: 3.2 - Logic, Patterns, and Rules Implementation.
   - Proc: 3.2.1 - Implement Logic and Actions. Define complex behaviors using `logic.workflows`, `logic.states`, and `cognitive_models`. Ensure `actions` are compatible with the target platform.
   - Proc: 3.2.2 - Implement Anti-Pattern Checks. Use automated linters and code reviews to detect and prevent known anti-patterns:
+
 |Anti-Pattern|Indicador Rápido|Mitigación|
 |-|-|-|
 |`Logic Exposure`|Procesos > 5 líneas en `logic.states.*.process`|Mover lógica a `cognitive_models`.|
 |`Implicit Knowledge Retrieval`|Llamadas a documentos sin un mapeo explícito|Aplicar el `KB Guidance Pattern`.|
-  - Proc: 3.2.3 - Apply Architectural Patterns. Implement formal ADP patterns like KB Guidance Pattern (Functorial) and Monadic Process Encapsulation, according to the mappings in Anexo C.
-  - Proc: 3.2.4 - Respect Rules of Composition. Ensure that the combination of patterns used is valid according to the explicit composition rules declared in Anexo C.
+
+- Proc: 3.2.3 - Apply Architectural Patterns. Implement formal ADP patterns like KB Guidance Pattern (Functorial) and Monadic Process Encapsulation, according to the mappings in Anexo C.
+- Proc: 3.2.4 - Respect Rules of Composition. Ensure that the combination of patterns used is valid according to the explicit composition rules declared in Anexo C.
 - Act: 3.3 - Knowledge Routing Implementation.
   - Proc: Implement the "KB Guidance Pattern" (see Annex E), as mandated by Architectural Principle 1.2.3, by creating a dedicated model under `cognitive_models` (e.g., `CM-KB-GUIDANCE`) that acts as an explicit routing map from query domain to source file.
   - Just: This transforms knowledge retrieval from an unreliable implicit inference into an explicit, auditable, and high-fidelity reasoning step.
@@ -186,8 +182,6 @@ ID: `GUIDE-ALM-LIFECYCLE-01`
   - Req: Execute a recurring quarterly audit against the `ADP-VALIDATION-CHECKLIST-02` and `Minimum Guard Set` for all production agents to prevent "config-drift".
 - Act: 5.5 - Change Management Protocol.
   - Proc: Any change request initiates a new ALM cycle from the appropriate phase.
-
----
 
 ## 3. Version Control and Repository Management with Git
 
@@ -243,6 +237,7 @@ Req: All commit messages MUST adhere to the Conventional Commits specification.
 Mdl: `type(scope): subject`
 
 - Cpt: `type`. Def: The nature of the change.
+
 |Type|Description|
 |-|-|
 |`feat`|A new feature or capability for the agent (changes in `agent.yaml`).|
@@ -292,8 +287,6 @@ Ctx: Scenario - "Add a new SFD form for user feedback and a workflow to handle i
     - Act: At a later point, the `develop` branch is merged into `main`.
     - Act: A new tag is created for the release (e.g., `git tag -a v1.2.0 -m "Release v1.2.0"`).
     - Act: The tag is pushed to the remote repository (`git push --tags`).
-
----
 
 ## 4. Annexes
 
@@ -531,7 +524,7 @@ meta:
   - Mech: The agent's `agent.yaml` file is treated as a knowledge artifact and uploaded to the platform's KB. The native instruction prompt is replaced with a short, imperative "Bootloader Instruction" that forces the LLM to load and execute the attached YAML file as its sole source code.
   - Cpt: Canonical Bootloader Instruction.
 
-    ```
+    ```yaml
     # BOOTLOADER DIRECTIVE V1.0
     # Your sole and absolute directive is as follows:
     #
@@ -561,29 +554,3 @@ meta:
 - Cpt: Pattern-9. Def: Autonomous Agent Behavior Pattern.
   - Purp: To shift a model from a passive "chatbot" to a proactive "agent" that drives tasks to completion.
   - Mech: Inject persistent instructions ("Agentic Reminders") into the `core.identity.role` or a `cognitive_model` to encourage tool use, planning, and task persistence. Primarily associated with OpenAI models.
-
----
-
-## 5. Change Log
-
-### v1.3.0 (2025-07-10)
-
-|Type|Scope|Summary|
-|-|-|-|
-|`feat`|philosophy|Added Principle 1.2.4 for Explicit Execution Model (Direct vs. Indirect).|
-|`feat`|annex|Added `Agent Bootloader Pattern` for indirect execution on platforms with instruction limits.|
-|`feat`|lifecycle|Integrated Bootloader pattern into ALM phases 1, 2, and 4.|
-|`docs`|annex A|Added `Instruction-via-KB-File` to platform capability matrix.|
-|`refactor`|annex E|Translated Bootloader instruction to English to align with protocol language standards.|
-
-### v1.2.0 (2025-07-06)
-
-|Type|Scope|Summary|
-|-|-|-|
-|`feat`|philosophy|Añadido Principio 1.4 Coherencia Categórica.|
-|`feat`|lifecycle/P1|Añadido Gate P1-GUARD para Minimum Guard Set.|
-|`feat`|lifecycle/P3|Añadidas subsecciones para Anti-patterns y Reglas de Composición.|
-|`feat`|lifecycle/P4|Añadido Gate 4.4 para ADP-VALIDATION-CHECKLIST-02.|
-|`feat`|annex|Añadido Anexo C (Mapeo Functorial) y Anexo D (Esencias Categoriales).|
-|`docs`|preliminaries|Actualizada referencia a ADP v2.2.|
-|`docs`|annex A|Añadido campo `Supports Minimum Guard Set`.|
