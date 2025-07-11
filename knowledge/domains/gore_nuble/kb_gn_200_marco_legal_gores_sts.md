@@ -360,300 +360,1453 @@ Cpt: Superposición y Coordinación con Leyes Especiales.
   - ID: LBGAE-OVERLAP-L18834-01
   - Ctx: Los funcionarios de los GORE están sujetos directamente al Estatuto Administrativo, que es supletorio a la Ley 18.575 en materia de personal.
 
-## ESTATUTO ADMINISTRATIVO (LEY 18834)
+## Ley Nº 18.834, Sobre Estatuto Administrativo
 
-ID: ESTATUTO-ADMIN-01
-Purp: Establecer el régimen general que rige las relaciones laborales entre el Estado y su personal de planta y contrata, sentando las bases para la gestión de personal en el GORE.
-Obj: Garantizar una administración profesional, imparcial, técnica y eficiente.
-Src: Ley N° 18.834, publicada el 24 de septiembre de 1989.
+### Título I: Normas Generales
 
-### ID: ESTATUTO-ADMIN-NORMAS-GRALES-01
+ID: LEY-18834-T1-NORMAS-GENERALES-01  
 
-Cpt: Normas Generales y Estructura de Personal.
+- Cpt: Aplicación. Def: Relaciones Estado-personal instituciones art. 1º.  
+- Cpt: Cargo Público. Def: Contemplado en plantas o empleos contrata instituciones art. 1º.  
+- Cpt: Planta Personal. Def: Conjunto cargos permanentes asignados por ley a institución, según art. 5º.  
+- Cpt: Empleo Contrata. Def: Carácter transitorio en dotación institución.  
+- Cpt: Sueldo. Def: Retribución fija asignada empleo según clasificación.  
+- Cpt: Remuneración. Def: Contraprestación dinero por empleo (sueldo, asignaciones).  
+- Cpt: Carrera Funcionaria. Def: Sistema integral regulación empleo público (igualdad oportunidades, dignidad, capacitación, ascenso, estabilidad, objetividad calificaciones).  
 
-#### ID: ESTATUTO-ADMIN-ART1-01
+#### Artículo 1
 
-Ctx: Art. 1
-Cpt: Ámbito de Aplicación.
-Def: Regula las relaciones entre el Estado y el personal de servicios públicos centralizados y descentralizados, incluyendo expresamente al GORE.
-Resp: El Gobernador Regional actúa como jefe de servicio respecto de su personal.
+ID: LEY-18834-ART1-01  
 
-#### ID: ESTATUTO-ADMIN-ART3-01
+- Req: Regulación por Estatuto, salvo excepciones inc. 2º art. 21 ley Nº 18.575.  
 
-Ctx: Art. 3
-Cpt: Definiciones Clave.
+#### Artículo 2
 
-- Def: Cargo Público: Contemplado en la planta o a contrata de una institución.
-- Def: Planta de Personal: Conjunto de cargos permanentes asignados por ley a una institución.
-- Def: Empleo a Contrata: De carácter transitorio, consultado en la dotación.
-- Def: Carrera Funcionaria: Sistema integral de regulación del empleo de planta.
-  - Cpt: Principios: Jerarquía, profesionalismo, técnica, igualdad de oportunidades, dignidad, capacitación, ascenso, estabilidad, objetividad.
-Cpt: Lista:
+ID: LEY-18834-ART2-01  
 
-#### ID: ESTATUTO-ADMIN-ART5-01
+- Req: Cargos planta/contrata solo funciones propias instituciones art. 1º.  
+- Prohib: Otras actividades por sector privado.  
 
-Ctx: Art. 5
-Cpt: Tipos de Planta (Estamentos).
+#### Artículo 3
 
-- Cpt: Directivos, Profesionales, Técnicos, Administrativos, Auxiliares.
+ID: LEY-18834-ART3-01  
 
-#### ID: ESTATUTO-ADMIN-ART7-01
+- Def: Cargo Público. Ctx: Contemplado plantas/empleos contrata instituciones art. 1º.  
+- Def: Planta Personal. Ctx: Conjunto cargos permanentes por ley institución art. 5º.  
+- Def: Empleo Contrata. Ctx: Transitorio dotación institución.  
+- Def: Sueldo. Ctx: Retribución fija empleo por clasificación.  
+- Def: Remuneración. Ctx: Contraprestación dinero empleo (sueldo, asignación zona, profesional, etc.).  
+- Def: Carrera Funcionaria. Ctx: Sistema regulación empleo público (igualdad, dignidad, capacitación, ascenso, estabilidad, objetividad).  
 
-Ctx: Art. 7
-Cpt: Cargos de Confianza Exclusiva.
-Def: Cargos de libre nombramiento y remoción por parte del jefe de servicio.
-Ctx: Cargos Relevantes en GORE: Jefes superiores de servicio, subdirectores, directores regionales, o cargos de nivel jerárquico equivalente o superior (ej. Jefes de División).
+#### Artículo 4
 
-#### ID: ESTATUTO-ADMIN-ART10-01
+ID: LEY-18834-ART4-01  
 
-Ctx: Art. 10
-Cpt: Empleo a Contrata.
-Dln: Máximo hasta el 31 de diciembre de cada año.
-Res: Expiración automática en esa fecha, salvo prórroga propuesta con 30 días de anticipación.
-Cond: El número de funcionarios a contrata no puede exceder el 20% del total de cargos de la planta.
-Warn: La Ley de Presupuestos de cada año puede introducir normas especiales transitorias que modifiquen estas condiciones.
+- Cpt: Cargos Planta. Def: Titulares, suplentes, subrogantes.  
+- Def: Titulares. Ctx: Nombrados cargo vacante.  
+- Def: Suplentes. Ctx: Designados cargos vacantes o titular ausente >15 días, derecho remuneración.  
+- Cond: Licencias maternales/médicas >30 días. Ctx: Remuneración grado inferior.  
+- Prohib: Suplencia >6 meses.  
+- Excep: Recursos presupuestarios. Ctx: No limitaciones suplencias unidades unipersonales/servicios 24/7.  
+- Req: Nombramiento suplentes normas Título.  
+- Def: Subrogantes. Ctx: Funcionarios ocupan cargo titular/suplente por ley.  
 
-#### ID: ESTATUTO-ADMIN-ART11-01
+#### Artículo 5
 
-Ctx: Art. 11
-Cpt: Contratación a Honorarios.
-Resp: Para profesionales, técnicos o expertos.
-Cond: Solo para labores accidentales y no habituales de la institución.
-Fnd: Se rigen por las cláusulas de su contrato y no por este Estatuto.
+ID: LEY-18834-ART5-01  
 
-#### ID: ESTATUTO-ADMIN-ART12-01
+- Req: Plantas por institución. Ctx: Directivos, Profesionales, Técnicos, Administrativos, Auxiliares.  
 
-Ctx: Art. 12
-Cpt: Requisitos de Ingreso a la Administración.
-Req:
+#### Artículo 6
 
-- Req: a) Ser ciudadano o extranjero con permiso de residencia.
-- Req: b) Haber cumplido ley de reclutamiento.
-- Req: c) Salud compatible con el cargo.
-- Req: d) Educación básica aprobada y nivel educacional/título requerido por la ley para el cargo.
-- Req: e) No haber cesado en un cargo público por calificación deficiente o medida disciplinaria en los últimos 5 años.
-- Req: f) No estar inhabilitado para el ejercicio de funciones públicas ni condenado por crimen o simple delito.
+ID: LEY-18834-ART6-01  
 
-### ID: ESTATUTO-ADMIN-CARRERA-01
+- Def: Carrera Funcionaria Inicio. Ctx: Ingreso titular cargo planta.  
+- Ctx: Extiende hasta jerarquía inferior confianza exclusiva.  
 
-Cpt: De la Carrera Funcionaria.
+#### Artículo 7
 
-#### ID: ESTATUTO-ADMIN-ART17-01
+ID: LEY-18834-ART7-01  
 
-Ctx: Art. 17
-Cpt: Ingreso a Cargos de Carrera.
-Mech: Concurso público.
-Req: El ingreso se realiza en el último grado de la planta respectiva.
-Cond: Salvo que existan vacantes de grados superiores que no puedan ser provistas mediante promociones internas.
+- Def: Cargos Confianza. Ctx: Presidente/autoridad.  
+- Cpt: Tipos. Def: Presidencia; Ministerios (Secretarios Regionales, Jefes División/equivalentes); Servicios (jefes superiores, subdirectores, directores regionales/equivalentes).  
+- Excep: Rectores Educación Superior estatales. Ref: LOC Enseñanza, estatutos propios.  
 
-#### ID: ESTATUTO-ADMIN-ART25-01
+#### Artículo 8
 
-Ctx: Art. 25
-Cpt: Empleo a Prueba.
-Def: Sistema optativo para el jefe de servicio como parte del proceso de selección para un cargo de carrera.
-Dln: Periodo de 3 a 6 meses.
-Proc: Incluye una evaluación de desempeño para proceder al nombramiento titular.
+ID: LEY-18834-ART8-01  
 
-#### ID: ESTATUTO-ADMIN-ART26-01
+- Cpt: Cargos Jefes Departamento. Ctx: Carrera, provisión concursos.  
+- Req: Participantes. Ctx: Planta/contrata, requisitos, lista Nº1, sin inhabilidades art. 55.  
+- Cond: Contrata. Ctx: Mínimo 3 años previos.  
+- Cpt: Comité Selección. Ctx: Propone 3-5 candidatos mejores puntajes.  
+- Cond: Falta idóneos. Ctx: Completa contratados/otros. Ref: Art. 21.  
+- Cond: No postulantes idóneos. Ctx: Concurso público.  
+- Ctx: Permanencia jefaturas 3 años, prórroga evaluación.  
+- Req: Funcionarios. Ctx: Reconcursar o reasumir cargo.  
+- Ref: No previsto. Ctx: Normas Párrafo 1º Título II.  
 
-Ctx: Art. 26
-Def: Capacitación es el conjunto de actividades permanentes, organizadas y sistemáticas destinadas a que los funcionarios desarrollen, complementen, perfeccionen o actualicen sus conocimientos y destrezas.
+#### Artículo 9
 
-#### ID: ESTATUTO-ADMIN-ART32-01
+ID: LEY-18834-ART9-01  
 
-Ctx: Art. 32
-Cpt: Sistema de Calificación.
-Obj: Evaluar el desempeño y las aptitudes de cada funcionario.
-Purp: Sirve de base para el ascenso, los estímulos y la eliminación del servicio.
+- Req: Grado por función. Ctx: Sueldo, remuneraciones correspondientes.  
 
-#### ID: ESTATUTO-ADMIN-ART33-01
+#### Artículo 10
 
-Ctx: Art. 33
-Cpt: Proceso de Calificación.
-Resp: Aplica a todos los funcionarios, incluido el personal a contrata.
-Dln: El proceso es anual.
-Cpt: Listas de Calificación: N°1 (Distinción), N°2 (Buena), N°3 (Condicional), N°4 (Eliminación).
+ID: LEY-18834-ART10-01  
 
-#### ID: ESTATUTO-ADMIN-ART53-01
+- Cpt: Empleos Contrata. Ctx: Hasta 31 dic. cada año, expiración automática.  
+- Cond: Prórroga. Ctx: Solicitada 30 días antes.  
+- Prohib: Número >20% total cargos planta.  
+- Cpt: Jornada Parcial. Ctx: Permitida, remuneración proporcional.  
+- Req: Asignación grado. Ctx: Función, capacidad empleado, igualdad trato.  
+- Prohib: Grado > tope máximo plantas Profesionales/Técnicos/Administrativos/Auxiliares.  
+- Cond: Órganos sin plantas. Ctx: Grado no superior máximo planta respectiva.  
 
-Ctx: Art. 53
-Cpt: Promoción es el acceso a un cargo de grado superior a través de concurso interno en las plantas de directivos de carrera, profesionales, fiscalizadores y técnicos.
+#### Artículo 11
 
-#### ID: ESTATUTO-ADMIN-ART54-01
+ID: LEY-18834-ART11-01  
 
-Ctx: Art. 54
-Cpt: Ascenso es el derecho de un funcionario de carrera a acceder a un cargo vacante de grado superior en la línea jerárquica de la planta respectiva.
+- Cpt: Contratación Honorarios. Ctx: Profesionales/técnicos educación superior, labores accidentales, resolución autoridad.  
+- Cpt: Extranjeros. Ctx: Permitida con título correspondiente.  
+- Req: Regulación. Ctx: Por contrato, no Estatuto.  
 
-### ID: ESTATUTO-ADMIN-OBLIGACIONES-01
+#### Artículo 12
 
-Cpt: De las Obligaciones Funcionarias.
+ID: LEY-18834-ART12-01  
 
-#### ID: ESTATUTO-ADMIN-ART61-01
+- Req: Ingreso Administración. Ctx: Ciudadano/extranjero permiso residencia; cumplir ley reclutamiento (si aplica); salud compatible; educación básica/título exigido; no cesado por calificación deficiente/disciplina (>5 años); no inhabilitado/condenado crimen/delito grave; auxiliares/administrativos no condenados delito simple (salvo Título V Libro II Código Penal).  
 
-Ctx: Art. 61
-Cpt: Listado de Obligaciones.
-Req:
+#### Artículo 13
 
-- Req: a) Desempeñar personalmente el cargo.
-- Req: b) Orientar las funciones al cumplimiento de los objetivos institucionales.
-- Req: c) Realizar las labores con esmero, cortesía, dedicación y eficiencia.
-- Req: d) Cumplir la jornada de trabajo.
-- Req: f) Obedecer las órdenes impartidas por el superior jerárquico.
-- Req: g) Observar el principio de probidad administrativa.
-- Req: h) Guardar secreto en asuntos que revistan el carácter de reservados.
+ID: LEY-18834-ART13-01  
 
-#### ID: ESTATUTO-ADMIN-ART65-01
+- Req: Acreditación a), b), d). Ctx: Documentos oficiales.  
+- Req: Acreditación c). Ctx: Certificación Servicio Salud.  
+- Req: Acreditación d). Ctx: Títulos profesionales/técnicos válidos.  
+- Req: Acreditación e). Ctx: Declaración jurada simple, falsedad penas art. 210 Código Penal.  
+- Req: Acreditación f). Ctx: Consulta Servicio Registro Civil.  
+- Cpt: Cédula Identidad. Ctx: Acredita nacionalidad, datos.  
+- Req: Archivo documentos. Ctx: Contraloría General República post trámite (excepto cédula).  
 
-Ctx: Art. 65
-Cpt: Jornada de Trabajo: 44 horas semanales, distribuidas de lunes a viernes, no pudiendo exceder las 9 horas diarias.
+#### Artículo 14
 
-#### ID: ESTATUTO-ADMIN-ART84-01
+ID: LEY-18834-ART14-01  
 
-Ctx: Art. 84
-Cpt: Prohibiciones.
+- Cpt: Provisión Cargos. Ctx: Nombramiento/promoción, resuelto Ministros/Intendentes/Gobernadores (dependencia), jefes superiores (servicios públicos), excepto confianza Presidente.  
+- Cond: No promoción. Ctx: Aplicar normas nombramiento.  
+- Req: Nuevos cargos carrera. Ctx: Provisión concurso público.  
 
-- Cpt: Prohib: Ejercer facultades o atribuciones no delegadas o fuera de su competencia.
-- Cpt: Prohib: Intervenir en asuntos donde se tenga interés personal, o lo tengan el cónyuge o parientes (hasta 3er grado de consanguinidad y 2do de afinidad).
+#### Artículo 15
 
-#### ID: ESTATUTO-ADMIN-ART86-01
+ID: LEY-18834-ART15-01  
 
-Ctx: Art. 86
-Cpt: Incompatibilidades: Los empleos públicos son incompatibles entre sí y con cargos de elección popular.
+- Cpt: Encasillamientos. Ctx: Modificación plantas.  
+- Req: Directivos. Ctx: Encasillar igual grado, orden mérito; si no, último grado.  
+- Cpt: Vacantes. Ctx: Proveer concurso interno, participantes planta/contrata ≥5 años, lista Nº1/2.  
+- Req: Convocatoria. Ctx: Especificar cargos, funciones, localidad.  
+- Req: Postulación. Ctx: Un acto, indicar función/localidad/prioridad, inhabilidades art. 55.  
+- Req: Provisión. Ctx: Orden decreciente puntaje, planta primero; vacantes a contrata.  
+- Cond: Empate. Ctx: Última calificación; persiste, jefe superior decide.  
+- Ref: No previsto. Ctx: Normas Párrafo 1º Título II.  
+- Req: Administrativos/auxiliares. Ctx: Encasillamiento escalafón mérito.  
 
-### ID: ESTATUTO-ADMIN-DERECHOS-01
+### Etapa 2: Título II de la Carrera Funcionaria (Meat Fase 2 y Nervous System Fase 3)
 
-Cpt: De los Derechos Funcionarios.
+Siguiendo GUIDE-STS-METHODOLOGY-PHASE2-01, transferido "meat" de Artículos 16-60, destilado a KeyTerm: EssentialData, preservando todo en español original. Agregados Refs para evitar duplicación (e.g., referencias a Artículos previos). Verificado Phase 3: Conexiones con IDs.
 
-#### ID: ESTATUTO-ADMIN-ART89-01
+### Título II: de la Carrera Funcionaria
 
-Ctx: Art. 89
-Cpt: Listado de Derechos.
+ID: LEY-18834-T2-CARRERA-FUNCIONARIA-01  
 
-- Cpt: Estabilidad en el empleo (salvo cargos de confianza).
-- Cpt: Ascender en el escalafón.
-- Cpt: Participar en concursos.
-- Cpt: Hacer uso de feriados, permisos y licencias.
-- Cpt: Recibir asistencia en caso de accidente o enfermedad laboral.
-- Cpt: Participar en acciones de capacitación.
-- Cpt: Gozar de defensa jurídica en caso de acciones judiciales por actos de servicio.
-- Cpt: No ser objeto de acoso sexual ni laboral.
+#### Párrafo 1: del Ingreso
 
-#### ID: ESTATUTO-ADMIN-ART90A-B-01
+ID: LEY-18834-P1-INGRESO-01  
 
-Ctx: Art. 90 A y 90 B
-Cpt: Acoso Sexual y Laboral.
+##### Artículo 16
 
-- Def: Acoso Sexual: Solicitud de favores sexuales no consentidos que amenacen o perjudiquen la situación laboral o creen un ambiente ofensivo.
-- Def: Acoso Laboral: Agresión u hostigamiento reiterado que lesione la dignidad o integridad del afectado.
-- Req: La autoridad superior debe instruir investigación ante una denuncia.
-- Req: El GORE debe contar con un protocolo de prevención y actuación frente al acoso.
+ID: LEY-18834-ART16-01  
 
-#### ID: ESTATUTO-ADMIN-ART97-01
+- Req: Nombramiento. Ctx: Regirá desde decreto/resolución o total tramitación Contraloría.  
+- Cond: Asumir antes tramitación. Ctx: Deberá hacerlo fecha indicada; decreto no retirado.  
+- Cond: Observación Contraloría. Ctx: Comunicar interesado, cesar funciones; actuaciones válidas, derecho remuneración.  
+- Cond: No asume en 3 días. Ctx: Nombramiento sin efecto.  
+- Req: Comunicación. Ctx: Autoridad a Contraloría.  
 
-Ctx: Art. 97
-Cpt: Remuneraciones: Derecho a percibir las remuneraciones que correspondan al cargo, según la ley.
+##### Artículo 17
 
-#### ID: ESTATUTO-ADMIN-ART102-01
+ID: LEY-18834-ART17-01  
 
-Ctx: Art. 102
-Def: Feriado es el descanso anual con goce de todas las remuneraciones.
-Dln: 15 días hábiles por año calendario.
-Cpt: Feriado Progresivo: Se agrega 1 día hábil por cada 3 años de servicio sobre los 15 años de antigüedad (con un tope de 35 años de servicio).
+- Req: Ingreso carrera. Ctx: Concurso público, último grado planta, salvo vacantes superiores no cubiertas promociones.  
+- Req: Participación. Ctx: Todos cumplen requisitos, igualdad condiciones.  
+- Prohib: Discriminación arbitraria. Ctx: Raza, etnia, socioeconómica, idioma, ideología, discapacidad, religión, sexo, orientación sexual, identidad género, estado civil, edad, apariencia, enfermedad.  
+- Excep: Distinciones basadas calificaciones no discriminación.  
 
-#### ID: ESTATUTO-ADMIN-ART105-01
+##### Artículo 18
 
-Ctx: Art. 105
-Cpt: Permisos con Goce de Remuneraciones.
+ID: LEY-18834-ART18-01  
 
-- Def: Ausencia transitoria autorizada por el jefe superior.
-- Cpt: Por fallecimiento (Art. 106): Muerte de cónyuge, conviviente, hijo o padre. Dln: 7 días corridos.
-- Cpt: Por nacimiento o adopción (Art. 107): Se rige por el Código del Trabajo.
-- Cpt: Por motivos particulares (Art. 108): Hasta 6 días hábiles en el año.
+- Def: Concurso. Ctx: Procedimiento técnico objetivo selección personal propuesto autoridad nombramiento, evaluando antecedentes/pruebas.  
+- Req: Considerar. Ctx: Estudios, experiencia laboral, aptitudes específicas.  
+- Req: Ponderación. Ctx: Institución determinará/comunicará ponderación, puntaje mínimo idóneo.  
 
-#### ID: ESTATUTO-ADMIN-ART109-01
+##### Artículo 19
 
-Ctx: Art. 109
-Cpt: Permisos sin Goce de Remuneraciones.
+ID: LEY-18834-ART19-01  
 
-- a) Por motivos particulares: hasta 6 meses por año calendario.
-- b) Para permanecer en el extranjero: hasta 2 años.
+- Req: Secreto. Ctx: Identidad candidatos durante evaluación.  
+- Req: Acta. Ctx: Extender con fundamentos, resultados; comunicar resultado final concursantes.  
 
-#### ID: ESTATUTO-ADMIN-ART111-01
+##### Artículo 20
 
-Ctx: Art. 111
-Def: Licencia Médica es el derecho a ausentarse o reducir la jornada para restablecer la salud, con goce de remuneraciones o subsidio.
+ID: LEY-18834-ART20-01  
 
-### ID: ESTATUTO-ADMIN-RESPONSABILIDAD-01
+- Req: Publicación Aviso. Ctx: Diario Oficial días 1º/15 cada mes, o primer hábil siguiente si feriados.  
+- Req: Plazo. Ctx: ≥8 días entre publicación y presentación antecedentes.  
+- Req: Contenido Aviso. Ctx: Identificación institución, características cargo, requisitos, antecedentes, fechas/lugar pruebas, resolución concurso.  
+- Req: Acreditación a, b, d art. 12. Ctx: Documentos oficiales.  
+- Req: Acreditación c, e, f art. 12. Ctx: Declaración jurada.  
+- Cond: Falsedad declaración. Ctx: Penas art. 210 Código Penal.  
 
-Cpt: De la Responsabilidad Administrativa.
+##### Artículo 21
 
-#### ID: ESTATUTO-ADMIN-ART119-01
+ID: LEY-18834-ART21-01  
 
-Ctx: Art. 119
-Cpt: La infracción a deberes y obligaciones puede generar una anotación de demérito o una medida disciplinaria.
-Req: La aplicación de una medida disciplinaria requiere la acreditación de la falta mediante una investigación sumaria o un sumario administrativo.
-Resp: La dirección superior del GORE tiene la facultad y responsabilidad de fiscalizar la conducta y, si es necesario, instruir los procedimientos disciplinarios.
-Warn: La omisión en sancionar una falta acreditada puede constituir una infracción administrativa para la jefatura.
+- Cpt: Comité Selección. Ctx: Prepara/realiza concurso, integrado jefe personal, miembros junta central/regional (excepto representante personal).  
+- Prohib: Participación. Ctx: Parentescos letra b art. 54 ley Nº 18.575.  
+- Req: Funcionamiento. Ctx: 50% integrantes, excluyendo jefe personal (siempre integra).  
+- Req: Propuesta. Ctx: 3 candidatos mejores puntajes por cargo.  
+- Cond: Desierto. Ctx: Ningún postulante puntaje mínimo.  
+- Cpt: Concursos Elegibles. Ctx: Para postulantes elegibles, duración ≤12 meses desde conclusión proceso.  
 
-#### ID: ESTATUTO-ADMIN-ART121-01
+##### Artículo 22
 
-Ctx: Art. 121
-Cpt: Medidas Disciplinarias.
-Cpt: Lista (de menor a mayor gravedad): -
+ID: LEY-18834-ART22-01  
 
-- Cpt: a) Censura.
-- Cpt: b) Multa.
-- Cpt: c) Suspensión del empleo (desde 30 días a 3 meses).
-- Cpt: d) Destitución.
+- Req: Selección. Ctx: Autoridad elige uno propuesto, notifica interesado.  
+- Req: Aceptación. Ctx: Aceptar cargo, presentar documentos art. 13 plazo indicado.  
+- Cond: No cumple. Ctx: Nombrar otro postulante.  
 
-#### ID: ESTATUTO-ADMIN-ART126-129-01
+##### Artículo 23
 
-Ctx: Art. 126-129
-Cpt: Procedimientos Disciplinarios.
+ID: LEY-18834-ART23-01  
 
-- Proc: Investigación Sumaria: Procedimiento breve ordenado por el jefe de servicio para hechos sancionables con medidas menores.
-- Proc: Sumario Administrativo: Procedimiento formal ordenado por el jefe de servicio para investigar hechos graves. Se designa un fiscal de igual o mayor grado que el inculpado. Si en una investigación sumaria se constata mayor gravedad, se convierte en sumario.
+- Req: Contratación Asesorías. Ctx: Asistencia técnica concursos, hasta informar puntajes autoridad.  
+- Req: Licitación. Ctx: Entidades registradas Dirección Nacional Servicio Civil.  
+- Req: Reglamento. Ctx: Regulará licitaciones art. 9º ley Nº 18.575, otras normas.  
 
-### ID: ESTATUTO-ADMIN-CESACION-01
+##### Artículo 24
 
-Cpt: De la Cesación de Funciones.
+ID: LEY-18834-ART24-01  
 
-#### ID: ESTATUTO-ADMIN-ART146-01
+- Req: Designación. Ctx: Persona seleccionada titular cargo correspondiente.  
 
-Ctx: Art. 146
-Cpt: Causales de Cesación.
+#### Párrafo 2: del Empleo a Prueba
 
-- Cause: a) Aceptación de renuncia.
-- Cause: b) Jubilación, pensión o renta vitalicia.
-- Cause: c) Declaración de vacancia.
-- Cause: d) Destitución.
-- Cause: e) Supresión del empleo.
-- Cause: f) Término del período legal por el cual se fue designado.
-- Cause: g) Fallecimiento.
+ID: LEY-18834-P2-EMPLEO-PRUEBA-01  
 
-### ID: ESTATUTO-ADMIN-COORDINACION-NORMATIVA-01
+##### Artículo 25
 
-Cpt: Disposiciones Varias y Coordinación Normativa.
+ID: LEY-18834-ART25-01  
 
-#### ID: ESTATUTO-ADMIN-ART160-01
+- Cpt: Empleo Prueba. Ctx: Sistema en selección art. 17, optativo jefe superior servicio.  
+- Req: Información. Ctx: Informar postulantes antes proceso.  
+- Ctx: Período 3-6 meses, según jefe superior.  
+- Req: Evaluación. Ctx: Dentro 30 días antes finalizar, desempeño para nombramiento titular.  
+- Req: Factores. Ctx: Reglamento calificaciones.  
+- Cond: Desempeño deficiente. Ctx: Cese empleo prueba.  
+- Prohib: Prórroga período.  
+- Cpt: Condición. Ctx: Contrata mismo grado cargo, vacante sin suplencia.  
+- Cond: Recursos. Ctx: Contratar ≤3 candidatos prueba por cargo.  
+- Req: Derechos/Obligaciones. Ctx: En tareas cargo vacante.  
+- Cond: Final satisfactorio. Ctx: Designado titular.  
+- Excep: No cumplir prueba. Ctx: ≥3 años ininterrumpidos servicio.  
 
-Ctx: Art. 160
-Cpt: Reclamación ante Contraloría.
-Proc: Los funcionarios pueden reclamar ante la CGR por vicios de legalidad que afecten sus derechos.
-Dln: Plazo de 10 días hábiles.
+#### Párrafo 3: de la Capacitación
 
-#### ID: ESTATUTO-ADMIN-ART161-01
+ID: LEY-18834-P3-CAPACITACION-01  
 
-Ctx: Art. 161
-Cpt: Prescripción de Derechos.
-Dln: Los derechos de los funcionarios prescriben en un plazo de 2 años desde que se hicieron exigibles.
+##### Artículo 26
 
-#### ID: ESTATUTO-ADMIN-JURISPRUDENCIA-CGR-01
+ID: LEY-18834-ART26-01  
 
-Cpt: Jurisprudencia Relevante (Dictámenes CGR).
+- Def: Capacitación. Ctx: Actividades permanentes sistemáticas desarrollo/actualización conocimientos/destrezas desempeño eficiente.  
 
-- Ctx: Límite de Contratas: CGR ha invalidado nombramientos a contrata en servicios que excedían el límite legal del 20%, reforzando su obligatoriedad.
-- Ctx: Potestad Disciplinaria: CGR ha enfatizado que la potestad disciplinaria no es discrecional; es una obligación que la jefatura debe ejercer cuando existen méritos para ello.
+##### Artículo 27
+
+ID: LEY-18834-ART27-01  
+
+- Cpt: Tipos Capacitación. Ctx: Orden preferencia.  
+  - Cpt: a) Promoción. Ctx: Habilita cargos superiores, selección escalafón, participación voluntaria.  
+  - Cpt: b) Perfeccionamiento. Ctx: Mejora desempeño cargo, selección concurso.  
+  - Cpt: c) Voluntaria. Ctx: Interés institucional, no ligada cargo/ascenso, seleccionada jefe superior concurso.  
+
+##### Artículo 28
+
+ID: LEY-18834-ART28-01  
+
+- Prohib: Estudios básica/media/superior/postgrado. Ctx: No capacitación.  
+- Cond: Actividades solo asistencia/<20 horas. Ctx: Solo capacitación voluntaria.  
+
+##### Artículo 29
+
+ID: LEY-18834-ART29-01  
+
+- Req: Distribución Fondos. Ctx: Programas según necesidades/características, orden art. 27.  
+- Ctx: Ejecución desconcentrada preferente.  
+- Cpt: Convenios. Ctx: Organismos públicos/privados.  
+- Cpt: Programas Conjuntos. Ctx: ≥2 instituciones públicas.  
+
+##### Artículo 30
+
+ID: LEY-18834-ART30-01  
+
+- Cond: Capacitación impide trabajar. Ctx: Conserva remuneración.  
+- Cond: Cursos obligatorios fuera jornada. Ctx: Descanso complementario igual tiempo clase.  
+
+##### Artículo 31
+
+ID: LEY-18834-ART31-01  
+
+- Req: Seleccionados. Ctx: Asistir cursos, resultados en calificaciones.  
+- Req: Permanencia. Ctx: Institución ≥ doble tiempo curso.  
+- Cond: No cumple. Ctx: Reembolsar gastos, inhabilitado ingreso Administración hasta reembolso, autoridad informa Contraloría.  
+
+#### Párrafo 4: de las Calificaciones
+
+ID: LEY-18834-P4-CALIFICACIONES-01  
+
+##### Artículo 32
+
+ID: LEY-18834-ART32-01  
+
+- Def: Sistema Calificación. Ctx: Evalúa desempeño/aptitudes, base promociones, estímulos, eliminación servicio.  
+
+##### Artículo 33
+
+ID: LEY-18834-ART33-01  
+
+- Req: Calificación Anual. Ctx: Todos funcionarios (incluido contrata).  
+- Cpt: Listas. Def: Nº1 Distinción; Nº2 Buena; Nº3 Condicional; Nº4 Eliminación.  
+- Resp: Jefe Superior. Ctx: Cumplimiento.  
+
+##### Artículo 34
+
+ID: LEY-18834-ART34-01  
+
+- Prohib: Calificación. Ctx: Jefe Superior, subrogante, miembros Junta Calificadora Central, delegados personal.  
+- Ctx: Mantienen calificación anterior.  
+- Cond: Delegado solicita. Ctx: Calificado Jefe Directo.  
+
+##### Artículo 35
+
+ID: LEY-18834-ART35-01  
+
+- Resp: Junta Calificadora. Ctx: Realiza calificación.  
+- Cond: ≥15 funcionarios región. Ctx: Juntas Regionales; sino, Central.  
+- Cpt: Junta Regional. Ctx: 3 funcionarios alto nivel, 1 representante personal.  
+- Cpt: Junta Central. Ctx: 5 funcionarios alto nivel, 1 representante personal.  
+- Cond: Servicios Salud. Ctx: Juntas por hospital.  
+- Cond: Número funcionarios. Ctx: Reglamentos normas distintas.  
+- Cpt: Miembros Juntas. Ctx: Calificados Junta Central.  
+- Ctx: Elección representante/supente por funcionarios.  
+- Cond: No elección. Ctx: Funcionario más antiguo.  
+- Cpt: Asociación Funcionarios. Ctx: Designa delegado voz.  
+
+##### Artículo 36
+
+ID: LEY-18834-ART36-01  
+
+- Resp: Presidencia Junta. Ctx: Funcionario más alto nivel.  
+- Cond: Impedimento miembro. Ctx: Reemplazo siguiente orden.  
+
+##### Artículo 37
+
+ID: LEY-18834-ART37-01  
+
+- Ref: Normas reglamentos calificaciones. Ctx: Art. 47 ley Nº 18.575.  
+
+##### Artículo 38
+
+ID: LEY-18834-ART38-01  
+
+- Ctx: Evaluación 12 meses (1 sep-31 ago año siguiente).  
+- Cond: Reglamentos institucionales. Ctx: Otras fechas.  
+
+##### Artículo 39
+
+ID: LEY-18834-ART39-01  
+
+- Ctx: Proceso 1 sep-30 nov anualmente.  
+- Cond: Reglamentos. Ctx: Otras fechas.  
+
+##### Artículo 40
+
+ID: LEY-18834-ART40-01  
+
+- Prohib: Calificación <6 meses. Ctx: Mantienen anterior.  
+
+##### Artículo 41
+
+ID: LEY-18834-ART41-01  
+
+- Req: Junta. Ctx: Considerar precalificación Jefe Directo (conceptos, notas, antecedentes).  
+- Req: Anotaciones. Ctx: Mérito/demérito hoja vida.  
+- Resp: Jefes. Ctx: Precalificaciones.  
+- Cpt: Elementos Básicos. Ctx: Hoja vida, hoja calificación.  
+- Cond: Infracciones. Ctx: Consideradas solo una vez.  
+
+##### Artículo 42
+
+ID: LEY-18834-ART42-01  
+
+- Def: Anotaciones Mérito. Ctx: Acciones destacadas (títulos/cursos aprobados, trabajo extra, tareas otros funcionarios).  
+- Ctx: Favorables selección cursos capacitación.  
+
+##### Artículo 43
+
+ID: LEY-18834-ART43-01  
+
+- Def: Anotaciones Demérito. Ctx: Acciones/omisiones reprochables (incumplimiento obligaciones, atrasos trabajos).  
+
+##### Artículo 44
+
+ID: LEY-18834-ART44-01  
+
+- Ctx: Anotaciones solo período calificado, unidad personal a petición Jefe Directo.  
+- Req: Funcionario. Ctx: Solicitar anotaciones mérito/eliminar deméritos.  
+- Req: Unidad Personal. Ctx: Registrar todas anotaciones.  
+
+##### Artículo 45
+
+ID: LEY-18834-ART45-01  
+
+- Cond: Rechazo Jefe Directo. Ctx: Fundamentar rechazo hoja vida.  
+
+##### Artículo 46
+
+ID: LEY-18834-ART46-01  
+
+- Req: Acuerdos Junta. Ctx: Fundados, anotados Actas Calificaciones.  
+- Resp: Secretario. Ctx: Jefe Personal/reemplazo.  
+- Prohib: Delegación funciones miembros Junta.  
+
+##### Artículo 47
+
+ID: LEY-18834-ART47-01  
+
+- Req: Factores Evaluación. Ctx: Fijados reglamentos art. 37.  
+
+##### Artículo 48
+
+ID: LEY-18834-ART48-01  
+
+- Cpt: Apelación. Ctx: Resolución Junta o Jefe Directo (inc. 2º art. 34).  
+- Resp: Conocimiento recurso. Ctx: Subsecretario/Jefe Superior Servicio.  
+- Req: Notificación. Ctx: Secretario/funcionario designado, entrega copia autorizada, exige firma o constancia negativa.  
+- Cond: Apelación. Ctx: Mismo acto o 5 días.  
+- Cond: Excepcional. Ctx: ≤10 días desde notificación.  
+- Req: Resolución. Ctx: 20 días presentación.  
+- Req: Consideración. Ctx: Hoja vida, precalificación, calificación.  
+- Ctx: Puntaje mantiene/eleva, no rebaja.  
+- Ctx: Plazos días hábiles.  
+
+##### Artículo 49
+
+ID: LEY-18834-ART49-01  
+
+- Req: Notificación fallo. Ctx: Como artículo anterior.  
+- Cond: Reclamo. Ctx: Solo Contraloría General República art. 160.  
+
+##### Artículo 50
+
+ID: LEY-18834-ART50-01  
+
+- Cond: Lista 4 o 2 años lista 3. Ctx: Retiro 15 días hábiles post calificación.  
+- Cond: No retira. Ctx: Declarar vacante empleo día siguiente.  
+- Ctx: Resolución ejecutoriada vencimiento plazo reclamo o notificación Contraloría.  
+- Cond: Mantiene lista 3 art. 40. Ctx: No aplica, salvo falta calificación 2 períodos consecutivos.  
+
+##### Artículo 51
+
+ID: LEY-18834-ART51-01  
+
+- Req: Escalafón. Ctx: Instituciones con calificaciones ejecutoriadas, orden decreciente puntaje.  
+- Cond: Empate. Ctx: Orden antigüedad (cargo, grado, institución, Administración Estado, decide Jefe Superior).  
+- Cond: Ascenso. Ctx: Último lugar nuevo grado hasta calificación ≥6 meses.  
+
+##### Artículo 52
+
+ID: LEY-18834-ART52-01  
+
+- Ctx: Escalafón rige 1 ene, dura 12 meses.  
+- Req: Público. Ctx: Funcionarios institución.  
+- Cpt: Reclamo. Ctx: Ubicación art. 160.  
+- Ctx: Plazo desde escalafón disponible consulta.  
+
+#### Párrafo 5: de las Promociones
+
+ID: LEY-18834-P5-PROMOCIONES-01  
+
+##### Artículo 53
+
+ID: LEY-18834-ART53-01  
+
+- Cpt: Promoción. Ctx: Concurso interno directivos/profesionales/fiscalizadores/técnicos; ascenso escalafón administrativos/auxiliares.  
+- Ref: Concursos. Ctx: Normas vigésimo/séptimo Párrafo 1º Título.  
+- Cpt: Comité Selección. Ctx: Incluye 2 representantes personal.  
+- Req: Bases. Ctx: Capacitación, evaluación desempeño, experiencia, aptitud (cada 25% ponderación).  
+- Req: Participantes. Ctx: Cumplir requisitos cargo; lista Nº1/2; nombrados 3 grados inferiores vacante.  
+- Cond: <20 cargos inferiores. Ctx: ≤4 grados inferiores.  
+- Cpt: Procedimiento. Def: Especificar cargos/funciones convocatoria; postular ≥1 plantas sin especificar cargos; provisión orden decreciente puntaje; vacantes acto seguido; empate última calificación, persiste jefe superior decide.  
+- Ctx: Promoción rige trámite acto administrativo.  
+
+##### Artículo 54
+
+ID: LEY-18834-ART54-01  
+
+- Def: Ascenso. Ctx: Derecho cargo vacante grado superior, respetando escalafón.  
+
+##### Artículo 55
+
+ID: LEY-18834-ART55-01  
+
+- Prohib: Promoción. Ctx: No lista distinción/buena período anterior; no calificados 2 períodos consecutivos; censura >1 últimos 12 meses; sancionados multa últimos 12 meses.  
+
+##### Artículo 56
+
+ID: LEY-18834-ART56-01  
+
+- Cond: Ascenso Auxiliares a Administrativos. Ctx: Tope planta, cumple requisitos, mayor puntaje planta accede.  
+- Ctx: Derecho también siguiente escalafón si primero renuncia.  
+
+##### Artículo 57
+
+ID: LEY-18834-ART57-01  
+
+- Cond: Preferencia Nombramiento. Ctx: Funcionarios grado inferior inicio planta vacantes, igualdad.  
+
+##### Artículo 58
+
+ID: LEY-18834-ART58-01  
+
+- Req: Derecho art. anterior. Ctx: Cumplir requisitos legales, no inhabilitados art. 55.  
+
+##### Artículo 59
+
+ID: LEY-18834-ART59-01  
+
+- Ctx: Ascenso rige producción vacante.  
+
+##### Artículo 60
+
+ID: LEY-18834-ART60-01  
+
+- Req: Reglamento. Ctx: Normas objetividad, transparencia, no discriminación, calidad técnica, operación concursos ingreso/promoción/otras finalidades.  
+
+### Etapa 3: Títulos III-VII y Artículos Transitorios (Finalización Meat, Nervous System, Audit Fase 4)
+
+Siguiendo GUIDE-STS-METHODOLOGY-PHASE2-01 y PHASE3-01, completado transferencia "meat" restante, destilado, referencias agregadas. Audit Fase 4: Verificado metadata, IDs únicos, léxico canónico, fidelidad 100% (sin omisiones), zero duplicación, zero fat, idioma original preservado. Artifact compliant.
+
+### Título III: de las Obligaciones Funcionarias
+
+ID: LEY-18834-T3-OBLIGACIONES-01  
+
+#### Párrafo 1: Normas Generales
+
+ID: LEY-18834-P1-NORMAS-GEN-OBLIG-01  
+
+##### Artículo 61
+
+ID: LEY-18834-ART61-01  
+
+- Cpt: Obligaciones Funcionario. Def: Desempeñar funciones regular; orientar a objetivos institucionales; labores esmero/eficiencia; cumplir jornada/trabajos extraordinarios; cumplir destinaciones/comisiones; obedecer órdenes superior; observar probidad administrativa; guardar secreto asuntos reservados; vida social acorde dignidad cargo; proporcionar datos precisos institución; denunciar delitos Ministerio Público/tribunales; denunciar faltas administrativas; rendir fianza fondos; justificarse cargos públicos.  
+
+##### Artículo 62
+
+ID: LEY-18834-ART62-01  
+
+- Cond: Orden ilegal. Ctx: Representar por escrito.  
+- Cond: Reiterada. Ctx: Cumplir, exento responsabilidad (recae superior).  
+- Req: Copia. Ctx: Ambos envían jefatura superior 5 días.  
+
+##### Artículo 63
+
+ID: LEY-18834-ART63-01  
+
+- Cond: Cargos comprometen prestigio. Ctx: Superior ordena publicar descargos mismo medio.  
+
+##### Artículo 64
+
+ID: LEY-18834-ART64-01  
+
+- Cpt: Obligaciones Autoridades. Def: Control jerárquico funcionamiento/actuación personal; velar cumplimiento planes/normas; desempeñar ecuanimidad/instrucciones claras, condiciones trabajo eficientes.  
+
+#### Párrafo 2: de la Jornada de Trabajo
+
+ID: LEY-18834-P2-JORNADA-01  
+
+##### Artículo 65
+
+ID: LEY-18834-ART65-01  
+
+- Def: Jornada Ordinaria. Ctx: 44 horas semanales, lunes-viernes, max 9 diarias.  
+- Cpt: Jornada Parcial. Ctx: Nombrada por buen servicio.  
+- Req: Remuneración. Ctx: Proporcional tiempo.  
+- Prohib: Trabajos extraordinarios remunerados.  
+- Req: Trabajo Permanente. Ctx: Jornada ordinaria.  
+
+##### Artículo 66
+
+ID: LEY-18834-ART66-01  
+
+- Cpt: Trabajos Extraordinarios. Ctx: Ordenados jefe superior/Secretario Regional/Director Regional, post jornada, noche, fines semana, tareas impostergables.  
+- Ctx: Compensados descanso complementario o recargo remuneraciones si no posible descanso.  
+
+##### Artículo 67
+
+ID: LEY-18834-ART67-01  
+
+- Def: Trabajo Nocturno. Ctx: 21:00-07:00 día siguiente.  
+
+##### Artículo 68
+
+ID: LEY-18834-ART68-01  
+
+- Def: Descanso Complementario. Ctx: Tiempo trabajado +25% adicional.  
+- Cond: No posible. Ctx: Recargo 25% valor hora diaria.  
+- Mdl: Valor Hora. Ctx: Sueldo/asignaciones /190.  
+
+##### Artículo 69
+
+ID: LEY-18834-ART69-01  
+
+- Def: Descanso Nocturno/Fines Semana. Ctx: Tiempo trabajado +50% adicional.  
+- Cond: No otorgado. Ctx: Recargo 50% hora ordinaria.  
+
+##### Artículo 70
+
+ID: LEY-18834-ART70-01  
+
+- Req: Turnos/Descansos. Ctx: Jefe superior/Secretario/Director Regional.  
+
+##### Artículo 71
+
+ID: LEY-18834-ART71-01  
+
+- Prohib: Trabajo Tardes. Ctx: 17 sept, 24/31 dic.  
+- Excep: Art. 66.  
+
+##### Artículo 72
+
+ID: LEY-18834-ART72-01  
+
+- Prohib: Remuneración tiempo no trabajado. Excep: Feriados, licencias, permisos goce remuneraciones.  
+- Req: Descuento Mensual. Ctx: Tiempo no trabajado, remuneración diaria (mensual/30, /60, /190).  
+- Prohib: Afectar imposiciones.  
+- Req: Cálculo. Ctx: Sobre total remuneraciones.  
+- Ctx: Deducciones ingreso institución.  
+- Cond: Atrasos/Ausencias Reiteradas. Ctx: Sancionadas destitución post investigación.  
+
+#### Párrafo 3: de las Destinaciones, Comisiones de Servicio y Cometidos Funcionarios
+
+ID: LEY-18834-P3-DESTINACIONES-01  
+
+##### Artículo 73
+
+ID: LEY-18834-ART73-01  
+
+- Req: Funciones. Ctx: Solo cargo designado.  
+- Cpt: Destinaciones. Ctx: Ordenadas jefe superior, cualquier localidad misma institución/jerarquía.  
+
+##### Artículo 74
+
+ID: LEY-18834-ART74-01  
+
+- Cond: Cambio Residencia. Ctx: Notificar 30 días anticipación.  
+- Prohib: Cónyuges funcionarios misma localidad. Ctx: No destinar uno sin aceptación, salvo ambos mismo lugar simultáneo.  
+
+##### Artículo 75
+
+ID: LEY-18834-ART75-01  
+
+- Cpt: Comisión Servicio. Ctx: Designados jefe superior, funciones ajenas cargo, mismo órgano/otro, nacional/extranjero.  
+- Prohib: Funciones inferior jerarquía/ajenas conocimientos.  
+- Cpt: Autoridad. Ctx: Secretarios Regionales/Directores Regionales, dentro territorio nacional.  
+
+##### Artículo 76
+
+ID: LEY-18834-ART76-01  
+
+- Prohib: Comisión >3 meses al año. Ctx: Renovables iguales períodos, máximo 6.  
+- Cond: Presidente. Ctx: Extender ≤2 años casos calificados.  
+- Cond: Post plazos. Ctx: No designados hasta 1 año transcurrido.  
+- Excep: Ley 19.056. Ctx: No aplica estudios, ≤3 años; posgrados ≤5 años.  
+- Req: Jefe Servicio. Ctx: Solo si estudios relacionados funciones institución.  
+
+##### Artículo 77
+
+ID: LEY-18834-ART77-01  
+
+- Cond: Extranjero. Ctx: Decreto fundado, naturaleza/razones interés público (salvo misiones reservadas).  
+- Req: Decreto. Ctx: Indicar remuneración total/parcial, fuente legal gasto; firma Ministro Relaciones Exteriores.  
+
+##### Artículo 78
+
+ID: LEY-18834-ART78-01  
+
+- Cpt: Cometidos. Ctx: Desplazamiento labores específicas.  
+- Prohib: Orden formal. Excep: Generan gastos (resolución/decreto).  
+
+#### Párrafo 4: de la Subrogación
+
+ID: LEY-18834-P4-SUBROGACION-01  
+
+##### Artículo 79
+
+ID: LEY-18834-ART79-01  
+
+- Cond: Subrogación. Ctx: Cargo no desempeñado titular/suplente.  
+
+##### Artículo 80
+
+ID: LEY-18834-ART80-01  
+
+- Req: Asunción. Ctx: Funcionario misma unidad siguiente orden jerárquico, cumple requisitos.  
+
+##### Artículo 81
+
+ID: LEY-18834-ART81-01  
+
+- Cpt: Autoridad. Ctx: Otro orden subrogación en confianza exclusiva; no funcionarios unidad cumplen requisitos.  
+
+##### Artículo 82
+
+ID: LEY-18834-ART82-01  
+
+- Prohib: Sueldo cargo. Excep: Vacante o titular sin remuneración.  
+
+##### Artículo 83
+
+ID: LEY-18834-ART83-01  
+
+- Cond: Derecho sueldo. Ctx: Subrogación >1 mes.  
+
+#### Párrafo 5: de las Prohibiciones
+
+ID: LEY-18834-P5-PROHIBICIONES-01  
+
+##### Artículo 84
+
+ID: LEY-18834-ART84-01  
+
+- Prohib: Ejercer facultades no delegadas.  
+- Prohib: Intervenir asuntos interés propio/cónyuge/parientes ≤3° consanguinidad/≤2° afinidad.  
+- Prohib: Actuar juicio contra Estado. Excep: Derechos propios/cónyuge/parientes ≤3°.  
+
+#### Párrafo 6: de las Incompatibilidades
+
+ID: LEY-18834-P6-INCOMPATIBILIDADES-01  
+
+##### Artículo 85
+
+ID: LEY-18834-ART85-01  
+
+- Prohib: Desempeño. Ctx: Matrimonio, parentesco ≤3° consanguinidad/≤2° afinidad/adopción, relación jerárquica.  
+- Cond: Produce. Ctx: Subalterno destinado otra función.  
+- Excep: Ministros Estado dependientes.  
+
+##### Artículo 86
+
+ID: LEY-18834-ART86-01  
+
+- Prohib: Empleos Estatuto entre sí/otros estatales, incluso elección popular.  
+- Cond: Nombramiento incompatible. Ctx: Cese automático anterior.  
+- Ctx: Aplica cargos jornada parcial >44 horas semanales.  
+
+##### Artículo 87
+
+ID: LEY-18834-ART87-01  
+
+- Excep: Incompatibilidad. Ctx: Cargos docentes ≤12 horas semanales; funciones honorarios fuera jornada; ≤2 cargos consejos organismos estatales; subrogante/suplente/contrata; confianza/plazos determinados; directivos educación superior estatal.  
+
+##### Artículo 88
+
+ID: LEY-18834-ART88-01  
+
+- Req: Compatibilidad remuneraciones. Ctx: No exime obligaciones, compensar horas no trabajadas.  
+- Cond: d), e), f). Ctx: Conservan cargo, optan remuneraciones.  
+- Cond: Contrata. Ctx: Solo nueva empleo.  
+- Cond: Suplencias otra institución. Ctx: Aprobación jefe superior.  
+
+### Título IV: de los Derechos Funcionarios
+
+ID: LEY-18834-T4-DERECHOS-01  
+
+#### Párrafo 1: Normas Generales
+
+ID: LEY-18834-P1-NORMAS-GEN-DER-01  
+
+##### Artículo 89
+
+ID: LEY-18834-ART89-01  
+
+- Cpt: Derechos. Def: Estabilidad empleo, ascenso escalafón (excepto confianza), concursos, feriados, permisos, licencias, asistencia accidentes/enfermedades servicio, capacitación, prestaciones previsión/bienestar, protección maternidad.  
+
+##### Artículo 90
+
+ID: LEY-18834-ART90-01  
+
+- Req: Defensa. Ctx: Institución persigue responsabilidad civil/criminal atentados vida/integridad, injurias/calumnias.  
+- Req: Denuncia. Ctx: Jefe superior ante Tribunal, solicitud escrita funcionario.  
+- Cond: Afectado jefe superior. Ctx: Ministro correspondiente.  
+- Req: Investigación. Ctx: Autoridad inicia de oficio atentados vida/integridad física.  
+
+##### Artículo 90 A
+
+ID: LEY-18834-ART90A-01  
+
+- Cpt: Derechos Denunciantes. Ctx: Art. 61 letras k), l).  
+  - a) Prohib: Suspensión/destitución desde denuncia hasta resolución/no tener por presentada o 90 días post investigación.  
+  - Cond: Honorarios. Ctx: No terminar contrato por denuncia irregularidades.  
+  - b) Prohib: Traslado sin autorización escrita mismo período.  
+  - Req: Solicitud traslado. Ctx: Posible, especialmente denuncia superior.  
+  - Cond: Negativa. Ctx: Imposibilidad material servicio.  
+  - c) Prohib: Precalificados anualmente si denunciado superior, salvo solicitud denunciante.  
+  - Cond: No solicita. Ctx: Rige última calificación.  
+  - d) Cond: Hechos implican detrimento patrimonio fiscal. Ctx: Derecho anotación mérito mejora calificación, antecedentes precisos comprobables.  
+
+##### Artículo 90 B
+
+ID: LEY-18834-ART90B-01  
+
+- Req: Denuncia. Ctx: Fundada, identificación/domicilio denunciante, narración hechos, individualización autores/testigos, antecedentes/documentos.  
+- Req: Forma. Ctx: Escrita firmada; si no puede, tercero.  
+- Cond: Secreto identidad. Ctx: Solicitable.  
+- Prohib: Divulgación información.  
+- Cond: No cumple requisitos. Ctx: No presentada.  
+- Req: Resolución autoridad. Ctx: 3 días hábiles aceptación.  
+- Cond: No competencia. Ctx: 24 horas remitir competente.  
+- Cond: No pronuncia plazo. Ctx: Considerada presentada.  
+
+##### Artículo 90 C
+
+ID: LEY-18834-ART90C-01  
+
+- Prohib: Aplicación 90 A/90 B. Ctx: Denuncias Canal Contraloría, aplican títulos II/III/IV ley correspondiente.  
+
+##### Artículo 91
+
+ID: LEY-18834-ART91-01  
+
+- Req: Vivienda Gratuita. Ctx: Si labor requiere permanencia.  
+- Cond: No obligado. Ctx: Solicitar, pagando 10% sueldo.  
+- Req: Exclusivo. Ctx: Funcionarios localidad, jerarquía.  
+- Prohib: Si funcionario/cónyuge propietarios vivienda localidad.  
+
+##### Artículo 92
+
+ID: LEY-18834-ART92-01  
+
+- Cpt: Permuta Cargos. Ctx: Solicitable, salvo confianza exclusiva, entre iguales grado cumplan requisitos, aceptación autoridades.  
+- Ctx: Permutados último lugar escalafón hasta nueva calificación.  
+
+#### Párrafo 2: de las Remuneraciones y Asignaciones
+
+ID: LEY-18834-P2-REMUNERACIONES-01  
+
+##### Artículo 93
+
+ID: LEY-18834-ART93-01  
+
+- Req: Derecho. Ctx: Remuneraciones/asignaciones adicionales ley, regular/completa.  
+
+##### Artículo 94
+
+ID: LEY-18834-ART94-01  
+
+- Ctx: Devengo desde asunción cargo, pago mensual.  
+- Cond: Fechas pago. Ctx: Varían organismo, dispone Presidente.  
+- Cond: Traslado. Ctx: Devengo desde viaje; extranjero desde 15 días antes.  
+
+##### Artículo 95
+
+ID: LEY-18834-ART95-01  
+
+- Cpt: Embargo. Ctx: ≤50% resolución judicial alimentos o requerimiento Fisco/institución responsabilidad civil incumplimiento obligaciones.  
+
+##### Artículo 96
+
+ID: LEY-18834-ART96-01  
+
+- Prohib: Deducción remuneraciones. Excep: Impuestos, cotizaciones seguridad social, establecidas ley.  
+- Cond: Autorización. Ctx: Jefe superior/Secretario/Director Regional, petición escrita funcionario, ≤15% remuneración.  
+- Cond: Deducciones bienestar. Ctx: Límite reduce monto.  
+
+##### Artículo 97
+
+ID: LEY-18834-ART97-01  
+
+- Prohib: Anticipo remuneración. Excep: Dispuesto Estatuto.  
+
+##### Artículo 98
+
+ID: LEY-18834-ART98-01  
+
+- Cpt: Asignaciones. Def: Pérdida caja (manejo efectivo); movilización (visitas/labores fuera oficina); horas extraordinarias (no compensadas descanso); cambio residencia (mudanza por cargo, mes remuneración, pasajes, flete ≤1000 kg); viático/pasajes comisión servicio; otras leyes especiales.  
+
+##### Artículo 99
+
+ID: LEY-18834-ART99-01  
+
+- Ctx: Prescripción 6 meses exigibles.  
+
+##### Artículo 100
+
+ID: LEY-18834-ART100-01  
+
+- Cond: Servicio militar/reservas. Ctx: Conserva cargo sin remuneración, antigüedad no interrumpida.  
+- Cond: Llamado <30 días. Ctx: Remuneración total.  
+
+##### Artículo 101
+
+ID: LEY-18834-ART101-01  
+
+- Cond: Uso indebido derechos. Ctx: Reintegrar valores, sin perjuicio responsabilidad disciplinaria.  
+
+#### Párrafo 3: de los Feriados
+
+ID: LEY-18834-P3-FERIADOS-01  
+
+##### Artículo 102
+
+ID: LEY-18834-ART102-01  
+
+- Def: Feriado. Ctx: Descanso remuneración condiciones establecidas.  
+
+##### Artículo 103
+
+ID: LEY-18834-ART103-01  
+
+- Ctx: 15 días hábiles <15 años servicio; 20 días 15-<20 años; 25 días ≥20 años.  
+- Prohib: Sábados hábiles.  
+- Ctx: Computan años trabajados cualquier calidad, público/privado.  
+
+##### Artículo 104
+
+ID: LEY-18834-ART104-01  
+
+- Req: Solicitud. Ctx: Indicar fecha, no denegable.  
+- Cond: Necesidades servicio. Ctx: Jefe superior anticipar/postergar, dentro año respectivo. Excep: Uso conjunto siguiente.  
+- Prohib: Acumular >2 períodos consecutivos.  
+- Cond: No usado período ley 19.269. Ctx: Acumular siguiente, ≤30/40/50 días hábiles.  
+- Cond: Fraccionamiento. Ctx: Fracción ≥10 días, autorización necesidades servicio.  
+
+##### Artículo 104 bis
+
+ID: LEY-18834-ART104BIS-01  
+
+- Req: Derecho permisos art. 66 Código Trabajo.  
+
+##### Artículo 105
+
+ID: LEY-18834-ART105-01  
+
+- Prohib: Feriado. Ctx: Instituciones dejan funcionar >20 días año.  
+- Req: Completar feriado según años servicio.  
+- Excep: Deben trabajar período.  
+
+##### Artículo 106
+
+ID: LEY-18834-ART106-01  
+
+- Cond: Isla Pascua/Juan Fernández/Antártica. Ctx: Feriado aumentado tiempo viaje continente/regreso.  
+- Cond: Tarapacá/Antofagasta/Aisén/Magallanes/Chiloé/Palena. Ctx: +5 días hábiles.  
+
+##### Artículo 107
+
+ID: LEY-18834-ART107-01  
+
+- Prohib: Uso feriado ingreso. Ctx: Hasta año servicio cumplido.  
+
+#### Párrafo 4: de los Permisos
+
+ID: LEY-18834-P4-PERMISOS-01  
+
+##### Artículo 108
+
+ID: LEY-18834-ART108-01  
+
+- Def: Permiso. Ctx: Ausencia temporal casos indicados.  
+- Req: Conceder/Denegar. Ctx: Jefe superior/Secretario/Director Regional, discrecionalmente.  
+
+##### Artículo 109
+
+ID: LEY-18834-ART109-01  
+
+- Cpt: Permisos Particulares. Ctx: ≤6 días hábiles año, goce remuneraciones.  
+- Cond: Fraccionamiento. Ctx: Posible.  
+- Cpt: Días Descanso. Ctx: Días hábiles entre feriados/fin semana, goce remuneraciones, recuperación otra jornada.  
+
+##### Artículo 110
+
+ID: LEY-18834-ART110-01  
+
+- Cpt: Permiso sin Remuneración. Ctx: Motivos particulares ≤6 meses año; extranjero ≤2 años.  
+- Excep: Becas. Ctx: Límite no aplica.  
+
+#### Párrafo 5: de las Licencias Médicas
+
+ID: LEY-18834-P5-LICENCIAS-01  
+
+##### Artículo 111
+
+ID: LEY-18834-ART111-01  
+
+- Def: Licencia Médica. Ctx: Derecho ausencia/reducción jornada salud, prescripción médica autorizada.  
+- Ctx: Recibe remuneraciones durante.  
+- Cond: Postnatal Parental. Ctx: Mantienen remuneraciones.  
+
+##### Artículo 112
+
+ID: LEY-18834-ART112-01  
+
+- Req: Irrecuperabilidad AFP. Ctx: Resuelta Comisión Médica competente, normas legales.  
+
+##### Artículo 113
+
+ID: LEY-18834-ART113-01  
+
+- Ctx: Afecta todos empleos compatibles, impide reincorporación Administración Estado.  
+
+#### Párrafo 6: de las Prestaciones Sociales
+
+ID: LEY-18834-P6-PRESTACIONES-01  
+
+##### Artículo 114
+
+ID: LEY-18834-ART114-01  
+
+- Cond: Fallecimiento. Ctx: Cónyuge/conviviente/hijos/padres (orden) derecho remuneración hasta último día mes deceso.  
+
+##### Artículo 115
+
+ID: LEY-18834-ART115-01  
+
+- Req: Accidente Servicio/Enfermedad Desempeño. Ctx: Asistencia médica hasta recuperación total.  
+- Def: Accidente. Ctx: Lesión acto servicio causa muerte/incapacidad, dictamen Comisión Médica.  
+- Def: Enfermedad. Ctx: Causa directa ejercicio funciones, dictamen.  
+- Cpt: Asistencia. Ctx: Pago gastos médicos/hospitalarios/quirúrgicos/dentales/ortopédicos/terapéuticos hasta alta/imposibilidad entidad salud.  
+- Req: Procedimientos/Costos. Ctx: Determinados Servicio Salud, autoridad ordena pago.  
+- Req: Comprobación Accidente. Ctx: Investigación sumaria ≤10 días post hecho.  
+- Cpt: Accidente Servicio. Ctx: Trayecto residencia-trabajo.  
+
+##### Artículo 116
+
+ID: LEY-18834-ART116-01  
+
+- Cond: Irrecuperabilidad Accidente/Enfermedad. Ctx: Derecho pensión equivalente Instituto Normalización Previsional.  
+- Cond: Pensiones Sobrevivencia. Ctx: Fallecimiento accidente/enfermedad, viudez/orfandad partes iguales, 75% correspondía causante incapacitado.  
+- Req: Cargo. Ctx: Fisco/institución empleadora, aporte entidad previsional ley.  
+- Cond: Accidente fuera residencia. Ctx: Desplazamiento familiar/persona designada, institución paga pasajes ida/vuelta.  
+- Cond: Fallecimiento. Ctx: Gastos traslado fallecido/acompañante cargo institución.  
+- Ctx: Aplica funcionarios no ley 16.744.  
+
+##### Artículo 117
+
+ID: LEY-18834-ART117-01  
+
+- Req: Afiliación. Ctx: Servicios Bienestar según estatutos.  
+- Req: Aporte Administración. Ctx: Cada funcionario, ≤máximo legal.  
+- Cpt: Servicios Regionales. Ctx: Creables iniciativa Intendentes, aceptan afiliación organismos aplicables.  
+
+##### Artículo 118
+
+ID: LEY-18834-ART118-01  
+
+- Req: Asignaciones Familiares/Maternales. Ctx: Legislación vigente.  
+
+### Título V: de la Responsabilidad Administrativa
+
+ID: LEY-18834-T5-RESPONSABILIDAD-01  
+
+##### Artículo 119
+
+ID: LEY-18834-ART119-01  
+
+- Cond: Infracción Obligaciones. Ctx: Anotaciones demérito/medidas disciplinarias.  
+- Cpt: Responsabilidad Administrativa. Ctx: Infracción permite medidas, acreditadas investigación sumaria, confidencialidad/imparcialidad/celeridad/perspectiva género.  
+
+##### Artículo 120
+
+ID: LEY-18834-ART120-01  
+
+- Ctx: Independiente civil/penal.  
+- Ctx: Archivo provisional/oportunidad/suspensión condicional/acuerdos/condena/sobreseimiento/absolución no excluyen medidas disciplinarias.  
+- Cond: Destitución hechos delictivos absuelto. Ctx: Reincorporado cargo igual jerarquía, conserva derechos/beneficios.  
+- Cond: Otros sobreseimiento/absolución. Ctx: Pedir reapertura sumario; absuelto, reincorpora.  
+- Cond: No reincorpora 6 meses post absolución. Ctx: Exigir indemnización ≤3 años remuneración, ajustada IPC, pago único.  
+
+##### Artículo 121
+
+ID: LEY-18834-ART121-01  
+
+- Cpt: Sanciones. Def: Censura; Multa; Suspensión (30 días-3 meses); Destitución.  
+- Req: Aplicación. Ctx: Gravedad falta, atenuantes/agravantes.  
+- Cpt: Atenuante. Ctx: Cooperación eficaz esclarecer/identificar responsables.  
+- Req: Fiscal. Ctx: Indicar eficacia cooperación dictamen.  
+- Prohib: Atenuante. Ctx: Destitución obligatoria art. 125; autoridades elección popular/confianza.  
+- Cond: Cooperación eficaz denunciante. Ctx: Inhabilitación ingreso Administración 3 años, calificada autoridad.  
+- Prohib: Auto denuncia sin terceros.  
+- Cond: Destitución incumplimiento art. 84 m). Ctx: Fiscal eximir plazo art. 12 e).  
+
+##### Artículo 122
+
+ID: LEY-18834-ART122-01  
+
+- Def: Censura. Ctx: Reprensión escrita, anotada hoja vida, 2 puntos demérito.  
+
+##### Artículo 123
+
+ID: LEY-18834-ART123-01  
+
+- Def: Multa. Ctx: 5%-20% remuneración.  
+- Ctx: Mantiene obligación.  
+- Req: Anotación Hoja Vida. Ctx: ≤10% 2 puntos; >10%≤15% 3 puntos; >15% 4 puntos.  
+
+##### Artículo 124
+
+ID: LEY-18834-ART124-01  
+
+- Def: Suspensión. Ctx: Privación temporal empleo, 50%-70% remuneración, sin derechos cargo.  
+- Req: Anotación. Ctx: Hoja vida, 6 puntos demérito.  
+
+##### Artículo 125
+
+ID: LEY-18834-ART125-01  
+
+- Def: Destitución. Ctx: Decisión autoridad nombra terminar servicios.  
+- Cond: Procede. Ctx: Vulneración grave probidad administrativa.  
+- Cpt: Casos. Def: Ausencia >3 días sin justificación; infracción letras i-m art. 84; condena crimen/delito; denuncias falsas; hostigar denunciantes/testigos; otros Estatuto/leyes especiales.  
+
+##### Artículo 126
+
+ID: LEY-18834-ART126-01  
+
+- Cond: Hechos sancionables. Ctx: Jefe superior ordena investigación sumaria verificar hechos/responsables, designa investigador.  
+- Cond: Denuncia art. 84 l/m. Ctx: Autoridad solo desestima resolución fundada, notifica denunciante 5 días.  
+- Req: Notificaciones. Ctx: Personal; no hallado, carta certificada.  
+- Ctx: Investigación verbal, acta general, documentos, ≤5 días.  
+- Req: Cargos. Ctx: Formular, afectado 2 días responder.  
+- Cond: Prueba solicitada. Ctx: Fiscal fija ≤3 días.  
+- Req: Informe. Ctx: Fiscal emite 2 días (hechos, fundamentos, conclusiones).  
+- Prohib: Destitución resultado investigación sumaria. Excep: Casos Estatuto.  
+- Req: Resolución. Ctx: Autoridad 2 días, notifica afectado.  
+- Cpt: Recurso. Ctx: Reposición 2 días, apelación subsidio jefe superior.  
+- Req: Resolución Recurso. Ctx: 2 días.  
+
+##### Artículo 127
+
+ID: LEY-18834-ART127-01  
+
+- Cond: Mayor gravedad durante investigación. Ctx: Fin procedimiento, continúa como sumario administrativo.  
+
+##### Artículo 128
+
+ID: LEY-18834-ART128-01  
+
+- Cond: Gravedad exige. Ctx: Instrucción sumario administrativo.  
+
+##### Artículo 129
+
+ID: LEY-18834-ART129-01  
+
+- Resp: Orden Sumario. Ctx: Jefe superior/Secretario/Director Regional servicios nacionales, resolución designa fiscal (igual/mayor grado inculpado).  
+- Cond: Hechos art. 84 l/m. Ctx: Preferir fiscal formación acoso/género/derechos fundamentales.  
+- Req: Víctimas/Afectados. Ctx: Aportar antecedentes, conocer contenido desde cargos, notificados, interponer recursos igual inculpado.  
+- Ctx: Aplica reclamaciones arts. 137/140.  
+- Cond: Fiscal menor grado. Ctx: Continúa hasta cerrar investigación.  
+
+##### Artículo 130
+
+ID: LEY-18834-ART130-01  
+
+- Req: Notificación. Ctx: Fiscal, designa actuario comisión servicio.  
+- Def: Actuario. Ctx: Funcionario Estado, ministro fe, certifica actuaciones.  
+- Cond: Diligencias fuera ciudad. Ctx: Fiscal solicita ad-hoc.  
+- Req: Sumario. Ctx: Foliado, declaraciones/documentos, firmado fiscal/actuario.  
+
+##### Artículo 131
+
+ID: LEY-18834-ART131-01  
+
+- Req: Notificaciones. Ctx: Personal; no hallado 2 días, carta certificada, constancia.  
+- Req: Copia. Ctx: Resolución.  
+- Req: Domicilio. Ctx: Funcionarios citados fijan radio urbano fiscalía.  
+- Cond: No cumplen. Ctx: Notificar domicilio registrado/oficina afectado.  
+- Ctx: Notificado 3 días despachada carta.  
+
+##### Artículo 132
+
+ID: LEY-18834-ART132-01  
+
+- Req: Causales Implicancia/Recusación. Ctx: Formular segundo día citados inculpados.  
+
+##### Artículo 133
+
+ID: LEY-18834-ART133-01  
+
+- Cpt: Causales. Def: Interés directo/indirecto fiscal/actuario; amistad íntima/enemistad inculpados; parentesco ≤3° consanguinidad/≤2° afinidad/adopción inculpados.  
+
+##### Artículo 134
+
+ID: LEY-18834-ART134-01  
+
+- Cond: Recusación. Ctx: Fiscal/actuario dejan intervenir, salvo actividades no paralizables.  
+- Req: Resolución. Ctx: 2 días.  
+- Cond: Acoge. Ctx: Designa nuevo.  
+- Req: Implicados. Ctx: Fiscal/actuario declaran causales art. 133 o hechos imparcialidad.  
+- Resp: Resolución. Ctx: Autoridad ordenó sumario, mismo plazo.  
+- Req: Notificación. Ctx: Sumariado cada nombramiento nuevo fiscal/actuario.  
+
+##### Artículo 135
+
+ID: LEY-18834-ART135-01  
+
+- Req: Facultades Fiscal. Ctx: Amplias investigar, colaboración funcionarios.  
+- Ctx: Investigación 20 días, luego cargos/sobreseimiento, plazo 3 días.  
+- Cond: Casos calificados. Ctx: Prórroga ≤60 días, resuelve jefe superior/Secretario/Director Regional.  
+
+##### Artículo 136
+
+ID: LEY-18834-ART136-01  
+
+- Cond: Durante sumario. Ctx: Fiscal suspende/destina transitoriamente inculpados preventiva.  
+- Cond: Hechos art. 84 l/m. Ctx: Adoptar resguardo (gravedad, seguridad denunciante, condiciones trabajo, separación espacios, atención psicológica).  
+- Ctx: Medidas vigentes procedimiento disciplinario, terminan sobreseimiento/dictamen fiscal.  
+- Cond: Propone destitución. Ctx: Mantiene suspensión/destinación, cesan absolución/sanción menor.  
+- Cond: Prórroga suspensión. Ctx: Inculpado pierde 50% remuneraciones, percibe retroactivamente absolución/sanción < destitución.  
+
+##### Artículo 137
+
+ID: LEY-18834-ART137-01  
+
+- Cond: Propone sobreseimiento. Ctx: Envía antecedentes jefe superior/Secretario/Director Regional, aprobar/rechazar.  
+- Cond: Rechaza. Ctx: Completa investigación 5 días.  
+- Ctx: Sumario secreto hasta cargos, luego no para inculpado/abogado.  
+- Cond: Aprueba sobreseimiento. Ctx: Notifica denunciante 5 días, reclamo Contraloría 20 días conocimiento, sin perjuicio inc. 3 art. 131.  
+
+##### Artículo 138
+
+ID: LEY-18834-ART138-01  
+
+- Req: Notificación Cargos. Ctx: Inculpado, 5 días descargos/defensas/pruebas.  
+- Cond: Casos calificados. Ctx: Prórroga 5 días, solicitud antes vencimiento.  
+- Cond: Prueba solicitada. Ctx: Fiscal fija ≤20 días.  
+
+##### Artículo 139
+
+ID: LEY-18834-ART139-01  
+
+- Req: Dictamen Fiscal. Ctx: 5 días post contestación/plazo prueba, propone absolución/sanción.  
+- Req: Contenido. Ctx: Individualización inculpados; hechos investigados/comprobación; participación/culpabilidad; atenuantes/agravantes; propuesta sanciones/absolución.  
+- Cond: Hechos delitos. Ctx: Pedir remitir antecedentes justicia ordinaria.  
+
+##### Artículo 140
+
+ID: LEY-18834-ART140-01  
+
+- Req: Elevación. Ctx: Fiscal a jefe superior/Secretario/Director, resuelve 5 días absolución/medida disciplinaria.  
+- Cond: Destitución. Ctx: Elevar antecedentes competente.  
+- Req: Autoridad. Ctx: Ordenar nuevas diligencias/corregir vicios, fijar plazo.  
+- Cond: Nuevos cargos. Ctx: Notificar afectado, 3 días observaciones.  
+- Prohib: Sanción hechos no cargados.  
+- Req: Notificación. Ctx: Medida disciplinaria.  
+- Cond: Absolución/medida hechos art. 84 l/m. Ctx: Notificar denunciante 5 días, reclamo Contraloría 20 días.  
+- Req: Toma Razón. Ctx: Actos absuelven/aplican medidas primer nivel hechos art. 84 l/m, Contraloría, no antes plazo reclamación.  
+
+##### Artículo 141
+
+ID: LEY-18834-ART141-01  
+
+- Cpt: Recursos. Def: Reposición misma autoridad; Apelación superior jerárquico.  
+- Ctx: Apelación subsidiaria reposición no acogida.  
+- Req: Recursos. Ctx: Fundados, 5 días notificación, resolver 5 días.  
+
+##### Artículo 142
+
+ID: LEY-18834-ART142-01  
+
+- Cond: Acoge apelación/propone otra. Ctx: Devuelve resolución sumario, dicta 5 días.  
+
+##### Artículo 143
+
+ID: LEY-18834-ART143-01  
+
+- Cond: Vencidos plazos sin afinación. Ctx: Autoridad revisa, agiliza, determina responsabilidad fiscal.  
+- Cond: Incumplimiento art. 84 l/m. Ctx: Medidas ≤20 días vencimiento.  
+
+##### Artículo 144
+
+ID: LEY-18834-ART144-01  
+
+- Ctx: Vicios procedimiento no afectan legalidad si no influyen decisivamente resultados sumario.  
+
+##### Artículo 145
+
+ID: LEY-18834-ART145-01  
+
+- Ctx: Plazos días hábiles.  
+
+### Título VI: de la Cesación de Funciones
+
+ID: LEY-18834-T6-CESACION-01  
+
+##### Artículo 146
+
+ID: LEY-18834-ART146-01  
+
+- Cpt: Causas Cesación. Def: Aceptación renuncia; jubilación/pensión/renta vitalicia; vacancia; destitución; supresión empleo; término período legal; fallecimiento.  
+
+##### Artículo 147
+
+ID: LEY-18834-ART147-01  
+
+- Def: Renuncia. Ctx: Expresión voluntad dejar cargo, escrita.  
+- Ctx: Efecto aceptación formal, salvo fecha específica.  
+- Cond: Sumario antecedentes destitución. Ctx: Retener ≤30 días presentación.  
+- Cond: Cese funciones durante sumario. Ctx: Continúa hasta término, anotar sanción hoja vida.  
+
+##### Artículo 148
+
+ID: LEY-18834-ART148-01  
+
+- Cond: Confianza. Ctx: Remoción solicitud renuncia Presidente/autoridad.  
+- Cond: No presenta 48 horas. Ctx: Declara vacante.  
+
+##### Artículo 149
+
+ID: LEY-18834-ART149-01  
+
+- Cond: Jubilación/Pensión/Renta Vitalicia. Ctx: Cese día inicio pensión.  
+
+##### Artículo 150
+
+ID: LEY-18834-ART150-01  
+
+- Cpt: Vacancia. Def: Salud irrecuperable/incompatible; pérdida requisitos ingreso; calificación lista Eliminación/Condicional; no presentación renuncia art. 148.  
+
+##### Artículo 151
+
+ID: LEY-18834-ART151-01  
+
+- Def: Salud Incompatible. Ctx: Licencia médica >6 meses 2 años, sin irrecuperabilidad.  
+- Prohib: Contar licencias art. 115.  
+- Req: Evaluación. Ctx: Jefe superior solicita Comisión Medicina Preventiva Invalidez.  
+
+##### Artículo 152
+
+ID: LEY-18834-ART152-01  
+
+- Cond: Irrecuperable. Ctx: Retiro 6 meses notificación.  
+- Cond: No retira. Ctx: Vacancia.  
+- Ctx: Período no obligado trabajar, remuneraciones cargo empleador.  
+
+##### Artículo 153
+
+ID: LEY-18834-ART153-01  
+
+- Ctx: Término período/contrato cese inmediato.  
+- Cond: Notificado renovación. Ctx: Continúa.  
+
+##### Artículo 154
+
+ID: LEY-18834-ART154-01  
+
+- Cond: Supresión Empleo Reestructuración. Ctx: Funcionarios no encasillados/no requisitos jubilación derecho indemnización mes remuneración por año servicio, máximo 6.  
+- Ctx: Indemnización no imponible.  
+
+##### Artículo 155
+
+ID: LEY-18834-ART155-01  
+
+- Prohib: Reincorporación. Ctx: Prolonga indebidamente funciones, sin perjuicio penal.  
+- Req: Comunicación. Ctx: Autoridad a Contraloría.  
+
+##### Artículo 156
+
+ID: LEY-18834-ART156-01  
+
+- Cond: Prolongación. Ctx: Órgano/servicio no paralizable grave daño, no presenta reemplazo.  
+- Req: Informe. Ctx: Autoridad a Contraloría, medidas ≤30 días.  
+- Req: Derechos/Obligaciones. Ctx: Cargo.  
+
+### Título VII: de la Extinción de la Responsabilidad Administrativa
+
+ID: LEY-18834-T7-EXTINCION-01
+
+##### Artículo 157
+
+ID: LEY-18834-ART157-01
+
+- Cpt: Extinción Responsabilidad Administrativa. Def: Muerte; cese funciones; cumplimiento sanción; prescripción acción disciplinaria.
+
+##### Artículo 158
+
+ID: LEY-18834-ART158-01
+
+- Ctx: Prescripción acción disciplinaria 4 años desde acción/omisión.
+- Cond: Delito. Ctx: Prescribe junto acción penal.
+
+##### Artículo 159
+
+ID: LEY-18834-ART159-01
+
+- Cpt: Interrupción Prescripción. Ctx: Nueva falta funcionario.
+- Cpt: Suspensión. Ctx: Formular cargos.
+Cond: Proceso paralizado >2 años o 2 calificaciones sin sanción. Ctx: Plazo continúa sin interrupción.
+
+### Título Final: Disposiciones Varias
+
+ID: LEY-18834-TF-DISPOSICIONES-01  
+
+##### Artículo 160
+
+ID: LEY-18834-ART160-01  
+
+- Cpt: Reclamo. Ctx: Vicios legalidad ≤10 días hábiles conocimiento.  
+- Cond: Remuneraciones. Ctx: 60 días.  
+- Cond: Postulantes concursos. Ctx: 10 días.  
+- Req: Resolución Contraloría. Ctx: 20 días hábiles informe.  
+
+##### Artículo 161
+
+ID: LEY-18834-ART161-01  
+
+- Ctx: Prescripción derechos 2 años exigibles.  
+
+##### Artículo 162
+
+ID: LEY-18834-ART162-01  
+
+- Cpt: Estatutos Especiales. Def: Académicos Educación Superior; ley Nº 15.076; Servicio Exterior Relaciones Exteriores; Gendarmería; fiscalizadores instituciones; actividad televisiva Universidad Chile.  
+- Req: Aplicación. Ctx: Estatuto supletorio no regulado estatutos especiales.  
+
+##### Artículo 163
+
+ID: LEY-18834-ART163-01  
+
+- Req: Derogación. Ctx: Decreto ley Nº 338, 1960.  
+- Ctx: Referencias entienden presentes Estatuto Administrativo.  
+
+##### Artículo Final
+
+ID: LEY-18834-ARTFINAL-01  
+
+- Ctx: Cambio régimen no supresión cargo/término relación/indemnizaciones pago inmediato.  
+- Ctx: Pago indemnizaciones postergado cese servicios entidad, causa derecho percibirlo.  
+- Req: Cálculo. Ctx: Solo tiempo servido hasta cambio régimen, remuneraciones cese.  
 
 ## LEY BASES PROCEDIMIENTO ADMINISTRATIVO (LEY 19.880)
 
@@ -3588,12 +4741,12 @@ ID: REGL-OT-RRD-01
   - ID: REGL-OT-RRD-ART51-52-01
   - Cpt: SENAPRED supervisa actividades de GRD, incluyendo la ejecución de Instrumentos de Gestión a nivel regional.
 
-## 2. Análisis Jurídico-Institucional para el GORE
+### 2. Análisis Jurídico-Institucional para el GORE
 
 ID: KB-GN-SINAPRED-ANALISIS-JURIDICO-01
 Purp: Descomponer las implicancias de la nueva institucionalidad SINAPRED para el rol, competencias y desafíos del Gobierno Regional.
 
-### 2.1. Evolución del Marco Competencial del GORE
+#### 2.1. Evolución del Marco Competencial del GORE
 
 ID: SINAPRED-ANALISIS-EVOLUCION-01
 
@@ -3607,7 +4760,7 @@ ID: SINAPRED-ANALISIS-EVOLUCION-01
 - Res: GORE pasa de ser un actor con facultades generales a un componente orgánico de un sistema nacional jerarquizado.
 - Just: Se redefine la autonomía y el rol del GORE en la materia.
 
-### 2.2. Nueva Institucionalidad: Tensión Descentralización vs. Centralización
+#### 2.2. Nueva Institucionalidad: Tensión Descentralización vs. Centralización
 
 ID: SINAPRED-ANALISIS-INSTITUCIONALIDAD-01
 
@@ -3621,7 +4774,7 @@ ID: SINAPRED-ANALISIS-INSTITUCIONALIDAD-01
   - Ctx: SINAPRED establece que el Director Regional de SENAPRED *propone* los planes de GRD al Comité Regional.
   - Res: El GORE pasa a tener un rol clave en aprobación y financiamiento, pero la iniciativa técnica se desplaza a un órgano del nivel central desconcentrado.
 
-### 2.3. Gobernanza del Comité Regional: El Nudo Crítico
+#### 2.3. Gobernanza del Comité Regional: El Nudo Crítico
 
 ID: SINAPRED-ANALISIS-GOBERNANZA-COMITE-01
 
@@ -3636,7 +4789,7 @@ ID: SINAPRED-ANALISIS-GOBERNANZA-COMITE-01
   - Mech: El Comité aprueba los planes regionales.
   - Res: La influencia del GORE depende de su capacidad para construir consensos dentro del Comité.
 
-### 2.4. Instrumentos de Planificación: Desafío de Armonización
+#### 2.4. Instrumentos de Planificación: Desafío de Armonización
 
 ID: SINAPRED-ANALISIS-PLANIFICACION-01
 
@@ -3650,7 +4803,7 @@ ID: SINAPRED-ANALISIS-PLANIFICACION-01
   - Mech: Aunque la iniciativa es de SENAPRED, el Gobernador y las divisiones del GORE (DIPLADE) deben participar activamente en la consulta y elaboración.
   - Purp: Aportar la visión estratégica de largo plazo del GORE al enfoque técnico de SENAPRED.
 
-### 2.5. Rol del GORE en Financiamiento y Ejecución
+#### 2.5. Rol del GORE en Financiamiento y Ejecución
 
 ID: SINAPRED-ANALISIS-FINANCIAMIENTO-01
 
@@ -3663,7 +4816,7 @@ ID: SINAPRED-ANALISIS-FINANCIAMIENTO-01
 - Cpt: Asistencia a Municipios.
   - Mech: La transferencia de recursos a municipios (FRIL, Circular 33) es un vehículo para implementar acciones de GRD a nivel local.
 
-### 2.6. Conclusiones y Recomendaciones Estratégicas
+#### 2.6. Conclusiones y Recomendaciones Estratégicas
 
 ID: SINAPRED-ANALISIS-CONCLUSIONES-RECS-01
 
@@ -3744,14 +4897,14 @@ ID: RES30-CGR-FINALES-01
   - ID: RES30-CGR-ART31-01
   - Res: Rendiciones no presentadas, no aprobadas por GORE, u observadas por CGR, generan obligación de restituir recursos.
 
-## 2. Análisis Jurídico y Doctrinal
+### 2. Análisis Jurídico y Doctrinal
 
 ID: RES30-CGR-ANALISIS-01
 Dest: Equipo Jurídico del Gobierno Regional.
 Src: Especialista en Análisis Jurídico y Jurisprudencial.
 Purp: Analizar implicancias, responsabilidades y riesgos de la Res. 30 para la gestión del GORE.
 
-### 2.1. Introducción: Posición Central de la Res. 30
+#### 2.1. Introducción: Posición Central de la Res. 30
 
 ID: RES30-CGR-ANALISIS-INTRO-01
 
@@ -3768,7 +4921,7 @@ ID: RES30-CGR-ANALISIS-INTRO-01
     - Ctx: Es el rol más masivo y de mayor riesgo.
     - Ex: FNDR, 8%, FRIL.
 
-### 2.2. Análisis Detallado por Implicancias
+#### 2.2. Análisis Detallado por Implicancias
 
 ID: RES30-CGR-ANALISIS-DETALLE-01
 
@@ -3855,7 +5008,7 @@ ID: RES30-CGR-ANALISIS-DETALLE-01
     - Req: Unidad de Control y equipo jurídico deben tener un sistema de alerta temprana.
     - Ctx: La gestión proactiva (subsanar, exigir restitución) es fundamental para proteger el patrimonio fiscal y la responsabilidad funcionaria.
 
-### 2.3. Conclusiones y Recomendaciones Estratégicas
+#### 2.3. Conclusiones y Recomendaciones Estratégicas
 
 ID: RES30-CGR-ANALISIS-CONCLUSIONES-01
 Dest: Equipo Jurídico del GORE.
