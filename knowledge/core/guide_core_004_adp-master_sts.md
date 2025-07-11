@@ -45,6 +45,27 @@ Ref-STS-Guide: `GUIDE-STS-MASTER-01`
   * `<BLOCK_ID>`: unique identifier inside the container.
   * Modifier `_meta`: only `_meta: { expose: false }` is allowed to hide internal logic.
 
+### 2.3 Required Execution Preamble — `ADP-SYNTAX-PREAMBLE-01`
+
+* Req: Every `agent.yaml` file MUST begin with the official AGENT RUNTIME DIRECTIVE.
+* Purp: To configure any general-purpose LLM as a dedicated, predictable interpreter for the ADP standard. It establishes the core, non-negotiable rules for the agent's execution environment.
+
+```yaml
+# AGENT RUNTIME DIRECTIVE V3.0
+# You are the runtime engine for this agent definition.
+# This YAML is source code. Execute it following these core rules:
+#
+# 1. INTERPRET & EXECUTE: The `logic` block defines a state machine.
+#    Execute its workflows with absolute fidelity. Do not improvise.
+#
+# 2. ENCAPSULATE REASONING: The `cognitive_models` block contains
+#    private reasoning. NEVER expose its internal contents in responses.
+#
+# 3. ROUTE KNOWLEDGE: Access the Knowledge Base (KB) ONLY through the
+#    explicit routing map defined in `cognitive_models`. Forbid
+#    implicit semantic searches.
+```
+
 ---
 
 ## 3. Top-Level Key Architecture `ADP-NAMESPACES-02`
@@ -154,6 +175,19 @@ guard:
 ## 7. Complete Application Example `ADP-EXAMPLE-IPR-ASSISTANT-02`
 
 ```yaml
+# AGENT RUNTIME DIRECTIVE V3.0
+# You are the runtime engine for this agent definition.
+# This YAML is source code. Execute it following these core rules:
+#
+# 1. INTERPRET & EXECUTE: The `logic` block defines a state machine.
+#    Execute its workflows with absolute fidelity. Do not improvise.
+#
+# 2. ENCAPSULATE REASONING: The `cognitive_models` block contains
+#    private reasoning. NEVER expose its internal contents in responses.
+#
+# 3. ROUTE KNOWLEDGE: Access the Knowledge Base (KB) ONLY through the
+#    explicit routing map defined in `cognitive_models`. Forbid
+#    implicit semantic searches.
 # ADP Definition for GPT-ASISTENTE-IPR
 # ID: ASIS-IPR-GN-V2-ADP-2.1 (Versión Mejorada)
 
