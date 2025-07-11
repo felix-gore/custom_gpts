@@ -499,6 +499,7 @@ ID: DOC-GORENUBLE-CONCURSO8-2025-PRIVADOS-ETAPAS-01
 ID: DOC-GORENUBLE-CONCURSO8-2025-PRIVADOS-CRONOGRAMA-01
 
 - Ctx: El plazo de postulación para instituciones privadas comienza 5 días hábiles después de tramitada la resolución que aprueba el instructivo.
+- Ctx: Plazo de postulación: Del 16 de junio de 2025 al 16 de julio de 2025.
 - Cpt: Fases-del-Proceso
   - ID: DOC-GORENUBLE-CONCURSO8-2025-PRIVADOS-CRONOGRAMA-TABLA-01
 
@@ -1004,11 +1005,11 @@ ID: DOC-GORENUBLE-CONCURSO8-2025-SEGURIDAD-AREAS-MONTOS-01
 
     |Área de Postulación|Tipología de Proyecto y Especificaciones Técnicas Mínimas|
     |-|-|
-    |Prevención Situacional|- Cpt: Cámaras de Televigilancia. - Req: Cámaras IP (digital) Bullet y/o PTZ (mín. 4MP), protocolo ONVIF, Grabador (NVR/DVR), monitor (mín. 24"), cableado de red UTP Cat 6.|
-    |Prevención Situacional|- Cpt: Iluminación Peatonal (Fotovoltaica/Convencional). - Req: Iluminación LED (mín. 50W) exterior (IP65), luz cálida a neutra (1800-3000K), poste o brazo galvanizado. - Ctx: Se pueden instalar luminarias "All In One".|
+    |Prevención Situacional|- Cpt: Cámaras de Televigilancia. - Req: Cámaras IP (digital) Bullet y/o PTZ (mín. 4MP), protocolo ONVIF, Grabador (NVR/DVR), monitor (mín. 24"), cableado de red UTP Cat 6. - Ctx: En zonas rurales, pueden complementarse con microchip y/o panel solar.|
+    |Prevención Situacional|- Cpt: Iluminación Peatonal (Fotovoltaica/Convencional). - Req: Iluminación LED (mín. 50W) exterior (IP65), luz cálida a neutra (1800-3000K), poste o brazo galvanizado. - Ctx: Se permite el uso de postes de madera (polín 6" impregnado) o perfiles de acero (mín. 75x75mm, 3mm espesor). - Ctx: Se pueden instalar luminarias "All In One".|
     |Prevención Situacional|- Cpt: Sistema de Alerta Comunitaria. - Req: Tecnología 4G, gabinete metálico IP66, sirenas (30W, 120 dB), controles remotos larga distancia, baliza LED, respaldo de energía (UPS hasta 36 hrs), placas de advertencia. - Cpt: Requisitos-Adicionales   - Req: Formar comité de seguridad.   - Req: Crear WhatsApp grupal.   - Req: Realizar capacitaciones.   - Req: Crear protocolo de reacción.|
     |Prevención de Riesgos de Desastres|- Cpt: Recuperación de Espacios Públicos. - Mech: Intervención mediante limpieza, arborización, iluminación, reposición o reparación de equipamiento (juegos, escaños, etc.).|
-    |Prevención de Riesgos de Desastres|- Cpt: Kit de Prevención de Incendios. - Mech: Acciones preventivas (limpieza, cortafuegos) y/o reserva de agua. - Ex: Herramientas para desmalezamiento, piscina.|
+    |Prevención de Riesgos de Desastres|- Cpt: Kit de Prevención de Incendios. - Mech: Acciones preventivas (limpieza, cortafuegos) y/o reserva de agua. - Ex: Herramientas para desmalezamiento, piscina, carros de primera intervención contra incendios.|
     |Prevención de Riesgos de Desastres|- Cpt: Apoyo a la Escasez Hídrica. - Mech: Dotación de contenedores de agua potable (1000-1500L). - Cond: Comités de APR pueden postular a generador de respaldo para sistema de agua potable.|
 
 - Cpt: Tabla-de-Montos-Tope-por-Área-y-Tipo-de-Organización
@@ -1081,6 +1082,7 @@ ID: DOC-GORENUBLE-CONCURSO8-2025-PUBLICOS-GASTOS-PLAZOS-ADM-01
 - Cpt: Gastos-Financiables
   - Ctx: La estructura de gastos (Equipamiento, Gestión y Producción, Difusión, Honorarios) y sus valores son idénticos a los de fondos para instituciones privadas. Ref: DOC-GORENUBLE-CONCURSO8-2025-DEPORTE-GASTOS-TABLA-01.
 - Cpt: Plazos-del-Proceso
+  - Ctx: Plazo de postulación: Del 16 de junio de 2025 al 16 de julio de 2025.
   - ID: DOC-GORENUBLE-CONCURSO8-2025-PUBLICOS-CRONOGRAMA-01
 
     |Fase|Actividad|Duración|
