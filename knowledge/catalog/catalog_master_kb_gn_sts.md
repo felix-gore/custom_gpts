@@ -45,7 +45,7 @@ Cpt: Skeleton.
 - "## Párrafo 9º De las Corporaciones, Fundaciones y Asociaciones Regionales"
 - "## Párrafo 10 De la participación ciudadana"
 
-### kb_gn_032_catalogo_ris_sts.md ("kb_gn_101_oferta_vigente - ris" si se utiliza google spreadsheet)
+### kb_gn_032_catalogo_ris_sts.md ("kb_gn_101_oferta_vigente_ ris" si se utiliza google spreadsheet)
 
 ID: CATALOG-GN-KB-032
 Purp: Presentar la nómina oficial y detallada de los 74 Requisitos de Información Sectorial (RIS) vigentes, clasificados por sector y subsector, incluyendo los enlaces directos a los documentos normativos en el sitio web del Sistema Nacional de Inversiones (SNI).
@@ -107,7 +107,7 @@ Cpt: Skeleton.
 - "## 2. CONVENIOS Y ACUERDOS"
 - "## 3. COMUNICACIONES OFICIALES Y ESCRITOS DE PROCEDIMIENTO"
 
-### kb_gn_110_convenios_2022-2025.md
+### kb_gn_110_convenios_2022_2025.md
 
 ID: CATALOG-GN-KB-110
 Purp: Funcionar como un registro tabular detallado de los convenios suscritos por el GORE Ñuble entre 2022 y 2025, especificando la contraparte, el tipo de convenio, la fuente de financiamiento y el estado actual de cada acuerdo.
@@ -143,22 +143,32 @@ Cpt: Skeleton.
 - "## Ley SINAPRED y sus Implicancias para GORE"
 - "## 1. Resolución N° 30 de 2015 (CGR)"
 
-### kb_gn_023_intro_gores_sts.md
+### kb_gn_000_intro_gores_nuble.md
 
-ID: CATALOG-GN-KB-023
-Purp: Servir como una guía introductoria e integral a la administración de los Gobiernos Regionales (GORE) en Chile, cubriendo sus fundamentos constitucionales, estructura organizacional, competencias y el marco de gestión financiera, actualizada a mayo de 2025.
+ID: CATALOG-GN-KB-000
+Purp: Servir como una guía integral y detallada sobre la administración, estructura, competencias, gestión financiera y contexto estratégico del Gobierno Regional de Ñuble, integrando el marco normativo con la realidad institucional para asistir a funcionarios y autoridades.
 Cpt: Skeleton.
 
-- "## Parte I: Fundamentos de la Administración Regional en Chile"
+- "## Parte I: Fundamentos y Contexto de la Administración Regional en Ñuble"
 - "### 1. Introducción General al Gobierno Regional y al Manual"
-- "### 2. Marco Constitucional, Legal e Institucional de la Administración Regional"
-- "## Parte II: El Gobierno Regional (GORE): Estructura, Funciones y Competencias"
-- "### 3. Estructura y Organización del Gobierno Regional (GORE)"
-- "### 4. Competencias y Funciones del Gobierno Regional"
-- "## Parte III: Gestión Financiera, de Inversiones y Rendición de Cuentas"
-- "### 5. Gestión Presupuestaria y Financiamiento Regional"
-- "### 6. Gestión del Ciclo de Vida de las Intervenciones Públicas Regionales (IPR)"
-- "### 7. Rendición de Cuentas"
+- "### 2. Contexto de la Región de Ñuble"
+- "### 3. Marco Constitucional, Legal e Institucional"
+- "## Parte II: El Gobierno Regional de Ñuble: Estructura, Funciones y Competencias"
+- "### 4. Estructura y Organización del GORE Ñuble"
+- "### 5. Competencias y Funciones del Gobierno Regional"
+- "## Parte III: Gestión Financiera, de Inversiones y Control"
+- "### 6. El Sistema Presupuestario Regional"
+- "### 7. Gestión del Ciclo de Vida de las Intervenciones Públicas Regionales (IPR)"
+- "### 8. Rendición de Cuentas y Gobernanza del Control"
+- "## Parte IV: Diagnóstico Estratégico para la Región de Ñuble"
+- "### 9. Desafíos Regionales"
+- "### 10. Oportunidades Estratégicas"
+- "### 11. Visión y Estrategia de Desarrollo Regional"
+- "## Parte V: Transformación Digital del Estado: Marco Aplicable al GORE"
+- "### 12. Fundamentos de la Estrategia de Gobierno Digital"
+- "### 13. Marco Institucional y Normativo de la TDE"
+- "### 14. Pilares Habilitadores de la TDE para el GORE"
+- "### 15. Gestión de Proyectos TIC y Capacidades Digitales"
 
 ### kb_gn_024_guia_idi_sni_sts.md
 
@@ -212,7 +222,7 @@ Cpt: Skeleton.
 - "### 10.2. Proyectos de Conservación de Infraestructura Pública (Circular 33)"
 - "### 10.3. Iniciativas de Inversión para Reconstrucción por Emergencias"
 
-### kb_gn_025_guia-programas_sts.md
+### kb_gn_025_guia_programas_sts.md
 
 ID: GUIDE-GN-PPR-DIRECT-EXEC-01
 Purp: Establecer el marco metodológico y normativo para la formulación y evaluación de Programas Públicos Regionales (PPR) que son ejecutados directamente por el Gobierno Regional y, por tanto, sujetos al proceso de evaluación ex-ante de la Dirección de Presupuestos (DIPRES) y la Subsecretaría de Evaluación Social (SES), según la Glosa 06 de la Ley de Presupuestos.
@@ -244,7 +254,7 @@ Cpt: Skeleton.
 - "## 4.0 Reglas para Organismos Públicos (Municipalidades)"
 - "## 5.0 Anexos (Formatos y Declaraciones)"
 
-### kb_gn_026_guia-fril_sts.md
+### kb_gn_026_guia_fril_sts.md
 
 ID: GUIDE-GN-FRIL-OPERATIVE-01
 Purp: Regular el procedimiento operativo del Fondo Regional de Iniciativa Local (FRIL) para la Región de Ñuble, detallando las tipologías de proyectos financiables, los requisitos de postulación para municipalidades, el proceso de evaluación y las normas de ejecución.
@@ -277,7 +287,7 @@ Cpt: Skeleton.
 - "### 5.2. Proceso de Revisión"
 - "### 5.3. Casos No Aceptables para Reevaluación"
 
-### kb_gn_027_guia-frpd_sts.md
+### kb_gn_027_guia_frpd_sts.md
 
 ID: GUIDE-GN-FRPD-OPERATIVE-01
 Purp: Establecer la guía operativa para el concurso 2025 del Fondo Regional para la Productividad y el Desarrollo (FRPD) en Ñuble, definiendo los pilares estratégicos, las instituciones habilitadas, el proceso de postulación y los criterios de evaluación técnica.
@@ -320,7 +330,7 @@ Cpt: Skeleton.
 - "### 14.10. Protección de Datos Personales"
 - "### 14.11. Normativa Específica del FRPD"
 
-### kb_gn_028_instructivo-subvencion-8_sts.md
+### kb_gn_028_instructivo_subvencion_8_sts.md
 
 ID: GORENUBLE-SUBV8-2025-MASTER-02
 Purp: Normar el Concurso de Vinculación con la Comunidad del 8% del FNDR para el año 2025, estableciendo el marco legal, los fondos disponibles, los procedimientos de postulación, los gastos financiables, y las pautas de evaluación tanto para instituciones privadas como para municipalidades.
@@ -419,7 +429,7 @@ Cpt: Skeleton.
 - "## Parte IV: Diseño y Entrega de Valor Público"
 - "## Parte V: Anexos y Referencias Consolidadas"
 
-### kb_gn_011_selector-ipr_sts.md
+### kb_gn_011_selector_ipr_sts.md
 
 ID: CATALOG-GN-KB-011
 Purp: Orientar a los formuladores de proyectos en la selección estratégica del mecanismo de financiamiento más adecuado del GORE Ñuble para una Intervención Pública Regional (IPR), antes de su formulación detallada, a través de un árbol de decisión.
@@ -448,7 +458,7 @@ Cpt: Skeleton.
 - "## GORE-FIN-HERRAMIENTAS-01: Herramientas de Soporte"
 - "## GORE-FIN-CONCLUSION-01: Conclusión"
 
-### kb_gn_019_gestion-ipr_sts.md
+### kb_gn_019_gestion_ipr_sts.md
 
 ID: CATALOG-GN-KB-019
 Purp: Detallar la guía operacional para la gestión completa del ciclo de vida de una Intervención Pública Regional (IPR) en el GORE Ñuble, desde su ingreso y admisibilidad, pasando por la evaluación técnica, financiamiento, ejecución y seguimiento, hasta su cierre.
@@ -463,7 +473,7 @@ Cpt: Skeleton.
 - "## 7. Fase 6: Gestión de Modificaciones de la IPR (Reevaluación)"
 - "## 8. Fase 7: Cierre y Evaluación Ex-Post"
 
-### kb_gn_013_vision-desarrollo-nuble_sts.md
+### kb_gn_013_vision_desarrollo_nuble_sts.md
 
 ID: CATALOG-GN-KB-013
 Purp: Consolidar la visión estratégica para el desarrollo de la Región de Ñuble, integrando la Estrategia Regional de Desarrollo (ERD) 2024-2030, la propuesta programática del Gobernador Óscar Crisóstomo para 2025-2029 y el concepto de "Ñuble Inteligente".
@@ -473,7 +483,7 @@ Cpt: Skeleton.
 - "## 2. Propuesta Programática Gobernador Óscar Crisóstomo 2025-2029"
 - "## 3. Visión Ñuble Inteligente"
 
-### kb_gn_012_progs_vigentes.md ("kb_gn_101_oferta_vigente - progsnb" si se utiliza google spreadsheet)
+### kb_gn_012_progs_vigentes.md ("kb_gn_101_oferta_vigente _ progsnb" si se utiliza google spreadsheet)
 
 ID: CATALOG-GN-KB-012
 Purp: Servir como un catálogo de la oferta programática vigente en la Región de Ñuble, detallando para cada programa su objetivo, beneficiarios, estrategia y la institución responsable de su ejecución.
@@ -481,22 +491,7 @@ Cpt: Skeleton.
 
 - "Documento compuesto por una única tabla de datos."
 
-### kb_gn_000_contexto-gore-nuble_sts.md
-
-ID: CATALOG-GN-KB-000
-Purp: Proveer una base de conocimiento fundacional y estructurada (en formato STS) sobre la Región de Ñuble, detallando su geografía, demografía, estructura de autoridades, indicadores socioeconómicos y marco de gobernanza.
-Cpt: Skeleton.
-
-- "## 2. Contexto General"
-- "## 3. Indicadores Territoriales"
-- "## 4. Gobernanza y Capacidad Institucional"
-- "## 5. Gestión del Riesgo de Desastres (GRD)"
-- "## 6. Instrumentos de Focalización Social"
-- "## 7. Marco Normativo y Competencial GORE"
-- "## 8. Estructura y Gestión Interna GORE Ñuble"
-- "## 9. Diagnóstico Estratégico Regional"
-
-### kb_core_007_estructura-estado-chile_sts.md
+### kb_core_007_estructura_estado_chile_sts.md
 
 ID: CATALOG-CORE-KB-007
 Purp: Detallar la estructura y gobernanza del Estado de Chile en formato STS, abarcando sus fundamentos, los tres poderes centrales (Legislativo, Judicial, Ejecutivo), la organización territorial (regional y comunal) y los órganos autónomos de control.
@@ -509,7 +504,7 @@ Cpt: Skeleton.
 - "## 5. Administración Financiera del Estado"
 - "## 6. Anexo: Caso de Estudio Socio-Territorial (Región de Ñuble)"
 
-### kb_gn_004_problemas-sociales-cl_sts.md
+### kb_gn_004_problemas_sociales_cl_sts.md
 
 ID: CATALOG-GN-KB-004
 Purp: Sistematizar y catalogar los principales problemas sociales de Chile en formato STS, organizados en catorce dominios (Salud, Desarrollo Social, Seguridad, etc.), para servir como base en el diagnóstico y diseño de políticas públicas.
@@ -530,7 +525,7 @@ Cpt: Skeleton.
 - "## 13. Educación"
 - "## 14. Ciencia, Tecnología e Innovación"
 
-### kb_gn_001_guia-transferencia-programas_sts.md
+### kb_gn_001_guia_transferencia_programas_sts.md
 
 ID: GUIDE-PPR-TRANSFER-PUBLIC-01
 Purp: Estandarizar el procedimiento de postulación, evaluación y transferencia de fondos FNDR para la ejecución de Programas Públicos Regionales (PPR) por parte de entidades públicas.
@@ -607,7 +602,7 @@ Cpt: Skeleton.
 
 - "Documento compuesto por una única tabla de datos."
 
-### kb_gn_003_idis.md ("kb_gn_101_oferta_vigente - idisnb" si se utiliza google spreadsheet)
+### kb_gn_003_idis.md ("kb_gn_101_oferta_vigente_ idisnb" si se utiliza google spreadsheet)
 
 ID: CATALOG-GN-KB-003
 Purp: Proveer un catálogo detallado de las Iniciativas de Inversión (IDIs) del Gobierno Regional de Ñuble. La información está organizada en una tabla que especifica el año presupuestario, tipología, provincia, comuna, código BIP, nombre y montos adjudicados para cada proyecto.
