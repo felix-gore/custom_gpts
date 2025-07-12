@@ -1510,256 +1510,601 @@ Abreviaturas
 
 ## Indicadores de seguridad
 
-###  ENCUESTA NACIONAL URBANA DE SEGURIDAD CIUDADANA (ENUSC) 2023 Región de Ñuble
+### ENCUESTA NACIONAL URBANA DE SEGURIDAD CIUDADANA (ENUSC) 2024 Región de Ñuble
 
-#### Victimización hogares por región (2023)
+A continuación, se presentan los resultados de la Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC) para el año 2024, correspondientes a la Región de Ñuble.
 
-|Región|% Victimización|
+#### 1. FICHA TÉCNICA
+
+##### FICHA TÉCNICA: ENUSC 2024
+
+| | |
 |-|-|
-|País|21,7%|
-|Región de Arica y Parinacota|33,0%|
-|Región de Tarapacá|28,8%|
-|Región de Antofagasta|16,9%|
-|Región de Atacama|16,7%|
-|Región de Coquimbo|15,7%|
-|Región de Valparaíso|20,1%|
-|Región Metropolitana|26,2%|
-|Región de O'Higgins|17,7%|
-|Región del Maule|15,5%|
-|Región de Ñuble|15,4%|
-|Región del Biobío|19,1%|
-|Región de La Araucanía|15,8%|
-|Región de Los Ríos|21,6%|
-|Región de Los Lagos|15,2%|
-|Región de Aysén|8,2%|
-|Región de Magallanes|3,8%|
+| Población objetivo | Hogares y personas de 15 años o más que lo componen, residentes de viviendas particulares ocupadas de zonas urbanas de 136 comunas incluidas en el marco muestral de ENUSC. |
+| Diseño muestral | Probabilístico, trietápico, estratificado con igual probabilidad de selección en cada etapa. |
+| Tamaño muestral efectivo | 24.472 viviendas |
+| Error absoluto observado | Nacional | 0,5% |
+| | Regional | Mínimo: 0,9% (Región Metropolitana) <br> Máximo: 2,1% (Tarapacá) |
+| Indicadores de desempeño operativo | Operativo | 244 personas encuestadoras <br> 49 personas encargadas de grupo 45 supervisores/as <br> 8 personas encargadas regionales <br> 6 personas encargadas macrozonales |
+| | Tasa de logro | 101,9% a nivel nacional |
+| | Tasa contacto | 87,7% a nivel nacional |
+| | Tasa rechazo | 6,7% a nivel nacional |
+| | Tasa cooperación | 90,5% a nivel nacional |
+| | Tasa de respuesta | 80,1% a nivel nacional |
+| Período de recolección | Octubre a diciembre del 2024 |
+| Tipo de entrevista | Presencial |
+| Método de captura | Dispositivos Móviles de Captura (CAPI - Computer Assisted Personal Interviewing) |
+| Período de registro | Octubre 2023 a diciembre del 2024 |
+| Variable de diseño | Victimización agregada de hogares por delitos violentos |
+| Nivel de estimación | Nacional y regional |
+| Unidad de análisis | Hogares/Personas de 15 años o más |
+| Contraste 2023 - 2024 | El factor de expansión ENUSC fue mejorado para ajustarse al stock poblacional regional en base a las comunas presentes en el diseño muestral, por lo que el dato de ENUSC 2023 publicado para la presente versión puede diferir en relación con lo publicado anteriormente. <br> Para mayor detalle revisar Informe Metodológico ENUSC 2024 y Separata técnica ENUSC 2024. |
+| Contraste serie histórica | Para realizar comparaciones en la serie histórica, se consideran solo las 102 comunas, presentes en el diseño muestral de ENUSC 2015 – 2022, y no las 136 comunas de la cobertura ENUSC 2023 – 2024. Para mayor información revisar <ins>Informe Metodológico ENUSC 2023 del INE</ins>. |
+| Variaciones interanuales ENUSC 2023-2024 | Para determinar si las diferencias observadas entre las estimaciones de la ENUSC 2024 y 2023 son estadísticamente significativas, se aplicaron pruebas de hipótesis con un nivel de confianza del 95%. Esto significa que una diferencia se considera estadísticamente significativa cuando existe un 95% de certeza de que dicha variación no se debe al azar o a la variabilidad muestral, sino que refleja un cambio real en la población. Es decir, solo hay un 5% de probabilidad de que la diferencia observada sea producto del azar. La prueba utilizada es t de student. |
 
-#### Evolución — Victimización hogares Región de Ñuble
+#### 2. VICTIMIZACIÓN
 
-|Año|% Victimización|
-|-|-|
-|2018|23,8%|
-|2019|19,1%|
-|2020|19,3%|
-|2021|13,8%|
-|2022|14,3%|
-|2023|15,4%|
+##### AGRUPACIÓN POR DELITOS VIOLENTOS: VICTIMIZACIÓN
 
-#### Percepción de aumento de la delincuencia por regiones (2023)
+* Desde el 2023, se implementó la medición de victimización por delitos violentos, reemplazando los delitos de mayor connotación social para obtener una visión más completa del fenómeno. Esta actualización alinea al país con estándares de la Oficina de Naciones Unidas contra la Droga y el Delito (UNODC) con el objetivo de estandarizar las mediciones de victimización y percepción de seguridad, permitiendo una comparación rigurosa y el diseño de políticas públicas basadas en evidencia.
+* El indicador incluye a todas las personas u hogares que, durante los 12 meses previos a la entrevista, fueron víctima de al menos de uno de los siete delitos considerados, en los cuales se usó la violencia.
 
-|Región|País|Comuna|Barrio|
+> En el caso de los robos con violencia o intimidación y las agresiones-lesiones, siempre son considerados ya que, por definición son delitos violentos, sin embargo, los otros delitos solo se consideran en el caso de que se haya usado la violencia según las víctimas.
+
+##### VICTIMIZACIÓN HOGARES POR DELITOS VIOLENTOS
+
+Hogares de la Región, 2023-2024*
+
+Proporción de hogares de la región por tipo de delito
+
+| | 2023 | 2024 |
+|-| :---: | :---: |
+| Amenaza violenta | 2,2% | 2,8% |
+| Robo con violencia o intimidación | 1,7% | 1,3% |
+| Agresiones/lesiones | 0,7% | 0,9% |
+| Robo por sorpresa con violencia | 0,3% | 0,3% |
+| Extorsión violenta | 0,3% | 0,2% |
+| Robo de vehículo con violencia | 0,6% | 0,0% |
+| Robo de vivienda con violencia | 0,1% | 0,0% |
+
+⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad
+
+* INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)
+
+##### VICTIMIZACIÓN HOGARES POR DELITOS VIOLENTOS
+
+Comparación por regiones 2023-2024*
+
+¿Pensando en los últimos 12 meses, usted o algún integrante de su hogar fue víctima ...?
+Robos con violencia o intimidación, agresiones/lesiones, robo por sorpresa con violencia, robo de vehículo con violencia, amenazas violentas o extorsión violenta
+
+⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad
+
+* INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)
+
+##### VICTIMIZACIÓN PERSONAL POR DELITOS VIOLENTOS
+
+Personas de la Región, 2023-2024*
+
+Proporción de personas de la región por tipo de delito
+
+| | 2023 | 2024 |
+|-| :---: | :---: |
+| Amenazas Violentas | 1,4% | 1,9% |
+| Agresiones y lesiones | 0,4% | 0,5% |
+| Robo con violencia e intimidación | 1,1% | 0,5% |
+| Extorsión | 0,1% | 0,1% |
+| Robo por sorpresa | 0,3% | 0,1% |
+| Robo de Vehículo | 0,3% | 0,0% |
+| Robo en la vivienda | 0,1% | 0,0% |
+
+* INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)
+
+##### VICTIMIZACIÓN PERSONAL POR DELITOS VIOLENTOS
+
+###### Comparación por regiones, 2023-2024*
+
+¿Pensando en los últimos 12 meses, usted fue víctima ...?
+Robos con violencia o intimidación, agresiones/lesiones, robo por sorpresa con violencia, robo de vehículo con violencia, amenazas violentas o extorsión violenta
+
+* Total País: 2023: 5,7%, 2024: 5,8%.
+* Arica y Parinacota: 2023: 5,3%, 2024: 7,2%.
+* Tarapacá: 2023: 6,1%, 2024: 6,5%.
+* Antofagasta: 2023: 5,0%, 2024: 3,6%.
+* Atacama: 2023: 5,7%, 2024: 4,3%.
+* Coquimbo: 2023: 2,9%, 2024: 4,5%.
+* Valparaíso: 2023: 4,8%, 2024: 5,9%.
+* Metropolitana: 2023: 7,1%, 2024: 7,2%.
+* O'Higgins: 2023: 3,6%, 2024: 4,8%.
+* Maule: 2023: 3,1%, 2024: 3,4%.
+* Ñuble: 2023: 3,4%, 2024: 2,9%.
+* Biobío: 2023: 4,9%, 2024: 3,8%.
+* Araucanía: 2023: 3,7%, 2024: 4,8%.
+* Los Ríos: 2023: 3,5%, 2024: 4,8%.
+* Los Lagos: 2023: 2,8%, 2024: 3,0%.
+* Aysén: 2023: 2,1%, 2024: 2,0%.
+* Magallanes: 2023: 2,0%, 2024: 2,6%.
+
+An upward arrow next to the Arica y Parinacota region indicates a statistically significant increase in 2024.]
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+##### VICTIMIZACIÓN HOGARES: DELITOS NO VIOLENTOS
+
+###### Hogares de la Región, 2023-2024*
+
+####### Robos no violentos
+
+* 2023: 9,1%
+* 2024: 10,8%
+
+| Tipo de Robo | 2023 | 2024 |
+|-|-|-|
+| Robo desde vehículo** | 8,9% | 10,3% |
+| Robo en la vivienda no violento | 4,1% | 4,7% |
+| Robo por sorpresa no violento | 1,2% | 1,3% |
+| Robo de vehículo no violento** | 0,9% | 0,8% |
+
+####### Económicos
+
+* 2023: 5,1%
+* 2024: 9,1% (Statistically significant increase)
+
+| Tipo de Delito | 2023 | 2024 |
+|-|-|-|
+| Fraudes | 2,7% | 5,9% (Statistically significant increase) |
+| Estafas | 2,5% | 3,3% |
+
+####### Hurtos
+
+* 2023: 3,4%
+* 2024: 5,0% (Statistically significant increase)
+
+**Respecto del total de hogares que poseen vehículo.
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+##### VICTIMIZACIÓN HOGARES: OTROS DELITOS
+
+###### Hogares de la Región, 2023-2024*
+
+####### Delitos Cibernéticos
+
+* 2023: 4,3%
+* 2024: 5,6%
+
+| Tipo de Delito | 2023 | 2024 |
+|-|-|-|
+| Hackeo redes sociales o correo electrónico | 2,6% | 3,9% |
+| Software Malicioso | 0,8% | 1,0% |
+| Acoso por internet o Ciberbullying | 0,9% | 0,9% |
+| Suplantación Identidad | 0,6% | 0,7% |
+
+####### Delitos de odio
+
+* 2023: 0,2%
+* 2024: 0,1%
+
+Agrupación compuesta por hogares víctimas de los delitos de:
+
+* Amenazas
+* Agresiones/lesiones
+* Vandalismo vehículo
+* Vandalismo vivienda
+* Acoso por internet o Ciberbullying
+
+En estos casos las víctimas identificaron que el motivo de ocurrencia del delito fue por una motivación de odio.
+
+####### Vandalismo
+
+* 2023: 4,2%
+* 2024: 5,0%
+
+| Tipo | 2023 | 2024 |
+|-|-|-|
+| Vehículos | 5,6% | 6,9% |
+| Viviendas | 1,9% | 1,6% |
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+#### 3. DENUNCIA
+
+##### DENUNCIA POR DELITOS VIOLENTOS
+
+###### Hogares de la Región 2023-2024*
+
+[Left Chart: A stacked bar chart titled "Proporción de hogares víctimas de delitos violentos que denunciaron 2023-2024".
+
+* 2023: Sí (Reported) 57,7%, No (Not Reported) 42,3%.
+* 2024: Sí (Reported) 46,3%, No (Not Reported) 53,7%.]
+
+[Right Chart: A bar chart titled "Proporción de hogares víctimas de delitos violentos específicos que denunciaron". It compares reporting rates for specific violent crimes in 2023 (light blue) and 2024 (dark blue).
+
+* Agresiones / Lesiones: 2023: 48,5%, 2024: 63,6%.
+* Extorsión violenta: 2023: 60,9%, 2024: 88,5% (Statistically significant increase).
+* Robo con violencia o intimidación: 2023: 54,5%, 2024: 56,2%.
+* Amenaza violenta: 2023: 49,8%, 2024: 35,2%.
+* Robo por sorpresa con violencia: 2023: 71,8%, 2024: 28,8%.
+* Robo de vehículo con violencia: 2023: 0,0%, 2024: 100,0%.
+* Robo de vivienda con violencia: 2023: 0,0%, 2024: 100,0%.]
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+#### 4. PERCEPCIÓN DE INSEGURIDAD
+
+##### PERCEPCIÓN RESPECTO A EXPECTATIVA DE SER VÍCTIMA
+
+###### Proporción de personas de la región, 2023-2024*
+
+¿Cree usted que será víctima de algún delito en los próximos doce meses?
+
+2023
+
+* Sí: 43,5%
+* No: 43,8%
+* No Sabe: 12,7%
+* sn/nr: 0,0%
+
+2024
+
+* Sí: 44,8%
+* No: 52,7%
+* No Sabe: 2,5%
+* sn/nr: 0,0%
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+##### REACCIÓN FRENTE AL TEMOR DE SER VÍCTIMAS
+
+###### Proporción de personas de la región que declaran haber dejado de realizar actividades por temor a ser víctimas de un delito, 2023-2024*
+
+| Actividades que ha dejado de hacer por temor a ser víctima de delito | 2023 | 2024 |
+|-|-|-|
+| Caminar por ciertas áreas o lugares | 67,6% | 67,7% |
+| Usar celular y/o artículos electrónicos en público | 55,3% | 57,4% |
+| Salir de noche | 49,5% | 56,1% |
+| Llevar o usar dinero en efectivo | 50,4% | 46,2% |
+| Usar joyas, reloj u objetos de lujo | 40,0% | 36,5% |
+| Caminar solo/a | 38,6% | 35,2% |
+| **Realizar actividades deportivas, de recreación o esparcimiento en... | 16,7% | |
+| Ir al banco | 21,4% (Statistically significant decrease) | 16,5% |
+| Tomar micros o buses | 19,4% (Statistically significant decrease) | 14,0% |
+| Tomar taxis o colectivos | 14,5% (Statistically significant decrease) | 10,8% |
+| **Manejar vehículos, motos y/o estacionar fuera de la vivienda (nueva) | 10,4% | |
+| Tomar o usar Uber, Cabify, Didi o similares | 11,4% | 9,9% |
+
+** Categorías son medidas desde la versión ENUSC 2024. Las proporciones para cada categoría consideran la distribución de todas las opciones de respuesta incluida ns/na.
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+##### PERCEPCIÓN DE AUMENTO DE LA DELINCUENCIA
+
+###### Proporción de personas de la región que creen que la delincuencia aumentó en los últimos 12 meses, 2023-2024* por nivel territorial
+
+* PAÍS
+  * 2023: 91,8%
+  * 2024: 92,8%
+* COMUNA
+  * 2023: 84,7%
+  * 2024: 79,6% (Statistically significant decrease)
+* BARRIO
+  * 2023: 54,3%
+  * 2024: 47,2% (Statistically significant decrease)
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+##### PERCEPCIÓN DE AUMENTO DE LA DELINCUENCIA POR REGIÓN
+
+###### Proporción de personas que creen que la delincuencia aumentó en los últimos 12 meses, 2023-2024*
+
+PAÍS
+
+| Región | 2023 | 2024 |
+|-|-|-|
+| Arica y Parinacota | 88,8% | 93,5% |
+| Tarapacá | 86,0% | 94,6% |
+| Antofagasta | 93,2% | 91,4% |
+| Atacama | 91,2% | 92,4% |
+| Coquimbo | 87,4% | 88,4% |
+| Valparaíso | 87,9% | 94,9% |
+| Metropolitana | 96,2% | 95,9% |
+| O´Higgins | 89,5% | 87,5% |
+| Maule | 88,4% | 89,3% |
+| Ñuble | 91,8% | 93,7% |
+| Biobío | 95,7% | 93,8% |
+| Araucanía | 94,0% (Signif. decrease) | 88,9% |
+| Los Ríos | 85,4% | 82,8% |
+| Los Lagos | 89,3% | 85,9% |
+| Aysén | 90,1% | 87,5% |
+| Magallanes | 85,7% | 86,6% |
+
+COMUNA
+
+| Región | 2023 | 2024 |
+|-|-|-|
+| Arica y Parinacota | 87,2% (Signif. decrease) | 81,1% |
+| Tarapacá | 81,2% | 79,8% |
+| Antofagasta | 89,0% (Signif. decrease) | 84,2% |
+| Atacama | 84,4% | 83,2% |
+| Coquimbo | 81,6% | 79,8% |
+| Valparaíso | 77,9% | 79,5% |
+| Metropolitana | 72,6% | 79,0% |
+| O´Higgins | 79,1% | 76,1% |
+| Maule | 80,4% | 79,7% |
+| Ñuble | 84,7% (Signif. decrease) | 79,6% |
+| Biobío | 79,3% | 79,4% |
+| Araucanía | 77,7% (Signif. decrease) | 65,9% |
+| Los Ríos | 78,6% | 72,8% |
+| Los Lagos | 76,6% | 70,8% |
+| Aysén | 71,9% (Signif. decrease) | 59,4% |
+| Magallanes | 56,4% (Signif. decrease) | 48,4% |
+
+BARRIO
+
+| Región | 2023 | 2024 |
+|-|-|-|
+| Arica y Parinacota | 61,8% (Signif. decrease) | 56,1% |
+| Tarapacá | 53,1% (Signif. decrease) | 44,7% |
+| Antofagasta | 55,7% | 55,4% |
+| Atacama | 52,6% | 53,2% |
+| Coquimbo | 51,5% | 50,1% |
+| Valparaíso | 53,4% (Signif. decrease) | 36,3% |
+| Metropolitana | 57,0% (Signif. decrease) | 54,5% |
+| O´Higgins | 54,3% (Signif. decrease) | 45,2% |
+| Maule | 49,3% | 47,0% |
+| Ñuble | 54,3% (Signif. decrease) | 47,2% |
+| Biobío | 53,2% | 50,9% |
+| Araucanía | 35,4% | 38,4% |
+| Los Ríos | 45,1% | 43,3% |
+| Los Lagos | 42,8% | 33,6% |
+| Aysén | 29,8% | 34,1% |
+| Magallanes | 17,5% (Signif. increase) | 26,4% |
+
+Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+
+> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
+
+##### FUENTES DE INFORMACIÓN PARA LA PERCEPCIÓN DE AUMENTO DE LA DELINCUENCIA
+
+Proporción de personas de la región que utilizan distintas fuentes de información para creer que la delincuencia aumentó, 2023-2024*
+
+PAÍS
+
+* Televisión: 49,1% (2023), 52,1% (2024)
+* Redes sociales: 33,8% (2023), 33,0% (2024)
+* Familiares otras personas: 5,9% (2023), 5,3% (2024)
+* Radio: 4,1% (2023), 3,6% (2024)
+* Periódicos: 1,8% (2023), 2,8% (2024)
+* Experiencia personal: 5,0% (2023), 2,8% (2024)
+
+COMUNA
+
+* Redes sociales: 47,7% (2023), 48,5% (2024)
+* Radio: 16,9% (2023), 18,1% (2024)
+* Familiares otras personas: 17,2% (2023), 16,3% (2024)
+* Televisión: 7,3% (2023), 9,3% (2024)
+* Periódicos: 3,2% (2023), 4,3% (2024)
+* Experiencia personal: 7,5% (2023), 3,2% (2024)
+
+BARRIO
+
+* Familiares otras personas: 59,5% (2024)
+* Redes sociales: 27,1% (2024)
+* Experiencia personal: 7,5% (2024)
+* Radio: 4,0% (2024)
+* Televisión: 1,1% (2024)
+* Periódicos: 0,4% (2024)
+
+** La medición de medios utilizados para percepción en el Barrio comienza desde la versión ENUSC 2024.*
+
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
+
+**INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
+
+##### PERCEPCIÓN DE OCURRENCIA DE INCIVILIDADES
+
+Región, 2023-2024*
+
+Percepción de ocurrencia desórdenes en el barrio
+Opciones Siempre y Casi Siempre
+2023-2024
+
+* Consumo de alcohol o droga en la vía pública: 22,0% (2023), 22,6% (2024)
+* Sitios eriazos descuidados o acumulación de basura: 16,8% (2023), 20,5% (2024)
+* Lanzamiento de fuegos artificiales: 13,2% (2023), 17,0% (2024)
+* Presencia de comercio ilegal: 13,7% (2023), 13,0% (2024)
+* Presencia de personas que habitan y/o duermen en la calle: 8,2% (2023), 9,9% (2024)
+* Rayados, marcas o pinturas en la propiedad pública o privada sin autorización: 6,3% (2023), 6,4% (2024)
+* Venta clandestina de alcohol: 6,7% (2023), 6,4% (2024)
+* Prostitución o comercio sexual: 2,6% (2023), 1,3% (2024)
+
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
+
+* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
+
+##### PERCEPCIÓN DE OCURRENCIA DE INCIVILIDADES
+
+Región, 2023-2024*
+
+Percepción de ocurrencia de situaciones delictivas en el barrio
+Opciones Siempre y Casi Siempre
+2023-2024
+
+* Balaceras o disparos: 7,8% (2023), 7,1% (2024)
+* Robos o asaltos en la vía pública: 5,7% (2023), 5,4% (2024)
+* Presencia de pandillas violentas: 4,3% (2023), 4,5% (2024)
+* Amenazas o peleas entre vecinos: 3,1% (2023), 4,1% (2024)
+* Vandalismo o daño a la propiedad pública o privada, excluyendo rayados o marcas: 6,0% (2023), 4,1% (2024)
+* Peleas callejeras sin armas: 4,5% (2023), 3,1% (2024)
+* Peleas callejeras con armas blancas o de fuego: 3,4% (2023), 3,1% (2024)
+
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
+
+* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
+
+##### PERCEPCIÓN DE PRESENCIA DE ARMAS DE FUEGO Y TRAFICO DE DROGAS EN EL BARRIO
+
+Región, 2023-2024*
+
+Gráfico 1: Percepción de presencia de armas de fuego en el barrio
+
+* Siempre: 0,6% (2023), 1,0% (2024)
+* Casi siempre: 1,1% (2023), 1,7% (2024)
+* Ocasionalmente: 6,1% (2023), 6,2% (2024)
+* Casi Nunca: 4,5% (2023), 7,6% (2024) - *Statistically significant increase*
+* Nunca: 87,2% (2023), 83,2% (2024) - *Statistically significant decrease*
+* NS/NR/SD: 0,4% (2023), 0,3% (2024)
+
+Gráfico 2: Percepción de tráfico de drogas en el barrio
+
+* Siempre: 5,2% (2023), 5,1% (2024)
+* Casi siempre: 7,8% (2023), 4,9% (2024) - *Statistically significant decrease*
+* Ocasionalmente: 12,1% (2023), 11,4% (2024)
+* Casi Nunca: 6,6% (2023), 9,2% (2024) - *Statistically significant increase*
+* Nunca: 67,1% (2023), 69,0% (2024)
+* NS/NR/SD: 1,1% (2023), 0,3% (2024) - *Statistically significant decrease*
+
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
+
+* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
+
+#### 5. PERCEPCIÓN SOBRE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+
+##### PERCEPCIÓN RESPECTO A INSTITUCIONES
+
+Proporción de personas, Región. 2023-2024*
+
+Gráfico de Barras: ¿Podría indicarme si conoce las acciones que realiza en seguridad pública (% Sí)
+
+* Carabineros de Chile: 63,9% (2023), 75,7% (2024) - *Statistically significant increase*
+* Policía de Investigaciones (PDI): 47,9% (2023), 54,7% (2024) - *Statistically significant increase*
+* Fiscalía o Ministerio Público: 32,4% (2023), 35,7% (2024)
+
+Gráficos de Dona: ¿Cuánta confianza le genera (...) respecto de sus acciones en Seguridad Pública? (de quienes conocen acciones que realizan)
+
+* Policía de Investigaciones de Chile (2023):
+
+  * Mucha y bastante confianza: 80,5%
+  * Poco o Nada de confianza: 18,9%
+
+* Policía de Investigaciones de Chile (2024):
+
+  * Mucha y bastante confianza: 80,8%
+  * Poco o Nada de confianza: 18,2%
+
+* Carabineros de Chile (2023):
+
+  * Mucha y bastante confianza: 69,3%
+  * Poco o Nada de confianza: 30,4%
+
+* Carabineros de Chile (2024):
+
+  * Mucha y bastante confianza: 68,5%
+  * Poco o Nada de confianza: 31,4%
+
+* Fiscalía o Ministerio Público (2023):
+
+  * Mucha y bastante confianza: 44,5%
+  * Poco o Nada de confianza: 54,5%
+
+* Fiscalía o Ministerio Público (2024):
+
+  * Mucha y bastante confianza: 43,3%
+  * Poco o Nada de confianza: 56,6%
+
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
+
+* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
+
+##### PERCEPCIÓN RESPECTO A INSTITUCIONES
+
+Proporción de personas de la región, 2023-2024*
+
+¿Cómo percibe usted el trabajo de Carabineros de Chile en su comuna en los siguientes aspectos?
+
+| Aspecto | Percepción | 2023 | 2024 |
 |-|-|-|-|
-|Región de Arica y Parinacota|89,8%|87,1%|61,8%|
-|Región de Tarapacá|86,1%|81,2%|50,1%|
-|Región de Antofagasta|93,3%|90,0%|66,7%|
-|Región de Atacama|91,3%|84,6%|52,5%|
-|Región de Coquimbo|87,5%|81,6%|51,8%|
-|Región de Valparaíso|87,9%|77,9%|50,4%|
-|Región Metropolitana|86,0%|72,6%|57,9%|
-|Región de O'Higgins|89,5%|77,5%|51,5%|
-|Región del Maule|89,4%|80,4%|49,9%|
-|Región de Ñuble|91,9%|84,7%|54,2%|
-|Región del Biobío|89,7%|79,4%|53,2%|
-|Región de La Araucanía|89,9%|77,3%|50,9%|
-|Región de Los Ríos|85,4%|74,9%|45,3%|
-|Región de Los Lagos|88,3%|76,6%|42,9%|
-|Región de Aysén|86,3%|71,9%|29,8%|
-|Región de Magallanes|85,7%|59,3%|17,5%|
+| Control del tránsito | Muy bueno y bueno | 44,9% | 46,7% |
+| | Muy mal y Malo | 22,2% | 25,5% |
+| Frecuencia con que patrulla y vigila las calles | Muy bueno y bueno | 42,9% | 43,2% |
+| | Muy mal y Malo | 25,9% | 26,0% |
+| Coordinación y comunicación con los/as vecinos/as de su barrio | Muy bueno y bueno | 38,2% | 42,1% |
+| | Muy mal y Malo | 25,5% | 26,5% |
+| Prevención de delitos y faltas en la comuna | Muy bueno y bueno | 31,6% | 31,1% |
+| | Muy mal y Malo | 27,8% | 31,4% |
+| Control del tráfico de drogas | Muy bueno y bueno | 23,2% | 24,2% |
+| | Muy mal y Malo | 35,1% | 37,5% |
+| Control de armas | Muy bueno y bueno | 19,6% | 23,7% |
+| | Muy mal y Malo | 26,7% | 28,1% |
 
-#### Evolución — Percepción aumento delincuencia en Ñuble
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
 
-|Año|País|Comuna|Barrio|
-|-|-|-|-|
-|2018|78,1%|63,1%|42,9%|
-|2019|80,3%|50,3%|29,8%|
-|2020|84,1%|56,2%|32,4%|
-|2021|86,0%|64,5%|37,8%|
-|2022|94,2%|86,3%|61,3%|
-|2023|92,2%|86,5%|58,1%|
+> En gráficos no se presentan opción Ns/nr/na y los test de significancia se realizan sólo para respuestas Muy bueno, Bueno y Muy mal y malo*
 
-#### Victimización por delitos violentos a hogares por región (2023)
+**INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
 
-|Región|% Victimización Violenta|
-|-|-|
-|País|8,1%|
-|Región de Arica y Parinacota|9,7%|
-|Región de Tarapacá|9,4%|
-|Región de Antofagasta|8,1%|
-|Región de Atacama|7,5%|
-|Región de Coquimbo|4,2%|
-|Región de Valparaíso|7,8%|
-|Región Metropolitana|10,3%|
-|Región de O'Higgins|5,5%|
-|Región del Maule|4,4%|
-|Región de Ñuble|5,3%|
-|Región del Biobío|7,4%|
-|Región de La Araucanía|5,0%|
-|Región de Los Ríos|6,4%|
-|Región de Los Lagos|4,8%|
-|Región de Aysén|3,3%|
-|Región de Magallanes|2,8%|
+##### PERCEPCIÓN RESPECTO A INSTITUCIONES
 
-#### Violencia en hogares — Ñuble (2023)
+Proporción de personas, Región. 2023-2024*
 
-|Tipo de delito|% Hogares|
-|-|-|
-|Total delitos violentos|5,3%|
-|Robo con violencia o intimidación|1,7%|
-|Amenaza violenta|2,2%|
-|Agresiones/lesiones|0,7%|
-|Robo por sorpresa con violencia|0,3%|
-|Robo de vehículo con violencia|0,6%|
-|Extorsión violenta|0,3%|
-|Robo de vivienda con violencia|0,1%|
+¿Ud. diría que en los últimos doce meses la presencia de Carabineros de Chile en su barrio?
 
-#### Otros delitos temáticos — Ñuble (2023)
+* Aumentó: 20,7% (2023), 18,2% (2024)
+* Se mantuvo: 51,2% (2023), 51,2% (2024)
+* Disminuyó: 25,6% (2023), 28,4% (2024)
+* NS/NR/SD: 2,5% (2023), 2,2% (2024)
 
-|Delito|% Hogares|
-|-|-|
-|Robos (con y sin violencia)|11,0%|
-|Robo desde vehículo|9,0%|
-|Robo con violencia o intimidación|1,7%|
-|Robo por sorpresa|1,5%|
-|Robo en la vivienda|4,1%|
-|Robo de vehículo|1,7%|
-|Intento de delitos de robo|7,6%|
-|Intento de robo de vehículo|1,5%|
-|Intento de robo en la vivienda|1,1%|
-|Intento de robo con violencia o intimidación|3,0%|
-|Intento de robo por sorpresa|6,6%|
-|Robos no violentos|9,1%|
-|Robo desde vehículo (no violento)|9,0%|
-|Robo en la vivienda (no violento)|4,0%|
-|Robo por sorpresa (no violento)|1,2%|
-|Robo de vehículo (no violento)|1,0%|
-|Hurtos|3,4%|
-|Fraudes|2,7%|
-|Estafas|2,5%|
-|Amenazas|3,4%|
-|Extorsión|0,3%|
-|Soborno|0,8%|
-|Delitos cibernéticos|4,4%|
-|Hackeo de redes sociales o correo|2,6%|
-|Software malicioso|0,9%|
-|Ciberbullying|0,8%|
-|Suplantación de identidad|0,6%|
-|Vandalismo|4,2%|
-|Vandalismo en vehículos|5,7%|
-|Vandalismo en viviendas|1,8%|
-|Crímenes de odio|0,2%|
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
 
-#### Denuncia de victimización — Ñuble (2023)
+* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
 
-|Categoría|% que denuncia|
-|-|-|
-|Violentos|57,9%|
-|Emergentes|53,5%|
-|Robos|41,3%|
-|Económicos|39,9%|
-|Robos no violentos|35,5%|
-|Vandalismo|21,4%|
-|Delitos cibernéticos|16,3%|
-|Hurto|10,6%|
-|Crímenes de odio|10,2%|
+#### 6. SERIE HISTÓRICA
 
-#### Denuncia por tipo de delito — Ñuble
+Delitos de Mayor Connotación Social (DMCS) e Inseguridad
 
-|Delito|% que denuncia|
-|-|-|
-|Robo de vehículo|88,3%|
-|Extorsión|65,1%|
-|Amenazas|56,3%|
-|Robo con violencia o intimidación|54,5%|
-|Agresiones/lesiones|47,4%|
-|Robo con fuerza en vivienda|45,8%|
-|Fraude bancario|42,5%|
-|Estafa|35,3%|
-|Robo por sorpresa|28,4%|
-|Robo desde vehículo|23,3%|
-|Hurto|10,6%|
-|Soborno|0,0%|
+##### BRECHA ENTRE VICTIMIZACIÓN Y PERCEPCIÓN
 
-#### Percepción de desórdenes — Ñuble
+Victimización por DMCS* y Percepción de aumento de la delincuencia. Región 2018 - 2024
 
-|Desorden|% Siempre o casi siempre|
-|-|-|
-|Consumo de alcohol o droga en la vía pública|22,0%|
-|Sitios eriazos descuidados/acumulación de basura|16,8%|
-|Presencia de comercio ilegal|13,7%|
-|Lanzamiento de fuegos artificiales|13,2%|
-|Personas que habitan/duermen en la calle|8,2%|
-|Venta clandestina de alcohol|6,7%|
-|Rayados o pinturas no autorizadas|6,3%|
-|Prostitución o comercio sexual|2,6%|
+Línea (Percepción): Proporción personas que creen que delincuencia aumentó en el país los últimos 12 meses
 
-#### Percepción de situaciones delictivas — Ñuble
+* 2018: 74,6%
+* 2019: 83,3%
+* 2020: 73,1%
+* 2021: 80,8%
+* 2022: 90,5%
+* 2023: 92,2%
+* 2024: 92,2%
 
-|Situación delictiva|% Siempre o casi siempre|
-|-|-|
-|Balaceras o disparos|7,8%|
-|Vandalismo/daño propiedad pública/privada|6,0%|
-|Robos o asaltos en la vía pública|5,7%|
-|Peleas callejeras sin armas|4,5%|
-|Presencia de pandillas violentas|4,2%|
-|Peleas callejeras con armas blancas o fuego|3,4%|
-|Amenazas o peleas entre vecinos|3,1%|
+Barras (Victimización): Proporción de hogares en el cual algún miembro del hogar fue víctima de DMCS en los últimos 12 meses
 
-#### Actividades limitadas por temor — Ñuble
+* 2018: 23,8%
+* 2019: 19,1%
+* 2020: 19,3%
+* 2021: 13,8%
+* 2022: 14,3%
+* 2023: 15,4%
+* 2024: 17,9%
 
-|Actividad|% que ha dejado de hacer|
-|-|-|
-|Caminar por ciertas áreas o lugares|57,0%|
-|Salir de noche|56,7%|
-|Usar celular/artículos electrónicos en público|56,1%|
-|Llevar o usar dinero en efectivo|50,4%|
-|Usar joyas, reloj u objetos de lujo|40,0%|
-|Caminar solo/a|38,6%|
-|Actividades familiares al aire libre|28,5%|
-|Ir al banco|21,4%|
-|Tomar micros o buses|19,4%|
-|Tomar taxis o colectivos|14,5%|
-|Usar Uber, Cabify, Didi o similares|11,4%|
-|Otra actividad|3,6%|
+> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
 
-#### Tenencia de armas de fuego — Ñuble
+> Serie construida con factor de expansión para las 102 comunas.*
 
-|Tenencia de arma de fuego|% Hogares|
-|-|-|
-|Sí|4,3%|
-|No|95,3%|
-
-#### Motivos para tenencia de arma de fuego
-
-|Motivo|% Hogares|
-|-|-|
-|Para protegerse de la delincuencia|41,4%|
-|Para cacería|26,2%|
-|Por pertenecer o haber pertenecido a FF.AA.|12,8%|
-|Para deporte|10,8%|
-|Otra razón|5,1%|
-|Para colección|1,8%|
-|Razones de trabajo|0,6%|
-|Ns/Nr/Sr|1,3%|
-
-#### Percepción de presencia de armas en el barrio — Ñuble
-
-|Frecuencia|% Hogares|
-|-|-|
-|Siempre|0,6%|
-|Casi siempre|1,1%|
-|Ocasionalmente|6,1%|
-|Casi nunca|4,5%|
-|Nunca|87,3%|
-
-#### Percepción de tráfico de drogas en el barrio — Ñuble
-
-|Frecuencia|% Hogares|
-|-|-|
-|Siempre|5,2%|
-|Casi siempre|7,8%|
-|Ocasionalmente|12,1%|
-|Casi nunca|6,6%|
-|Nunca|67,2%|
+* *DMCS (Robo con violencia o intimidación, sorpresa, en la vivienda, de vehículo, desde vehículo, hurto y/o lesiones)*
 
 ### Estadísticas comunales
 
