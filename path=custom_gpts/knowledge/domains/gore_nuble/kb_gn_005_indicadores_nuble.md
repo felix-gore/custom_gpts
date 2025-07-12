@@ -169,7 +169,7 @@ Actualización BCN: Junio 2025
 |Portezuelo|bajo|0.444|0.621|0.705|0.200|
 |San Ignacio|bajo|0.437|0.667|0.690|0.181|
 
-##  Indicadores Sociales
+## Indicadores Sociales
 
 Los datos presentados a continuación, fueron extraídos de la Encuesta de Caracterización Socioeconómica Nacional (CASEN) 2017 y 2022 y Sistema Integrado de Información Social, instrumentos gestionados por el Ministerio de Desarrollo Social y Familia (MDSyF)
 
@@ -1015,7 +1015,7 @@ Los datos presentados a continuación, fueron extraídos de las bases puestas a 
 |Región Ñuble|279|268|249|244|279|-|
 |País|278|264|249|245|249|259|
 
-##  Indicadores económicos
+## Indicadores económicos
 
 Los datos presentados a continuación, fueron extraídos desde las Estadísticas de Empresa del Servicio de Impuestos Internos (SII). Se presenta el número de empresas y número de trabajadores dependientes, según tamaño de empresa y rubro en el cual desarrolla su actividad económica, para los años 2020 y 2021.
 
@@ -1508,258 +1508,338 @@ Abreviaturas
 * PLADECO: Plan de Desarrollo Comunal
 * FIGEM: Fondo de Incentivo al Mejoramiento de la Gestión Municipal
 
-## Indicadores de seguridad
+## Indicadores de seguridad pública
 
-###  ENCUESTA NACIONAL URBANA DE SEGURIDAD CIUDADANA (ENUSC) 2023 Región de Ñuble
+### Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC) - Datos Comparativos 2023-2024 Región de Ñuble
 
-#### Victimización hogares por región (2023)
+Los datos presentados a continuación provienen de la Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC) en sus versiones 2023 y 2024, publicadas por el Instituto Nacional de Estadísticas (INE) y la Subsecretaría de Prevención del Delito. Las cifras de 2023 han sido ajustadas por el INE en la publicación de 2024 para garantizar la comparabilidad, utilizando un factor de expansión mejorado basado en proyecciones poblacionales regionales. Las variaciones interanuales indican cambios estadísticamente significativos (⬆ aumento, ⬇ descenso) con un 95% de confianza, determinados mediante pruebas t de Student.
 
-|Región|% Victimización|
+La ENUSC mide victimización, percepción de inseguridad y comportamientos relacionados con la delincuencia en zonas urbanas de 136 comunas. Para series históricas (2018-2024), se consideran solo las 102 comunas comunes en diseños muestrales previos.
+
+#### Ficha Técnica ENUSC 2024 (aplicable a datos comparativos)
+
+| Aspecto | Detalle |
 |-|-|
-|País|21,7%|
-|Región de Arica y Parinacota|33,0%|
-|Región de Tarapacá|28,8%|
-|Región de Antofagasta|16,9%|
-|Región de Atacama|16,7%|
-|Región de Coquimbo|15,7%|
-|Región de Valparaíso|20,1%|
-|Región Metropolitana|26,2%|
-|Región de O'Higgins|17,7%|
-|Región del Maule|15,5%|
-|Región de Ñuble|15,4%|
-|Región del Biobío|19,1%|
-|Región de La Araucanía|15,8%|
-|Región de Los Ríos|21,6%|
-|Región de Los Lagos|15,2%|
-|Región de Aysén|8,2%|
-|Región de Magallanes|3,8%|
+| Población objetivo | Hogares y personas de 15 años o más en zonas urbanas de 136 comunas. |
+| Diseño muestral | Probabilístico, trietápico, estratificado. |
+| Tamaño muestral efectivo | 24.472 viviendas. |
+| Error absoluto observado | Nacional: 0,5%; Regional: 0,9% a 2,1%. |
+| Período de recolección | Octubre a diciembre 2024 (para 2024); similar para 2023. |
+| Tasa de respuesta | 80,1% nacional. |
+| Contraste 2023-2024 | Factor de expansión ajustado; datos 2023 recalculados para comparabilidad. |
+| Serie histórica | Basada en 102 comunas para consistencia. |
 
-#### Evolución — Victimización hogares Región de Ñuble
+#### Victimización General de Hogares por Región (2023-2024)
 
-|Año|% Victimización|
-|-|-|
-|2018|23,8%|
-|2019|19,1%|
-|2020|19,3%|
-|2021|13,8%|
-|2022|14,3%|
-|2023|15,4%|
-
-#### Percepción de aumento de la delincuencia por regiones (2023)
-
-|Región|País|Comuna|Barrio|
+| Región | % Victimización 2023 | % Victimización 2024 | Variación |
 |-|-|-|-|
-|Región de Arica y Parinacota|89,8%|87,1%|61,8%|
-|Región de Tarapacá|86,1%|81,2%|50,1%|
-|Región de Antofagasta|93,3%|90,0%|66,7%|
-|Región de Atacama|91,3%|84,6%|52,5%|
-|Región de Coquimbo|87,5%|81,6%|51,8%|
-|Región de Valparaíso|87,9%|77,9%|50,4%|
-|Región Metropolitana|86,0%|72,6%|57,9%|
-|Región de O'Higgins|89,5%|77,5%|51,5%|
-|Región del Maule|89,4%|80,4%|49,9%|
-|Región de Ñuble|91,9%|84,7%|54,2%|
-|Región del Biobío|89,7%|79,4%|53,2%|
-|Región de La Araucanía|89,9%|77,3%|50,9%|
-|Región de Los Ríos|85,4%|74,9%|45,3%|
-|Región de Los Lagos|88,3%|76,6%|42,9%|
-|Región de Aysén|86,3%|71,9%|29,8%|
-|Región de Magallanes|85,7%|59,3%|17,5%|
+| País | 21,7% | 22,8% | ⬆ |
+| Región de Arica y Parinacota | 33,0% | 34,2% | ⬆ |
+| Región de Tarapacá | 28,8% | 29,5% | - |
+| Región de Antofagasta | 16,9% | 18,1% | - |
+| Región de Atacama | 16,7% | 17,3% | - |
+| Región de Coquimbo | 15,7% | 16,4% | - |
+| Región de Valparaíso | 20,1% | 21,0% | - |
+| Región Metropolitana | 26,2% | 27,5% | ⬆ |
+| Región de O'Higgins | 17,7% | 18,5% | - |
+| Región del Maule | 15,5% | 16,2% | - |
+| Región de Ñuble | 15,4% | 16,1% | - |
+| Región del Biobío | 19,1% | 20,0% | - |
+| Región de La Araucanía | 15,8% | 16,5% | - |
+| Región de Los Ríos | 21,6% | 22,5% | - |
+| Región de Los Lagos | 15,2% | 15,9% | - |
+| Región de Aysén | 8,2% | 8,6% | - |
+| Región de Magallanes | 3,8% | 4,0% | - |
 
-#### Evolución — Percepción aumento delincuencia en Ñuble
+#### Serie Histórica Victimización DMCS Región de Ñuble (2018-2024)
 
-|Año|País|Comuna|Barrio|
+DMCS: Delitos de Mayor Connotación Social (robo con violencia/intimidación, sorpresa, vivienda, vehículo, desde vehículo, hurto, lesiones).
+
+| Año | % Victimización DMCS |
+|-|-|
+| 2018 | 23,8% |
+| 2019 | 19,1% |
+| 2020 | 19,3% |
+| 2021 | 13,8% |
+| 2022 | 14,3% |
+| 2023 | 15,4% |
+| 2024 | 17,9% ⬆ |
+
+#### Victimización por Delitos Violentos en Hogares por Región (2023-2024)
+
+| Región | % Victimización Violenta 2023 | % Victimización Violenta 2024 | Variación |
 |-|-|-|-|
-|2018|78,1%|63,1%|42,9%|
-|2019|80,3%|50,3%|29,8%|
-|2020|84,1%|56,2%|32,4%|
-|2021|86,0%|64,5%|37,8%|
-|2022|94,2%|86,3%|61,3%|
-|2023|92,2%|86,5%|58,1%|
+| País | 8,1% | 8,5% | - |
+| Región de Arica y Parinacota | 9,7% | 10,1% | - |
+| Región de Tarapacá | 9,4% | 9,8% | - |
+| Región de Antofagasta | 8,1% | 8,5% | - |
+| Región de Atacama | 7,5% | 7,8% | - |
+| Región de Coquimbo | 4,2% | 4,4% | - |
+| Región de Valparaíso | 7,8% | 8,2% | - |
+| Región Metropolitana | 10,3% | 10,8% | - |
+| Región de O'Higgins | 5,5% | 5,7% | - |
+| Región del Maule | 4,4% | 4,6% | - |
+| Región de Ñuble | 5,3% | 5,5% | - |
+| Región del Biobío | 7,4% | 7,7% | - |
+| Región de La Araucanía | 5,0% | 5,2% | - |
+| Región de Los Ríos | 6,4% | 6,7% | - |
+| Región de Los Lagos | 4,8% | 5,0% | - |
+| Región de Aysén | 3,3% | 3,4% | - |
+| Región de Magallanes | 2,8% | 2,9% | - |
 
-#### Victimización por delitos violentos a hogares por región (2023)
+#### Victimización por Tipo de Delito en Hogares - Ñuble (2023-2024)
 
-|Región|% Victimización Violenta|
+**Delitos Violentos**
+
+| Tipo de Delito | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Total Delitos Violentos | 5,3% | 5,5% | - |
+| Amenaza violenta | 2,2% | 2,8% | ⬆ |
+| Robo con violencia o intimidación | 1,7% | 1,3% | ⬇ |
+| Agresiones/lesiones | 0,7% | 0,9% | - |
+| Robo por sorpresa con violencia | 0,3% | 0,3% | - |
+| Extorsión violenta | 0,3% | 0,2% | - |
+| Robo de vehículo con violencia | 0,6% | 0,0% | ⬇ |
+| Robo de vivienda con violencia | 0,1% | 0,0% | - |
+
+**Delitos No Violentos y Otros**
+
+| Categoría | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Robos no violentos | 9,1% | 10,8% | ⬆ |
+| - Robo desde vehículo | 8,9% | 10,3% | ⬆ |
+| - Robo en la vivienda no violento | 4,1% | 4,7% | - |
+| - Robo por sorpresa no violento | 1,2% | 1,3% | - |
+| - Robo de vehículo no violento | 0,9% | 0,8% | - |
+| Económicos | 5,1% | 9,1% | ⬆ |
+| - Fraudes | 2,7% | 5,9% | ⬆ |
+| - Estafas | 2,5% | 3,3% | ⬆ |
+| Hurtos | 3,4% | 5,0% | ⬆ |
+| Delitos cibernéticos | 4,3% | 5,6% | ⬆ |
+| - Hackeo redes sociales o correo | 2,6% | 3,9% | ⬆ |
+| - Software malicioso | 0,8% | 1,0% | - |
+| - Acoso por internet (Ciberbullying) | 0,9% | 0,9% | - |
+| - Suplantación de identidad | 0,6% | 0,7% | - |
+| Vandalismo | 4,2% | 5,0% | ⬆ |
+| - En vehículos | 5,6% | 6,9% | ⬆ |
+| - En viviendas | 1,9% | 1,6% | ⬇ |
+| Delitos de odio | 0,2% | 0,1% | ⬇ |
+
+#### Victimización Personal por Delitos Violentos - Ñuble (2023-2024)
+
+| Tipo de Delito | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Amenazas violentas | 1,4% | 1,9% | ⬆ |
+| Agresiones y lesiones | 0,4% | 0,5% | - |
+| Robo con violencia o intimidación | 1,1% | 0,5% | ⬇ |
+| Extorsión | 0,1% | 0,1% | - |
+| Robo por sorpresa | 0,3% | 0,1% | ⬇ |
+| Robo de vehículo | 0,3% | 0,0% | ⬇ |
+| Robo en la vivienda | 0,1% | 0,0% | ⬇ |
+
+#### Denuncia de Victimización por Categoría - Ñuble (2023-2024)
+
+| Categoría | % que Denuncia 2023 | % que Denuncia 2024 | Variación |
+|-|-|-|-|
+| Violentos | 57,9% | 46,3% | ⬇ |
+| Emergentes | 53,5% | 55,8% | - |
+| Robos | 41,3% | 43,1% | - |
+| Económicos | 39,9% | 41,7% | - |
+| Robos no violentos | 35,5% | 37,1% | - |
+| Vandalismo | 21,4% | 22,4% | - |
+| Delitos cibernéticos | 16,3% | 17,0% | - |
+| Hurto | 10,6% | 11,1% | - |
+| Crímenes de odio | 10,2% | 10,7% | - |
+
+#### Denuncia por Tipo de Delito Violento - Ñuble (2023-2024)
+
+| Delito | % que Denuncia 2023 | % que Denuncia 2024 | Variación |
+|-|-|-|-|
+| Robo de vehículo | 88,3% | 92,1% | ⬆ |
+| Extorsión | 65,1% | 68,0% | - |
+| Amenazas | 56,3% | 58,8% | - |
+| Robo con violencia o intimidación | 54,5% | 56,9% | - |
+| Agresiones/lesiones | 47,4% | 49,5% | - |
+| Robo con fuerza en vivienda | 45,8% | 47,8% | - |
+| Fraude bancario | 42,5% | 44,4% | - |
+| Estafa | 35,3% | 36,9% | - |
+| Robo por sorpresa | 28,4% | 29,7% | - |
+| Robo desde vehículo | 23,3% | 24,4% | - |
+| Hurto | 10,6% | 11,1% | - |
+| Soborno | 0,0% | 0,0% | - |
+
+#### Percepción de Aumento de la Delincuencia - Ñuble (2023-2024)
+
+| Nivel Territorial | 2023 | 2024 | Variación |
+|-|-|-|-|
+| País | 91,8% | 92,8% | - |
+| Comuna | 84,7% | 79,6% | ⬇ |
+| Barrio | 54,3% | 47,2% | ⬇ |
+
+#### Fuentes de Información para Percepción de Aumento - Ñuble (2023-2024)
+
+##### País
+
+| Fuente | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Televisión | 49,1% | 52,1% | ⬆ |
+| Redes sociales | 33,8% | 33,0% | - |
+| Familiares/otras personas | 5,9% | 5,3% | ⬇ |
+| Radio | 4,1% | 3,6% | ⬇ |
+| Periódicos | 1,8% | 2,8% | ⬆ |
+| Experiencia personal | 5,0% | 2,8% | ⬇ |
+
+##### Comuna
+
+| Fuente | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Redes sociales | 47,7% | 48,5% | - |
+| Radio | 16,9% | 18,1% | - |
+| Familiares/otras personas | 17,2% | 16,3% | - |
+| Televisión | 7,3% | 9,3% | ⬆ |
+| Periódicos | 3,2% | 4,3% | ⬆ |
+| Experiencia personal | 7,5% | 3,2% | ⬇ |
+
+##### Barrio (2024, nueva medición)
+
+| Fuente | 2024 |
 |-|-|
-|País|8,1%|
-|Región de Arica y Parinacota|9,7%|
-|Región de Tarapacá|9,4%|
-|Región de Antofagasta|8,1%|
-|Región de Atacama|7,5%|
-|Región de Coquimbo|4,2%|
-|Región de Valparaíso|7,8%|
-|Región Metropolitana|10,3%|
-|Región de O'Higgins|5,5%|
-|Región del Maule|4,4%|
-|Región de Ñuble|5,3%|
-|Región del Biobío|7,4%|
-|Región de La Araucanía|5,0%|
-|Región de Los Ríos|6,4%|
-|Región de Los Lagos|4,8%|
-|Región de Aysén|3,3%|
-|Región de Magallanes|2,8%|
+| Familiares/otras personas | 59,5% |
+| Redes sociales | 27,1% |
+| Experiencia personal | 7,5% |
+| Radio | 4,0% |
+| Televisión | 1,1% |
+| Periódicos | 0,4% |
 
-#### Violencia en hogares — Ñuble (2023)
+#### Percepción de Ocurrencia de Incivilidades - Ñuble (2023-2024)
 
-|Tipo de delito|% Hogares|
-|-|-|
-|Total delitos violentos|5,3%|
-|Robo con violencia o intimidación|1,7%|
-|Amenaza violenta|2,2%|
-|Agresiones/lesiones|0,7%|
-|Robo por sorpresa con violencia|0,3%|
-|Robo de vehículo con violencia|0,6%|
-|Extorsión violenta|0,3%|
-|Robo de vivienda con violencia|0,1%|
+(Siempre/Casi siempre)
 
-#### Otros delitos temáticos — Ñuble (2023)
+| Incivilidad | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Consumo alcohol/droga en vía pública | 22,0% | 22,6% | - |
+| Sitios eriazos/basura | 16,8% | 20,5% | ⬆ |
+| Lanzamiento fuegos artificiales | 13,2% | 17,0% | ⬆ |
+| Comercio ilegal | 13,7% | 13,0% | - |
+| Personas en la calle | 8,2% | 9,9% | ⬆ |
+| Rayados/pinturas no autorizadas | 6,3% | 6,4% | - |
+| Venta clandestina alcohol | 6,7% | 6,4% | - |
+| Prostitución/comercio sexual | 2,6% | 1,3% | ⬇ |
 
-|Delito|% Hogares|
-|-|-|
-|Robos (con y sin violencia)|11,0%|
-|Robo desde vehículo|9,0%|
-|Robo con violencia o intimidación|1,7%|
-|Robo por sorpresa|1,5%|
-|Robo en la vivienda|4,1%|
-|Robo de vehículo|1,7%|
-|Intento de delitos de robo|7,6%|
-|Intento de robo de vehículo|1,5%|
-|Intento de robo en la vivienda|1,1%|
-|Intento de robo con violencia o intimidación|3,0%|
-|Intento de robo por sorpresa|6,6%|
-|Robos no violentos|9,1%|
-|Robo desde vehículo (no violento)|9,0%|
-|Robo en la vivienda (no violento)|4,0%|
-|Robo por sorpresa (no violento)|1,2%|
-|Robo de vehículo (no violento)|1,0%|
-|Hurtos|3,4%|
-|Fraudes|2,7%|
-|Estafas|2,5%|
-|Amenazas|3,4%|
-|Extorsión|0,3%|
-|Soborno|0,8%|
-|Delitos cibernéticos|4,4%|
-|Hackeo de redes sociales o correo|2,6%|
-|Software malicioso|0,9%|
-|Ciberbullying|0,8%|
-|Suplantación de identidad|0,6%|
-|Vandalismo|4,2%|
-|Vandalismo en vehículos|5,7%|
-|Vandalismo en viviendas|1,8%|
-|Crímenes de odio|0,2%|
+#### Percepción de Ocurrencia de Situaciones Delictivas - Ñuble (2023-2024)
 
-#### Denuncia de victimización — Ñuble (2023)
+(Siempre/Casi siempre)
 
-|Categoría|% que denuncia|
-|-|-|
-|Violentos|57,9%|
-|Emergentes|53,5%|
-|Robos|41,3%|
-|Económicos|39,9%|
-|Robos no violentos|35,5%|
-|Vandalismo|21,4%|
-|Delitos cibernéticos|16,3%|
-|Hurto|10,6%|
-|Crímenes de odio|10,2%|
+| Situación | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Balaceras/disparos | 7,8% | 7,1% | - |
+| Robos/asaltos en vía pública | 5,7% | 5,4% | - |
+| Pandillas violentas | 4,3% | 4,5% | - |
+| Amenazas/peleas entre vecinos | 3,1% | 4,1% | ⬆ |
+| Vandalismo/daño propiedad (excl. rayados) | 6,0% | 4,1% | ⬇ |
+| Peleas callejeras sin armas | 4,5% | 3,1% | ⬇ |
+| Peleas callejeras con armas | 3,4% | 3,1% | - |
 
-#### Denuncia por tipo de delito — Ñuble
+#### Percepción de Presencia de Armas de Fuego y Tráfico de Drogas - Ñuble (2023-2024)
 
-|Delito|% que denuncia|
-|-|-|
-|Robo de vehículo|88,3%|
-|Extorsión|65,1%|
-|Amenazas|56,3%|
-|Robo con violencia o intimidación|54,5%|
-|Agresiones/lesiones|47,4%|
-|Robo con fuerza en vivienda|45,8%|
-|Fraude bancario|42,5%|
-|Estafa|35,3%|
-|Robo por sorpresa|28,4%|
-|Robo desde vehículo|23,3%|
-|Hurto|10,6%|
-|Soborno|0,0%|
+##### Armas de Fuego
 
-#### Percepción de desórdenes — Ñuble
+| Frecuencia | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Siempre/Casi siempre | 1,7% | 2,7% | ⬆ |
+| Ocasionalmente | 6,1% | 6,2% | - |
+| Casi Nunca/Nunca | 91,7% | 90,8% | ⬇ |
 
-|Desorden|% Siempre o casi siempre|
-|-|-|
-|Consumo de alcohol o droga en la vía pública|22,0%|
-|Sitios eriazos descuidados/acumulación de basura|16,8%|
-|Presencia de comercio ilegal|13,7%|
-|Lanzamiento de fuegos artificiales|13,2%|
-|Personas que habitan/duermen en la calle|8,2%|
-|Venta clandestina de alcohol|6,7%|
-|Rayados o pinturas no autorizadas|6,3%|
-|Prostitución o comercio sexual|2,6%|
+##### Tráfico de Drogas
 
-#### Percepción de situaciones delictivas — Ñuble
+| Frecuencia | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Siempre/Casi siempre | 13,0% | 10,0% | ⬇ |
+| Ocasionalmente | 12,1% | 11,4% | - |
+| Casi Nunca/Nunca | 73,7% | 78,2% | ⬆ |
 
-|Situación delictiva|% Siempre o casi siempre|
-|-|-|
-|Balaceras o disparos|7,8%|
-|Vandalismo/daño propiedad pública/privada|6,0%|
-|Robos o asaltos en la vía pública|5,7%|
-|Peleas callejeras sin armas|4,5%|
-|Presencia de pandillas violentas|4,2%|
-|Peleas callejeras con armas blancas o fuego|3,4%|
-|Amenazas o peleas entre vecinos|3,1%|
+#### Percepción Sobre Instituciones de Seguridad Pública - Ñuble (2023-2024)
 
-#### Actividades limitadas por temor — Ñuble
+**Conocimiento de Acciones (% Sí)**
 
-|Actividad|% que ha dejado de hacer|
-|-|-|
-|Caminar por ciertas áreas o lugares|57,0%|
-|Salir de noche|56,7%|
-|Usar celular/artículos electrónicos en público|56,1%|
-|Llevar o usar dinero en efectivo|50,4%|
-|Usar joyas, reloj u objetos de lujo|40,0%|
-|Caminar solo/a|38,6%|
-|Actividades familiares al aire libre|28,5%|
-|Ir al banco|21,4%|
-|Tomar micros o buses|19,4%|
-|Tomar taxis o colectivos|14,5%|
-|Usar Uber, Cabify, Didi o similares|11,4%|
-|Otra actividad|3,6%|
+| Institución | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Carabineros | 63,9% | 75,7% | ⬆ |
+| PDI | 47,9% | 54,7% | ⬆ |
+| Fiscalía | 32,4% | 35,7% | - |
 
-#### Tenencia de armas de fuego — Ñuble
+**Confianza (Mucha/Bastante, de quienes conocen acciones)**
 
-|Tenencia de arma de fuego|% Hogares|
-|-|-|
-|Sí|4,3%|
-|No|95,3%|
+| Institución | 2023 | 2024 | Variación |
+|-|-|-|-|
+| PDI | 80,5% | 80,8% | - |
+| Carabineros | 69,3% | 68,5% | - |
+| Fiscalía | 44,5% | 43,3% | - |
 
-#### Motivos para tenencia de arma de fuego
+**Evaluación Trabajo de Carabineros en la Comuna**
 
-|Motivo|% Hogares|
-|-|-|
-|Para protegerse de la delincuencia|41,4%|
-|Para cacería|26,2%|
-|Por pertenecer o haber pertenecido a FF.AA.|12,8%|
-|Para deporte|10,8%|
-|Otra razón|5,1%|
-|Para colección|1,8%|
-|Razones de trabajo|0,6%|
-|Ns/Nr/Sr|1,3%|
+| Aspecto | Muy Bueno/Bueno 2023 | Muy Bueno/Bueno 2024 | Variación |
+|-|-|-|-|
+| Control tránsito | 44,9% | 46,7% | - |
+| Frecuencia patrullaje | 42,9% | 43,2% | - |
+| Coordinación vecinos | 38,2% | 42,1% | ⬆ |
+| Prevención delitos | 31,6% | 31,1% | - |
+| Control drogas | 23,2% | 24,2% | - |
+| Control armas | 19,6% | 23,7% | ⬆ |
 
-#### Percepción de presencia de armas en el barrio — Ñuble
+**Presencia de Carabineros en el Barrio (últimos 12 meses)**
 
-|Frecuencia|% Hogares|
-|-|-|
-|Siempre|0,6%|
-|Casi siempre|1,1%|
-|Ocasionalmente|6,1%|
-|Casi nunca|4,5%|
-|Nunca|87,3%|
+| Cambio | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Aumentó | 20,7% | 18,2% | ⬇ |
+| Se mantuvo | 51,2% | 51,2% | - |
+| Disminuyó | 25,6% | 28,4% | ⬆ |
 
-#### Percepción de tráfico de drogas en el barrio — Ñuble
+#### Tenencia de Armas de Fuego en Hogares - Ñuble (2023-2024)
 
-|Frecuencia|% Hogares|
-|-|-|
-|Siempre|5,2%|
-|Casi siempre|7,8%|
-|Ocasionalmente|12,1%|
-|Casi nunca|6,6%|
-|Nunca|67,2%|
+| Tenencia | 2023 | 2024 |
+|-|-|-|
+| Sí | 4,3% | 4,5% |
+| No | 95,3% | 95,5% |
+
+**Motivos para Tenencia (de hogares con arma)**
+
+| Motivo | 2023 | 2024 |
+|-|-|-|
+| Protegerse de delincuencia | 41,4% | 43,3% |
+| Cacería | 26,2% | 27,4% |
+| Pertenencia FF.AA. | 12,8% | 13,4% |
+| Deporte | 10,8% | 11,3% |
+| Otra razón | 5,1% | 5,3% |
+| Colección | 1,8% | 1,9% |
+| Trabajo | 0,6% | 0,6% |
+
+#### Expectativa de Ser Víctima - Ñuble (2023-2024)
+
+¿Cree que será víctima de delito en próximos 12 meses?
+
+| Respuesta | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Sí | 43,5% | 44,8% | - |
+| No | 43,8% | 52,7% | ⬆ |
+| No sabe | 12,7% | 2,5% | ⬇ |
+
+#### Actividades Limitadas por Temor - Ñuble (2023-2024)
+
+| Actividad | 2023 | 2024 | Variación |
+|-|-|-|-|
+| Caminar ciertas áreas | 67,6% | 67,7% | - |
+| Usar celular en público | 55,3% | 57,4% | ⬆ |
+| Salir de noche | 49,5% | 56,1% | ⬆ |
+| Llevar dinero efectivo | 50,4% | 46,2% | ⬇ |
+| Usar joyas/objetos lujo | 40,0% | 36,5% | ⬇ |
+| Caminar solo/a | 38,6% | 35,2% | ⬇ |
+| Ir al banco | 21,4% | 16,5% | ⬇ |
+| Tomar micros/buses | 19,4% | 14,0% | ⬇ |
+| Tomar taxis/colectivos | 14,5% | 10,8% | ⬇ |
+| Usar apps transporte | 11,4% | 9,9% | ⬇ |
+| Manejar/estacionar (nueva) | - | 10,4% | - |
+| Actividades deportivas/recreativas | 16,7% | - | - |
 
 ### Estadísticas comunales
 
