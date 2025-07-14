@@ -1508,7 +1508,7 @@ Abreviaturas
 * PLADECO: Plan de Desarrollo Comunal
 * FIGEM: Fondo de Incentivo al Mejoramiento de la Gestión Municipal
 
-## Indicadores de seguridad
+## Indicadores de seguridad Pública
 
 ### ENCUESTA NACIONAL URBANA DE SEGURIDAD CIUDADANA (ENUSC) 2024 Región de Ñuble
 

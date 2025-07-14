@@ -186,11 +186,11 @@ ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-01
 - Cpt: Autoridades Nacionales con Representación Regional
   ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-NACIONAL-01
 
-  | Cargo | Nombre(s) |
-  |-|-|
-  | Senadores | Gustavo Sanhueza Dueñas<br>Loreto Carvajal Ambiado |
-  | Diputados (Distrito 19) | Cristóbal Martínez Ramírez<br>Felipe Camaño Cárdenas<br>Frank Sauerbaum Muñoz<br>Marta Bravo Salinas<br>Sara Concha Smith |
-  | Delegado Presidencial | Rodrigo García Hurtado |
+| Cargo| Nombre(s)|
+|-|-|
+| Senadores| Gustavo Sanhueza Dueñas<br>Loreto Carvajal Ambiado|
+| Diputados (Distrito 19)| Cristóbal Martínez Ramírez<br>Felipe Camaño Cárdenas<br>Frank Sauerbaum Muñoz<br>Marta Bravo Salinas<br>Sara Concha Smith|
+| Delegado Presidencial| Rodrigo García Hurtado|
 
 - Cpt: Autoridades Regionales y Comunales
   ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-REG-COM-01
@@ -198,53 +198,69 @@ ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-01
   - Cpt: Gobernador Regional
     ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-GORE-01
 
-    | Cargo | Nombre |
-    |-|-|
-    | Gobernador Regional | Óscar Crisóstomo Llanos |
+| Cargo| Nombre|
+|-|-|
+| Gobernador Regional| Óscar Crisóstomo Llanos|
 
-  - Cpt: Jefaturas de Divisiones GORE Ñuble
+- Cpt: Jefaturas de Divisiones GORE Ñuble
     ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-JEFATURAS-01
 
-    | División | Directivo |
-    |-|-|
-    | Administración Regional | Claudia Cabrera Torres |
-    | Administración y Finanzas | Alicia Contreras Vielma |
-    | Presupuesto e Inversión Regional | Juan Parada González |
-    | Planificación y Desarrollo | Raúl Súnico Galdames |
-    | Desarrollo Social y Humano | Tamara Valenzuela Fuentealba |
-    | Fomento e Industria | *(No indicado)* |
-    | Infraestructura y Transportes | Cristián Quiroz Reyes |
+| División| Directivo|
+|-|-|
+| Administración Regional| Claudia Cabrera Torres|
+| Administración y Finanzas| Alicia Contreras Vielma|
+| Presupuesto e Inversión Regional| Juan Parada González|
+| Planificación y Desarrollo| Raúl Súnico Galdames|
+| Desarrollo Social y Humano| Tamara Valenzuela Fuentealba|
+| Fomento e Industria| *(No indicado)*|
+| Infraestructura y Transportes| Cristián Quiroz Reyes|
 
-  - Cpt: Consejo Regional de Ñuble
+- Cpt: Consejo Regional de Ñuble
     ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-CORE-01
 
-  - Cpt: Alcaldes de la Región de Ñuble
+- Cpt: Alcaldes de la Región de Ñuble
     ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-ALCALDES-01
 
 #### 2.3. Perfil Socioeconómico y Cuantitativo de Síntesis
 
 ID: GORE-NUBLE-GUIA-CTX-SOCIOECONOMICO-01
-Purp: Proveer síntesis cuantitativa de la Región de Ñuble con indicadores clave demográficos, sociales, económicos y de riesgos.
+Purp: Proveer síntesis cuantitativa de la Región de Ñuble con indicadores clave demográficos, sociales, económicos y de riesgos, contrastados con el contexto nacional para identificar brechas estructurales y oportunidades de intervención.
 
 - Cpt: Demografía y Territorio
-  - Cpt: Población y Densidad. Def: ~512,000 habitantes (Censo 2024), una de las regiones menos pobladas del país.
-  - Cpt: Estructura Urbano-Rural. Def: Marcada ruralidad (28.7% pob. rural vs 11.3% prom. nacional). Ex: Cobquecura (71.5%), Ninhue (71.2%).
-  - Cpt: Envejecimiento Demográfico. Def: Proceso acelerado. Índice Adultos Mayores de 97.6 vs 79.0 nacional.
-  - Cpt: Migración. Def: Población migrante 2023: 12,223 personas (~2.4% pob. total). Origen principal: Venezuela (40.5%), Haití (23.6%).
+  - Cpt: Población Total y Envejecimiento. Def: La región posee 512,289 habitantes (población censada), con una edad promedio de 40.0 años (vs. 38.4 nacional). Presenta un proceso de envejecimiento acelerado, con un índice de 97.6 (vs. 79.0 nacional), lo que implica una mayor carga sobre sistemas de salud y pensiones.
+  - Cpt: Distribución por Edad y Sexo (Pirámide Poblacional). Def: La estructura etaria muestra una base estrecha (población joven) y un ensanchamiento en grupos mayores, con un índice de masculinidad de 94.0 (vs. 96.3 nacional). A continuación, se detalla la distribución por rangos etarios clave (datos extraídos de pirámides poblacionales):
+  -
+
+    | Rango Etario| Hombres (N°)| Mujeres (N°)| Total (N°)| % Regional| % Nacional (comparativo)|
+    |-|-|-|-|-|-|
+    | 0-14 años| 44,219| 42,347| 86,566| 16.9%| 18.2%|
+    | 15-29 años| 53,642| 52,178| 105,820| 20.7%| 22.5%|
+    | 30-44 años| 53,189| 54,732| 107,921| 21.1%| 23.4%|
+    | 45-59 años| 51,734| 54,219| 105,953| 20.7%| 19.8%|
+    | 60+ años| 52,178| 53,851| 106,029| 20.7%| 16.1%|
+
+  - Implic: La proporción de población mayor de 60 años (20.7%) supera el promedio nacional (16.1%), demandando políticas focalizadas en envejecimiento activo y soporte geriátrico.
+  - Cpt: Composición Étnica y Migratoria.
+    - Def: Población inmigrante internacional: 2.1% (10,934 personas) vs. 8.8% nacional. Edad promedio: 33.6 años (vs. 33.5 nacional). Distribución por período de llegada: 36.5% entre 2017-2019 (vs. 33.5% nacional en períodos recientes), con un pico en migrantes de 25-29 años (18.4%).
+    - Def: Población indígena: 3.9% (20,145 personas) vs. 11.5% nacional. Predominio Mapuche (92.7%). Índice de envejecimiento indígena: 84.1 (vs. 53.9 nacional), destacando vulnerabilidad en grupos etarios mayores.
+    - Def: Población afrodescendiente: 0.5% (2,453 personas) vs. 0.9% nacional.
+  - Cpt: Estructura Urbano-Rural. Def: Ruralidad marcada (28.7% vs. 11.3% nacional). Comunas extremas: Cobquecura (71.5%), Ninhue (71.2%).
 
 - Cpt: Condiciones Sociales y Desarrollo Humano
-  - Cpt: Pobreza y Desigualdad. Def: Brecha estructural. Pobreza por ingresos: 12.1% vs 6.5% nacional. Pobreza multidimensional: 15.5% vs 16.9% nacional. Focos críticos: Cobquecura (19.1%), Pemuco (19.0%).
+  - Cpt: Educación. Def: Escolaridad promedio (18+ años): 11.0 años vs. 12.1 nacional. Tasa de alfabetismo (15+ años): 95.6% vs. 97.8% nacional. Distribución por nivel educativo: 36.2% con educación media completa (vs. 41.5% nacional); solo 4.7% con educación superior (vs. 18.4% nacional).
+  - Cpt: Discapacidad. Def: Prevalencia: 15.3% (74,711 personas) vs. 11.1% nacional. Edad promedio: 58.2 años (vs. 56.4 nacional). Escolaridad promedio: 7.9 años vs. 8.9 nacional. Principales dificultades: caminar (7.6% vs. 5.6% nacional), ver (5.6% vs. 4.3% nacional). Implic: Mayor prevalencia regional exige intervenciones en accesibilidad y educación inclusiva.
+  - Cpt: Pobreza y Desigualdad. Def: Pobreza por ingresos: 12.1% vs. 6.5% nacional. Pobreza multidimensional: 15.5% vs. 16.9% nacional. Focos críticos: Cobquecura (19.1%), Pemuco (19.0%).
   - Cpt: Índice de Desarrollo Humano (IDH). Def: Disparidades internas. Chillán: IDH "medio-alto". Mayoría comunas: "medio-bajo" o "bajo". Ex: Portezuelo (0.444), San Ignacio (0.437).
-  - Cpt: Educación. Def: Desafíos en capital humano. Escolaridad promedio: 10.9 años vs 11.7 años nacional.
-  - Cpt: Salud. Def: Infraestructura: 7 hospitales, 29 CESFAM, >438,000 inscritos en atención primaria. Tasa mortalidad general: 8.7 por 1,000 hab. vs 6.9 nacional.
+  - Cpt: Salud. Def: Infraestructura: 7 hospitales, 29 CESFAM, >438,000 inscritos en atención primaria. Tasa mortalidad general: 8.7 por 1,000 hab. vs. 6.9 nacional.
 
 - Cpt: Economía, Empleo y Conectividad
   - Cpt: Estructura Productiva. Def: Base en sector primario. Rubro "Agricultura, ganadería, silvicultura y pesca" (2023): 7,217 empresas, 35,480 empleos dependientes.
   - Cpt: Mercado Laboral. Def: Desafíos estructurales. Tasa desocupación: 9.6%. Tasa ocupación informal: 33.0%. Brecha de género en desocupación: Femenina 11.0% vs Masculina 8.6%.
-  - Cpt: Conectividad Digital. Def: Marcada brecha digital. 49.7% de hogares dependen de conexiones móviles, una de las cifras más altas del país.
+  - Cpt: Vivienda y Servicios Básicos. Def: Viviendas particulares ocupadas: 187,513 (vs. 6,408,172 nacional). Hacinamiento: 4.5% vs. ~6.1% nacional. Distribución por tipo: 95.8% casas (vs. 74.1% nacional). Acceso a servicios: agua potable (81.5% vs. 92.3% nacional), electricidad (99.4% vs. 99.6% nacional). Implic: Brecha en agua potable (10.8% inferior a nacional) representa un riesgo sanitario y requiere inversión en infraestructura rural.
+  - Cpt: Conectividad Digital. Def: Acceso a internet en hogares: 87.3% vs. 93.2% nacional. Dependencia de conexiones móviles: 49.7% (una de las más altas del país), limitando productividad y acceso a servicios digitales.
 
 - Cpt: Seguridad y Riesgos
-  - Cpt: Seguridad Ciudadana. Def: Tasa de victimización (15.4%) inferior a media nacional (21.7%). Percepción de aumento delincuencia: 91.9%. Delitos con alta incidencia regional: robo en lugar habitado (tasa 629.3 vs 464.2 nacional), abigeato (tasa 39.3 vs 14.8 nacional).
+  - Cpt: Seguridad Ciudadana. Def: Tasa de victimización: 15.4% vs. 21.7% nacional. Percepción de aumento delincuencia: 91.9%. Delitos clave: robo en lugar habitado (629.3 vs. 464.2 nacional), abigeato (39.3 vs. 14.8 nacional).
   - Cpt: Riesgos Naturales y Antrópicos. Def: Exposición crítica a incendios forestales y déficit hídrico. Riesgo comunal: Erupciones volcánicas (Pinto, Coihueco, San Fabián); tsunamis (Cobquecura, Trehuaco, Coelemu). Destaca: Cobquecura con segundo ICFSR más alto de Chile.
 
 ### 3. Marco Constitucional, Legal e Institucional
@@ -488,7 +504,7 @@ Ctx: Adicional a ley orgánica, GORE se rige por leyes transversales de Adm. del
 ##### 3.3.5. Tabla de Existencia de SEREMIs
 
 |Ministerio|SEREMI|Notas|
-|---|---|---|
+|-|-|-|
 |Relaciones Exteriores|No|Prohibición de desconcentración (Ley 19.175 Art.61)|
 |Defensa Nacional|No|Prohibición de desconcentración (Ley 19.175 Art.61)|
 |Secretaría General de la Presidencia|No|Prohibición de desconcentración (Ley 19.175 Art.61)|
@@ -529,29 +545,29 @@ Act: Gobernador puede convocar a SEREMIs y directores regionales para coordinar 
 ID: GORE-NUBLE-GUIA-MARCO-ALCALDES-01
 Ref: GORE-NUBLE-GUIA-CTX-AUTORIDADES-ALCALDES-01
 
-| Comuna | Alcalde | Partido |
+| Comuna| Alcalde| Partido|
 |-|-|-|
-| Chillán | Camilo Benavente | PPD |
-| Bulnes | Gonzalo Bustamante | IND-CHV |
-| Chillán Viejo | Jorge del Pozo | IND |
-| Pinto | Jairo del Pino | IND-P.REP |
-| San Ignacio | Patricio Suazo | RN |
-| Quillón | Felipe Catalán | IND |
-| El Carmen | Renán Cabezas | RN |
-| Pemuco | Johnnson Guiñez | IND-CHV |
-| Yungay | Rafael Cifuentes | PS |
-| San Carlos | Rubén Méndez | IND |
-| San Fabián | Christopher Valdés | IND |
-| Coihueco | Wilson Palma | IND |
-| Ñiquén | Mauricio Catoni | IND-PPD |
-| San Nicolás | Víctor Toro Leiva | IND |
-| Quirihue | Eduardo Redlich | IND-CHV |
-| Cobquecura | Jorge Romero | IND |
-| Ninhue | Luis Molina | IND-CCHM |
-| Ránquil | Nicolás Torres | RN |
-| Coelemu | Alejandro Pedreros | IND-CCHM |
-| Trehuaco | Jorge Morales | IND |
-| Portezuelo | Juan Carlos Ramírez | IND |
+| Chillán| Camilo Benavente| PPD|
+| Bulnes| Gonzalo Bustamante| IND-CHV|
+| Chillán Viejo| Jorge del Pozo| IND|
+| Pinto| Jairo del Pino| IND-P.REP|
+| San Ignacio| Patricio Suazo| RN|
+| Quillón| Felipe Catalán| IND|
+| El Carmen| Renán Cabezas| RN|
+| Pemuco| Johnnson Guiñez| IND-CHV|
+| Yungay| Rafael Cifuentes| PS|
+| San Carlos| Rubén Méndez| IND|
+| San Fabián| Christopher Valdés| IND|
+| Coihueco| Wilson Palma| IND|
+| Ñiquén| Mauricio Catoni| IND-PPD|
+| San Nicolás| Víctor Toro Leiva| IND|
+| Quirihue| Eduardo Redlich| IND-CHV|
+| Cobquecura| Jorge Romero| IND|
+| Ninhue| Luis Molina| IND-CCHM|
+| Ránquil| Nicolás Torres| RN|
+| Coelemu| Alejandro Pedreros| IND-CCHM|
+| Trehuaco| Jorge Morales| IND|
+| Portezuelo| Juan Carlos Ramírez| IND|
 
 ## Parte II: El Gobierno Regional de Ñuble: Estructura, Funciones y Competencias
 
@@ -663,24 +679,24 @@ ID: GORE-NUBLE-GUIA-ESTRUCTURA-CORE-COMPOSICION-01
 - Cpt: Composición Específica Ñuble: 16 consejeros/as.
   Ref: GORE-NUBLE-GUIA-CTX-AUTORIDADES-CORE-01
 
-  | Nombre | Provincia (P=Punilla, D=Diguillín, I=Itata) |
-  |-|-|
-  | Lorena Jardua | P |
-  | María Elena Acuña | D |
-  | Arnodo Jiménez | P |
-  | Mario Urra | D |
-  | Daniela Guzmán | D |
-  | Carlos Chandía | D |
-  | Sergio Ruiz | P |
-  | Iter Stuardo | I |
-  | Bárbara Hennig | D |
-  | Marcelo Cifuentes | D |
-  | Wilson Ponce | I |
-  | Christopher Casanova | D |
-  | Pablo Jiménez | P |
-  | Geraldine Aravena | D |
-  | Carlos Garrido | I |
-  | Dalibor Franulic | I |
+| Nombre| Provincia (P=Punilla, D=Diguillín, I=Itata)|
+|-|-|
+| Lorena Jardua| P|
+| María Elena Acuña| D|
+| Arnodo Jiménez| P|
+| Mario Urra| D|
+| Daniela Guzmán| D|
+| Carlos Chandía| D|
+| Sergio Ruiz| P|
+| Iter Stuardo| I|
+| Bárbara Hennig| D|
+| Marcelo Cifuentes| D|
+| Wilson Ponce| I|
+| Christopher Casanova| D|
+| Pablo Jiménez| P|
+| Geraldine Aravena| D|
+| Carlos Garrido| I|
+| Dalibor Franulic| I|
 
 - Proc: Elección por sufragio universal directo por circunscripciones provinciales.
 - Ctx: Mandato de 4 años. Pueden ser reelegidos sucesivamente hasta por dos períodos. Fnd: CPR-ART113-01.
@@ -923,11 +939,11 @@ ID: GORE-NUBLE-GUIA-IDENTIDAD-01
 - Cpt: Objetivos Estratégicos Institucionales (OEI 2025-2026).
   ID: GORE-NUBLE-GUIA-IDENTIDAD-OEI-01
 
-  | ID | Tipo | Descripción | Enfoque-Género | Enfoque-CC |
-  |-|-|-|-|-|
-  | OEI-1 | Estratégico | Desarrollar estrategias, políticas e instrumentos para Planificación Regional, gestión de Información territorial y articulación de actores, contribuyendo al desarrollo participativo e integrado. | Sí | Sí |
-  | OEI-2 | Estratégico | Financiar cartera anual de iniciativas de Inversión Pública (fomento productivo, innovación) en conjunto con actores público-privado, para mejorar condiciones económicas y sociales. | Sí | Sí |
-  | OEI-3 | Estratégico | Implementar instancias de participación, fortalecimiento de capacidades y articulación de actores para la formulación, evaluación y ejecución eficaz, eficiente y oportuna de iniciativas FNDR. | Sí | No |
+| ID| Tipo| Descripción| Enfoque-Género| Enfoque-CC|
+|-|-|-|-|-|
+| OEI-1| Estratégico| Desarrollar estrategias, políticas e instrumentos para Planificación Regional, gestión de Información territorial y articulación de actores, contribuyendo al desarrollo participativo e integrado.| Sí| Sí|
+| OEI-2| Estratégico| Financiar cartera anual de iniciativas de Inversión Pública (fomento productivo, innovación) en conjunto con actores público-privado, para mejorar condiciones económicas y sociales.| Sí| Sí|
+| OEI-3| Estratégico| Implementar instancias de participación, fortalecimiento de capacidades y articulación de actores para la formulación, evaluación y ejecución eficaz, eficiente y oportuna de iniciativas FNDR.| Sí| No|
 
 - Cpt: Principios Orientadores.
   ID: GORE-NUBLE-GUIA-IDENTIDAD-PRINCIPIOS-01
@@ -1164,13 +1180,13 @@ ID: GORE-NUBLE-GUIA-GESTION-PPTARIA-HISTORICA-01
 Src: kb_gn_009_ccpp_sts.md
 Purp: Mostrar la evolución de la ejecución presupuestaria del GORE Ñuble.
 
-| Año | Presupuesto Ejecutado (M$) | Marco Presupuestario Final (M$) | % Ejec. |
-|- |- |- |- |
-| 2020 | 38.293.595 | 39.289.915 | 97.46% |
-| 2021 | 39.793.664 | 45.112.559 | 88.21% |
-| 2022 | 47.372.679 | 51.509.438 | 99.79% |
-| 2023 | 59.441.127 | 60.015.566 | 99.04% |
-| 2024 | 63.330.546 | 69.956.822 | 90.53% |
+| Año| Presupuesto Ejecutado (M$)| Marco Presupuestario Final (M$)| % Ejec.|
+|-|-|-|-|
+| 2020| 38.293.595| 39.289.915| 97.46%|
+| 2021| 39.793.664| 45.112.559| 88.21%|
+| 2022| 47.372.679| 51.509.438| 99.79%|
+| 2023| 59.441.127| 60.015.566| 99.04%|
+| 2024| 63.330.546| 69.956.822| 90.53%|
 
 ### 7. Gestión del Ciclo de Vida de las Intervenciones Públicas Regionales (IPR)
 
