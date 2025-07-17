@@ -726,3 +726,205 @@ Cpt: Skeleton.
 - "### 6.1. Aplicación de Factores de Ajuste"
 - "### 6.2. Estructura de Costos para Licitaciones Públicas"
 - "### 6.3. Conclusión para el Agente IA"
+
+### kb_gn_500_mapeo_indicadores_md.md
+
+ID: CATALOG-GN-KB-500
+Purp: Servir como un índice maestro que mapea los indicadores socioeconómicos de la Región de Ñuble, detallando para cada tabla de datos el archivo de conocimiento de origen, su descripción y la fuente oficial, facilitando la trazabilidad y el acceso a la información.
+Cpt: Skeleton.
+
+- "Documento compuesto por una única tabla de mapeo de indicadores."
+
+### kb_gn_501_indicadores_poblacion_md.md
+
+ID: CATALOG-GN-KB-501
+Purp: Consolidar los principales indicadores demográficos de la Región de Ñuble, desglosados por comuna, con datos sobre estructura de población por sexo y edad, inmigración, fecundidad y natalidad, provenientes principalmente del Censo 2024 y el DEIS.
+Cpt: Skeleton.
+
+- "## Sexo_RazonHM_Comuna"
+- "## Sexo_RazonHM_Edad5a_Comuna"
+- "## Edad_Envejec_Sexo_Comuna"
+- "## Inmigrantes_Sexo_Region"
+- "## Inmigrantes_Edad_Region"
+- "## Inmigrantes_PaisNac_Region"
+- "## Inmigrantes_PaisNac_Comuna"
+- "## Inmigrantes_Llegada_Periodo_Reg"
+- "## ResidHab_5a_Actual_Sexo_Region"
+- "## ResidHab_5a_Actual_Comuna"
+- "## ResidHab_5a_Actual_Edad_Region"
+- "## Mujer15a_HijosNV_Sobrev_Comuna"
+- "## Mujer15a_Hijos_SinHijos_Comuna"
+- "## Mujer15a49_HijosNV_Paridez_Comuna"
+- "## Mujer15a49_Hijos_LugNac_Comuna"
+- "## Mujer15a_Edad5a_Hijos_SN_Region"
+- "## Mujer15a49_HijosNV_Paridez_Edad5a_Region"
+- "## Mujer15a49_Hijos_Edad5a_LugNac_Comuna"
+- "## Fecundidad_Tasa_2022"
+- "## Natalidad_Tasa_2022"
+
+### kb_gn_502_indicadores_sociales_md.md
+
+ID: CATALOG-GN-KB-502
+Purp: Proveer un compendio de indicadores sociales para la Región de Ñuble, abordando pobreza, discapacidad, cuidados, gasto social, cobertura de RSH, brechas de género, educación, pensiones y salud, con datos de fuentes como CASEN, ENDIDE, BIPS y RSH.
+Cpt: Skeleton.
+
+- "## Tasa_Pobreza_Ingreso_CASEN"
+- "## Pobreza_Multidimensional_CASEN"
+- "## Pobreza_Incidencia_NubleCL_17_22"
+- "## BrechaGenero_Ingreso_RSH_24"
+- "## InsegAlim_Grave_Comm_CASEN22"
+- "## Educ_ExclRezago_EscProm_RSH24"
+- "## Pensiones_Cob_Mayores_RSH24"
+- "## Discap_Dep_Sexo_ENDIDE22"
+- "## Brecha_Cuidados_Comm_RSH24"
+- "## Gasto_Prog_Dimens_BIPS23"
+- "## Gasto_Prog_Benef_BIPS23"
+- "## RSH_Cob_Comm_25"
+- "## Hogares_NNA_NubleCL_25"
+- "## Hogares_60plus_NubleCL_25"
+- "## Est_Inasist_NubleCL_REX24"
+- "## Pers_RequiereCuidados_Nuble25"
+- "## Origen_DiadasCuida_Nuble25"
+- "## Cuidadoras_Comm_Nuble25"
+- "## Prest_Sociales_Cob_Nuble24"
+- "## Transf_Monetarias_Nuble24"
+- "## Prog_MayorCob_Nuble24"
+- "## IDH_Comm"
+- "## Estab_Salud_Tipo_2025"
+- "## PobInscr_SaludMunic_2023"
+- "## MortGeneral_Tasa_2022"
+- "## MortInfantil_Tasa_2020"
+- "## Estab_Edu_Depend_22_24"
+- "## Matricula_Depend_22_24"
+- "## Matricula_NivelEns_22_24"
+- "## SIMCE_Puntajes_2024"
+- "## Discapacidad_5a_Sexo_Edad5a_Comuna"
+- "## EscolaridadProm_Discapacidad_5a"
+- "## Dificultad_Activ_5a_Salud_Comun"
+- "## NivelEdu_Alcanzado_Comuna"
+- "## EscolaridadProm_Sexo_Comuna"
+- "## EscolaridadProm_Edad5a_Comuna"
+- "## AsistenciaNeta_NivelEdu_Comuna"
+- "## Alfabetismo_5a_Edad_Comuna"
+
+### kb_gn_503_indicadores_vivienda_servicios_md.md
+
+ID: CATALOG-GN-KB-503
+Purp: Recopilar indicadores de vivienda y servicios básicos para la Región de Ñuble, con datos sobre hogares, fuentes de energía, materiales de construcción, hacinamiento, tenencia y acceso a agua, electricidad y saneamiento, según el Censo 2024 y SIIS-T.
+Cpt: Skeleton.
+
+- "## Hogares_PromPers_Comuna"
+- "## Energia_Cocina_Hogar_Comuna"
+- "## Energia_Calefaccion_Hogar_Comuna"
+- "## Equipos_Servicios_Hogar_Comuna"
+- "## Tenencia_Vivienda_Hogar_Comuna"
+- "## ViviendaOcup_Tipo_Comuna"
+- "## ViviendaOcup_ParedExt_Comuna"
+- "## ViviendaOcup_Techo_Comuna"
+- "## ViviendaOcup_Piso_Comuna"
+- "## ViviendaOcup_Irrecuperable_Comuna"
+- "## ViviendaOcup_Dorms_Comuna"
+- "## ViviendaOcup_Hacinamiento_Comuna"
+- "## ViviendaOcup_Hogares_Comuna"
+- "## ViviendaOcup_AguaOrigen_Comuna"
+- "## ViviendaOcup_AguaDistrib_Comuna"
+- "## ViviendaOcup_Higienico_Comuna"
+- "## ViviendaOcup_EnergiaElec_Comuna"
+- "## ViviendaOcup_Basura_Comuna"
+- "## ViviendaCensada_Tipo_Comuna"
+- "## Hogares_Hacinados_25"
+- "## Hogares_Carencia_SBasicos_25"
+
+### kb_gn_504_indicadores_economia_md.md
+
+ID: CATALOG-GN-KB-504
+Purp: Presentar indicadores económicos de la Región de Ñuble, incluyendo estadísticas sobre tamaño y rubro de empresas, trabajadores, distribución de energía, exportaciones, indicadores laborales (desocupación, informalidad) y datos de sectores clave como turismo y agroindustria.
+Cpt: Skeleton.
+
+- "## Empresas_Tamano_2021_2023"
+- "## Trabajadores_TamanoEmp_2021_2023"
+- "## Empresas_RubroEco_2023"
+- "## Trabajadores_RubroEco_2023"
+- "## Energia_Distribucion_Sector_Ñuble_0325"
+- "## Energia_Generacion_Fuente_Ñuble_0325"
+- "## Lab_IndicadoresGrales_Ñuble_0125"
+- "## Desocupacion_Sexo_Ñuble_0125"
+- "## OcupacionInformal_Sexo_Ñuble_0125"
+- "## OcupInformal_Edad_Ñuble_0125"
+- "## OcupInformal_TParcial_Ñuble_0125"
+- "## Ocupados_Categoria_Ñuble_0125"
+- "## Ocupados_ActEco_Ñuble_0125"
+- "## Lab_Indicadores_Diguillin_0125"
+- "## Exportaciones_Sector_Ñuble_0325"
+- "## Export_Industria_Rama_Ñuble_0325"
+- "## Export_Continente_Ñuble_0325"
+- "## Export_BloqueEco_Ñuble_0325"
+- "## Export_Pais_Ñuble_0325"
+- "## Export_BerriesCerezas_Subcont_Ñuble_0325"
+- "## ISUP_PConst_Ñuble_0325"
+- "## Ventas_Supermercados_Ñuble_0325"
+- "## Turismo_Indicadores_Ñuble_0325"
+- "## Trigo_Molienda_Ñuble_1224"
+- "## Trigo_Subproductos_Ñuble_1224"
+- "## Ganado_Carne_Ñuble_1224"
+- "## Remates_Ferias_ÑubleBiobio_1224"
+- "## Broilers_OHiggins_Ñuble_1224"
+
+### kb_gn_505_indicadores_seguridad_md.md
+
+ID: CATALOG-GN-KB-505
+Purp: Agrupar indicadores de seguridad de la Región de Ñuble, con tasas de delitos (VIF, sexuales, robos, drogas, abigeato), datos de victimización y percepción de inseguridad según ENUSC, y factores de riesgo de desastres según SENAPRED.
+Cpt: Skeleton.
+
+- "## Abigeato_Tasa100k"
+- "## DelitosSex_Tasa100k"
+- "## Drogas_Tasa100k"
+- "## Robo_Vehiculo_Tasa100k"
+- "## Robos_Habit_NoHabit_Tasa100k"
+- "## Robos_Viol_Sorpresa_Tasa100k"
+- "## VIF_Tasa100k"
+- "## enusc_Vict_Hogar_Violentos_23_24"
+- "## enusc_Vict_Pers_Violentos_23_24"
+- "## enusc_Vict_Pers_Region_Comp_23_24"
+- "## enusc_Vict_Hogar_RobosNoViol_23_24"
+- "## enusc_Vict_Hogar_Economicos_23_24"
+- "## enusc_Vict_Hogar_Hurtos_23_24"
+- "## enusc_Vict_Hogar_Ciberneticos_23_24"
+- "## enusc_Vict_Hogar_Odio_23_24"
+- "## enusc_Vict_Hogar_Vandalismo_23_24"
+- "## enusc_Denuncia_Hogar_Violentos_23_24"
+- "## enusc_Denuncia_Hogar_Delitos_23_24"
+- "## enusc_Percepcion_Riesgo_Victima_23_24"
+- "## enusc_Actividad_Evitada_TemDel_23_24"
+- "## enusc_Percu_Delinc_Territorial_23_24"
+- "## enusc_Percu_Delinc_Pais_Region_23_24"
+- "## enusc_Percu_Delinc_Comuna_Region_23_24"
+- "## enusc_Percu_Delinc_Barrio_Region_23_24"
+- "## enusc_Fuente_Percu_Pais_23_24"
+- "## enusc_Fuente_Percu_Comuna_23_24"
+- "## enusc_Fuente_Percu_Barrio_2024"
+- "## enusc_Percu_Desorden_Barrio_23_24"
+- "## enusc_Percu_Delitos_Barrio_23_24"
+- "## enusc_Percu_Armas_Barrio_23_24"
+- "## enusc_Percu_Drogas_Barrio_23_24"
+- "## enusc_Conocimiento_Instituciones_23_24"
+- "## enusc_Confianza_PDI_23_24"
+- "## enusc_Confianza_Carab_23_24"
+- "## enusc_Confianza_Fiscalia_23_24"
+- "## enusc_Percu_Trabajo_Carab_Comuna_23_24"
+- "## enusc_Percu_Carab_Barrio_12m_23_24"
+- "## enusc_Brecha_VictPercu_Delinc_18_24"
+- "## grd_ICFSR_Comunal"
+- "## grd_Amenazas_Pob_InfraCrit"
+
+### kb_gn_506_indicadores_gobernanza_md.md
+
+ID: CATALOG-GN-KB-506
+Purp: Consolidar indicadores de gobernanza municipal para la Región de Ñuble, basados en el Sistema Nacional de Información Municipal (SINIM) 2023. Cubre desarrollo territorial, finanzas, recursos humanos, educación, salud, transferencias y compensaciones.
+Cpt: Skeleton.
+
+- "## Desarrollo_Territorial_2023"
+- "## Transferencias_Compensaciones_2023"
+- "## Educacion_Municipal_2023"
+- "## Finanzas_Municipales_2023"
+- "## RRHH_Municipales_2023"
