@@ -348,11 +348,11 @@ Los datos presentados a continuación, fueron extraídos de la Encuesta de Carac
 |Pobreza por ingresos (Personas)|2017|16.2|8.5|7.7|
 |Pobreza por ingresos (Personas)|2022|12.1|6.5|5.6|
 |Pobreza multidimensional (Personas)|2017|24.7|20.3|4.4|
-|Pobreza multidimensional (Personas)|2022|15.5|16.9|–1.4|
+|Pobreza multidimensional (Personas)|2022|15.5|16.9|-1.4|
 |Pobreza por ingresos (Hogares)|2017|15.3|7.5|7.8|
 |Pobreza por ingresos (Hogares)|2022|10.0|5.6|4.4|
 |Pobreza multidimensional (Hogares)|2017|21.1|16.3|4.8|
-|Pobreza multidimensional (Hogares)|2022|12.7|13.4|–0.7|
+|Pobreza multidimensional (Hogares)|2022|12.7|13.4|-0.7|
 
 ### Brecha de género e ingresos promedio (RSH, junio 2024)
 
@@ -685,6 +685,586 @@ Los datos presentados a continuación, fueron extraídos de la Encuesta de Carac
 * Subsidio al Pago Electrónico Útiles Escolares
 * Tarjeta Nacional Estudiantil (TNE)
 
+## Indicadores de Vivienda y Servicios Básicos (Fuente: Censo 2024, INE)
+
+### Promedio de Personas por Hogar
+
+|Código comuna|Comuna|Hogares censados|Promedio de personas por hogar|
+|-|-|-|-|
+|16302|Coihueco|10.468|2,8|
+|16103|Chillán Viejo|11.738|2,8|
+|16|Ñuble|190.402|2,7|
+|16304|San Fabián|2.022|2,6|
+|16205|Portezuelo|2.045|2,5|
+|16202|Cobquecura|2.305|2,4|
+|16204|Ninhue|2.308|2,5|
+|16207|Trehuaco|2.336|2,6|
+|16206|Ránquil|2.615|2,5|
+|16301|San Carlos|20.672|2,7|
+|16105|Pemuco|3.243|2,7|
+|16201|Quirihue|4.642|2,5|
+|16106|Pinto|4.774|2,6|
+|16303|Ñiquén|4.920|2,6|
+|16104|El Carmen|5.008|2,6|
+|16305|San Nicolás|5.442|2,8|
+|16203|Coelemu|5.638|2,8|
+|0|País|6.596.527|2,8|
+|16108|San Ignacio|6.620|2,6|
+|16109|Yungay|7.309|2,5|
+|16107|Quillón|7.523|2,5|
+|16101|Chillán|70.003|2,7|
+|16102|Bulnes|8.771|2,7|
+
+### Fuente de Energía para Cocinar
+
+|Código comuna|Comuna|Hogares censados|Gas|Parafina o petróleo|Leña|Pellet|Carbón|Electricidad|Energía solar (ej. cocina u horno solar)|No utiliza fuente de energía o combustible para cocinar|Fuente de energía o combustible para cocinar no declarada|
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.596.527|5.780.274|3.832|339.220|1.960|1.520|439.520|639|28.860|702|
+|16|Ñuble|190.402|172.674|109|14.236|73|109|2.541|11|643|6|
+|16101|Chillán|70.003|66.907|42|933|20|57|1.808|3|230|3|
+|16102|Bulnes|8.771|8.139|7|531|2|2|56|1|33|0|
+|16103|Chillán Viejo|11.738|11.252|12|292|5|8|134|1|34|0|
+|16104|El Carmen|5.008|3.935|5|1.036|3|4|10|1|14|0|
+|16105|Pemuco|3.243|2.629|0|590|4|1|8|0|10|1|
+|16106|Pinto|4.774|4.114|1|585|4|2|50|0|18|0|
+|16107|Quillón|7.523|6.670|3|774|2|1|49|0|24|0|
+|16108|San Ignacio|6.620|5.592|0|975|4|2|15|2|30|0|
+|16109|Yungay|7.309|6.365|9|860|3|0|42|0|30|0|
+|16201|Quirihue|4.642|3.704|2|857|5|0|51|0|23|0|
+|16202|Cobquecura|2.305|1.608|0|670|3|0|13|0|11|0|
+|16203|Coelemu|5.638|4.789|0|804|4|0|19|1|21|0|
+|16204|Ninhue|2.308|1.905|0|388|1|0|5|0|9|0|
+|16205|Portezuelo|2.045|1.587|1|443|1|1|3|0|9|0|
+|16206|Ránquil|2.615|2.120|1|473|1|0|10|0|10|0|
+|16207|Trehuaco|2.336|1.658|1|661|0|0|8|0|8|0|
+|16301|San Carlos|20.672|19.278|10|1.175|4|17|128|1|57|2|
+|16302|Coihueco|10.468|9.313|9|1.031|3|5|69|0|38|0|
+|16303|Ñiquén|4.920|4.443|3|435|1|5|14|0|19|0|
+|16304|San Fabián|2.022|1.820|2|181|0|1|15|1|2|0|
+|16305|San Nicolás|5.442|4.846|1|542|3|3|34|0|13|0|
+
+### Fuente de Energía para Calefacción
+
+|Código comuna|Comuna|Hogares censados|Gas|Parafina o petróleo|Leña|Pellet|Carbón|Electricidad|Otra|No utiliza fuente de energía o combustible para calefaccionar|Fuente de energía o combustible para calefaccionar no declarada|
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.596.527|1.688.313|680.755|1.606.997|137.853|13.426|1.283.687|24.691|1.159.827|978|
+|16|Ñuble|190.402|20.541|16.277|115.396|10.566|1.033|19.348|526|6.706|9|
+|16101|Chillán|70.003|10.500|10.753|25.175|7.882|288|12.463|237|2.700|5|
+|16102|Bulnes|8.771|1.010|591|5.949|139|58|660|24|339|1|
+|16103|Chillán Viejo|11.738|1.727|1.564|4.967|1.271|56|1.619|63|471|0|
+|16104|El Carmen|5.008|260|87|4.220|33|29|225|14|140|0|
+|16105|Pemuco|3.243|127|49|2.832|27|10|102|3|92|1|
+|16106|Pinto|4.774|198|107|4.151|74|23|120|6|95|0|
+|16107|Quillón|7.523|680|319|5.619|92|27|486|22|278|0|
+|16108|San Ignacio|6.620|298|136|5.693|38|41|214|11|189|0|
+|16109|Yungay|7.309|352|198|6.131|66|9|276|19|258|0|
+|16201|Quirihue|4.642|383|109|3.674|27|29|235|3|182|0|
+|16202|Cobquecura|2.305|216|66|1.660|23|47|132|3|158|0|
+|16203|Coelemu|5.638|301|80|4.920|89|11|119|11|107|0|
+|16204|Ninhue|2.308|162|31|1.866|8|36|82|6|117|0|
+|16205|Portezuelo|2.045|184|38|1.598|8|16|93|7|101|0|
+|16206|Ránquil|2.615|233|54|2.053|34|11|138|5|87|0|
+|16207|Trehuaco|2.336|101|37|2.033|23|9|59|2|72|0|
+|16301|San Carlos|20.672|2.439|1.377|13.902|445|178|1.548|54|728|1|
+|16302|Coihueco|10.468|498|310|8.917|162|49|335|13|183|1|
+|16303|Ñiquén|4.920|322|120|4.122|36|47|123|7|143|0|
+|16304|San Fabián|2.022|98|31|1.785|27|9|46|3|23|0|
+|16305|San Nicolás|5.442|452|220|4.129|62|50|273|13|243|0|
+
+### Equipamiento y Servicios en el Hogar
+
+|Código comuna|Comuna|Disponibilidad de equipo o servicio|Teléfono móvil, celular o smartphone|Computador (escritorio, portátil)|Tablet|Internet fija|Internet móvil desde un celular, tablet o BAM|Internet por conexión satelital|
+|-|-|-|-|-|-|-|-|-|
+|0|País|Sí|6.475.071|3.621.619|1.645.321|4.250.122|5.734.118|288.473|
+|0|País|No|119.949|2.964.123|4.939.222|2.338.834|854.837|6.293.135|
+|0|País|Disponibilidad no declarada|1.507|10.785|11.984|7.571|7.572|14.919|
+|16|Ñuble|Sí|186.354|83.435|31.446|84.705|155.864|8.212|
+|16|Ñuble|No|4.030|106.795|158.783|105.570|34.447|182.006|
+|16|Ñuble|Disponibilidad no declarada|18|172|173|127|91|184|
+|16101|Chillán|Sí|68.953|38.122|15.229|45.657|60.869|2.772|
+|16101|Chillán|No|1.042|31.795|54.687|24.299|9.090|67.142|
+|16101|Chillán|Disponibilidad no declarada|8|86|87|47|44|89|
+|16102|Bulnes|Sí|8.542|3.472|1.305|3.126|7.016|501|
+|16102|Bulnes|No|229|5.295|7.461|5.640|1.752|8.262|
+|16102|Bulnes|Disponibilidad no declarada|0|4|5|5|3|8|
+|16103|Chillán Viejo|Sí|11.548|5.610|2.052|6.583|9.675|673|
+|16103|Chillán Viejo|No|190|6.121|9.680|5.151|2.061|11.056|
+|16103|Chillán Viejo|Disponibilidad no declarada|0|7|6|4|2|9|
+|16104|El Carmen|Sí|4.856|1.646|575|1.274|3.811|77|
+|16104|El Carmen|No|152|3.360|4.431|3.731|1.194|4.929|
+|16104|El Carmen|Disponibilidad no declarada|0|2|2|3|3|2|
+|16105|Pemuco|Sí|3.156|1.100|334|590|2.526|80|
+|16105|Pemuco|No|86|2.140|2.906|2.650|715|3.160|
+|16105|Pemuco|Disponibilidad no declarada|1|3|3|3|2|3|
+|16106|Pinto|Sí|4.633|1.870|630|1.133|3.799|195|
+|16106|Pinto|No|140|2.900|4.139|3.637|971|4.574|
+|16106|Pinto|Disponibilidad no declarada|1|4|5|4|4|5|
+|16107|Quillón|Sí|7.355|2.635|1.034|2.359|6.002|323|
+|16107|Quillón|No|167|4.877|6.478|5.159|1.516|7.191|
+|16107|Quillón|Disponibilidad no declarada|1|11|11|5|5|9|
+|16108|San Ignacio|Sí|6.429|2.102|643|1.301|4.968|153|
+|16108|San Ignacio|No|191|4.511|5.971|5.316|1.648|6.460|
+|16108|San Ignacio|Disponibilidad no declarada|0|7|6|3|4|7|
+|16109|Yungay|Sí|7.129|2.687|997|2.437|5.840|305|
+|16109|Yungay|No|179|4.618|6.307|4.868|1.467|7.000|
+|16109|Yungay|Disponibilidad no declarada|1|4|5|4|2|4|
+|16201|Quirihue|Sí|4.518|1.670|635|1.918|3.325|212|
+|16201|Quirihue|No|124|2.972|4.007|2.723|1.316|4.430|
+|16201|Quirihue|Disponibilidad no declarada|0|0|0|1|1|0|
+|16202|Cobquecura|Sí|2.232|766|291|351|1.756|50|
+|16202|Cobquecura|No|73|1.539|2.013|1.953|548|2.254|
+|16202|Cobquecura|Disponibilidad no declarada|0|0|1|1|1|1|
+|16203|Coelemu|Sí|5.513|2.297|808|2.270|4.549|111|
+|16203|Coelemu|No|125|3.339|4.829|3.366|1.088|5.526|
+|16203|Coelemu|Disponibilidad no declarada|0|2|1|2|1|1|
+|16204|Ninhue|Sí|2.248|724|240|336|1.678|93|
+|16204|Ninhue|No|60|1.584|2.068|1.972|630|2.215|
+|16204|Ninhue|Disponibilidad no declarada|0|0|0|0|0|0|
+|16205|Portezuelo|Sí|1.970|629|231|351|1.504|111|
+|16205|Portezuelo|No|75|1.416|1.814|1.694|541|1.934|
+|16205|Portezuelo|Disponibilidad no declarada|0|0|0|0|0|0|
+|16206|Ránquil|Sí|2.541|848|317|537|2.134|66|
+|16206|Ránquil|No|74|1.766|2.297|2.077|480|2.548|
+|16206|Ránquil|Disponibilidad no declarada|0|1|1|1|1|1|
+|16207|Trehuaco|Sí|2.257|798|284|665|1.774|34|
+|16207|Trehuaco|No|79|1.538|2.052|1.671|562|2.302|
+|16207|Trehuaco|Disponibilidad no declarada|0|0|0|0|0|0|
+|16301|San Carlos|Sí|20.200|8.069|2.994|8.522|16.305|1.215|
+|16301|San Carlos|No|468|12.579|17.652|12.126|4.358|19.434|
+|16301|San Carlos|Disponibilidad no declarada|4|24|26|24|9|23|
+|16302|Coihueco|Sí|10.233|3.915|1.268|2.689|8.571|635|
+|16302|Coihueco|No|234|6.542|9.190|7.768|1.892|9.821|
+|16302|Coihueco|Disponibilidad no declarada|1|11|10|11|5|12|
+|16303|Ñiquén|Sí|4.721|1.401|472|473|3.685|172|
+|16303|Ñiquén|No|198|3.515|4.445|4.442|1.233|4.745|
+|16303|Ñiquén|Disponibilidad no declarada|1|4|3|5|2|3|
+|16304|San Fabián|Sí|1.975|865|305|520|1.691|109|
+|16304|San Fabián|No|47|1.157|1.717|1.502|331|1.913|
+|16304|San Fabián|Disponibilidad no declarada|0|0|0|0|0|0|
+|16305|San Nicolás|Sí|5.345|2.209|802|1.613|4.386|325|
+|16305|San Nicolás|No|97|3.231|4.639|3.825|1.054|5.110|
+|16305|San Nicolás|Disponibilidad no declarada|0|2|1|4|2|7|
+
+### Régimen de Tenencia de la Vivienda
+
+|Código comuna|Comuna|Hogares censados|Propia pagada|Propia pagándose|Arrendada con contrato|Arrendada sin contrato|Cedida por trabajo o servicio|Cedida por familiar u otro|Usufructo: solo uso y goce|Ocupada de hecho|Propiedad en sucesión y litigio|Tenencia de la vivienda no declarada|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.596.527|3.120.238|910.247|1.229.328|498.871|90.697|511.118|61.019|57.788|116.125|1.096|
+|16|Ñuble|190.402|117.256|14.927|20.062|11.148|3.445|16.661|1.919|775|4.195|14|
+|16101|Chillán|70.003|35.656|10.905|11.679|4.163|618|4.685|692|192|1.408|5|
+|16102|Bulnes|8.771|5.877|424|586|445|248|779|79|73|259|1|
+|16103|Chillán Viejo|11.738|6.514|1.418|1.551|805|133|976|127|38|175|1|
+|16104|El Carmen|5.008|3.490|38|210|293|154|541|109|14|158|1|
+|16105|Pemuco|3.243|2.315|37|141|181|80|369|29|15|75|1|
+|16106|Pinto|4.774|3.183|58|324|313|255|544|24|22|51|0|
+|16107|Quillón|7.523|5.156|132|514|418|277|819|67|36|104|0|
+|16108|San Ignacio|6.620|4.572|57|316|385|168|853|48|20|201|0|
+|16109|Yungay|7.309|4.688|212|570|581|163|737|99|40|219|0|
+|16201|Quirihue|4.642|3.236|55|398|322|43|369|33|24|162|0|
+|16202|Cobquecura|2.305|1.703|23|108|140|36|189|31|12|63|0|
+|16203|Coelemu|5.638|3.550|83|471|413|76|653|132|50|210|0|
+|16204|Ninhue|2.308|1.827|20|63|87|25|225|11|7|43|0|
+|16205|Portezuelo|2.045|1.589|11|51|75|39|215|6|22|37|0|
+|16206|Ránquil|2.615|1.907|34|103|97|47|286|41|14|86|0|
+|16207|Trehuaco|2.336|1.778|18|130|118|26|186|12|8|60|0|
+|16301|San Carlos|20.672|13.815|1.011|1.751|1.173|342|1.895|173|78|431|3|
+|16302|Coihueco|10.468|7.323|251|459|620|344|1.168|77|39|187|0|
+|16303|Ñiquén|4.920|3.713|29|206|131|165|474|44|25|133|0|
+|16304|San Fabián|2.022|1.383|16|158|145|58|197|25|12|28|0|
+|16305|San Nicolás|5.442|3.981|95|273|243|148|501|60|34|105|2|
+
+### Tipo de Vivienda Particular Ocupada
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Casa con acceso directo desde la calle|Casa en condominio cerrado|Departamento en edificio con ascensor|Departamento en edificio sin ascensor|Vivienda tradicional indígena (ruka u otras)|Pieza en casa antigua o conventillo|Mediagua, mejora, vivienda de emergencia, rancho o choza|Móvil (carpa, casa rodante o similar)|Otro tipo de vivienda particular|
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|4.622.485|417.769|715.486|558.890|1.237|45.788|19.936|1.323|25.258|
+|16|Ñuble|187.513|173.396|6.237|1.534|4.836|15|103|379|38|975|
+|16101|Chillán|68.623|60.285|2.767|1.384|3.886|4|70|71|10|146|
+|16102|Bulnes|8.668|8.129|261|71|104|0|3|74|1|25|
+|16103|Chillán Viejo|11.522|10.616|333|4|509|0|0|28|5|27|
+|16104|El Carmen|4.966|4.927|29|0|1|0|1|6|0|2|
+|16105|Pemuco|3.207|3.023|93|0|0|0|0|8|1|82|
+|16106|Pinto|4.714|4.408|278|10|4|1|4|3|0|6|
+|16107|Quillón|7.432|7.076|304|1|0|0|2|29|1|19|
+|16108|San Ignacio|6.533|6.398|112|2|0|0|2|12|1|6|
+|16109|Yungay|7.238|7.088|105|2|6|2|4|13|0|18|
+|16201|Quirihue|4.586|4.444|68|27|9|0|3|24|0|11|
+|16202|Cobquecura|2.276|2.241|23|0|0|1|1|4|1|5|
+|16203|Coelemu|5.555|5.423|105|0|0|1|3|11|0|12|
+|16204|Ninhue|2.296|2.275|14|0|1|0|2|0|0|4|
+|16205|Portezuelo|2.019|1.985|17|6|0|0|0|8|0|3|
+|16206|Ránquil|2.586|2.348|203|0|0|0|2|7|0|26|
+|16207|Trehuaco|2.317|2.294|6|0|0|0|0|9|0|8|
+|16301|San Carlos|20.385|18.903|786|24|304|2|3|26|13|324|
+|16302|Coihueco|10.350|9.895|216|1|5|0|1|21|0|211|
+|16303|Ñiquén|4.869|4.478|364|0|2|0|0|10|3|12|
+|16304|San Fabián|2.007|1.944|50|1|1|0|0|6|0|5|
+|16305|San Nicolás|5.364|5.216|103|1|4|4|2|9|2|23|
+
+### Materialidad de Paredes Exteriores
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Hormigón armado|Albañilería: bloque de cemento, ladrillo o piedra|Tabique forrado por ambas caras|Tabique sin forro interior|Adobe, barro, pirca, quincha u otro material artesanal|Materiales precarios o de desecho|Material paredes exteriores no declarado|
+|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|1.499.949|2.754.185|1.854.738|176.313|106.790|14.752|1.445|
+|16|Ñuble|187.513|18.390|65.809|94.254|6.070|2.492|479|19|
+|16101|Chillán|68.623|11.960|34.256|20.466|1.447|407|84|3|
+|16102|Bulnes|8.668|521|2.109|5.467|414|110|47|0|
+|16103|Chillán Viejo|11.522|1.031|5.210|4.887|299|71|23|1|
+|16104|El Carmen|4.966|159|864|3.656|222|52|13|0|
+|16105|Pemuco|3.207|138|957|1.834|136|133|8|1|
+|16106|Pinto|4.714|191|618|3.604|258|32|11|0|
+|16107|Quillón|7.432|273|1.415|5.318|328|71|24|3|
+|16108|San Ignacio|6.533|215|1.349|4.523|302|112|31|1|
+|16109|Yungay|7.238|351|1.134|5.375|332|20|23|3|
+|16201|Quirihue|4.586|137|1.142|2.944|185|168|8|2|
+|16202|Cobquecura|2.276|64|356|1.669|65|121|1|0|
+|16203|Coelemu|5.555|296|1.524|3.462|185|69|19|0|
+|16204|Ninhue|2.296|50|377|1.681|81|98|8|1|
+|16205|Portezuelo|2.019|68|232|1.481|91|146|1|0|
+|16206|Ránquil|2.586|131|351|1.904|129|60|11|0|
+|16207|Trehuaco|2.317|101|629|1.490|53|41|3|0|
+|16301|San Carlos|20.385|1.902|8.081|9.391|589|331|91|0|
+|16302|Coihueco|10.350|360|1.811|7.670|435|56|17|1|
+|16303|Ñiquén|4.869|194|2.060|2.160|219|209|27|0|
+|16304|San Fabián|2.007|105|394|1.388|83|27|10|0|
+|16305|San Nicolás|5.364|143|940|3.884|217|158|19|3|
+
+### Materialidad de la Cubierta del Techo
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Teja o tejuelas de arcilla, metálicas, de cemento, de madera, asfálticas o plásticas|Losa hormigón|Planchas metálicas de zinc, cobre, etc.|Planchas de fibrocemento tipo pizarreño|Fonolita o plancha de fieltro embreado|Paja, coirón, totora o caña|Materiales precarios o de desecho|Sin cubierta sólida de techo|Material cubierta de techo no declarado|
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|1.069.613|958.191|3.658.013|699.395|10.847|1.090|6.800|1.872|2.351|
+|16|Ñuble|187.513|16.231|3.220|161.559|6.178|205|18|63|24|15|
+|16101|Chillán|68.623|9.943|2.689|52.681|3.196|79|4|18|5|8|
+|16102|Bulnes|8.668|438|74|7.911|221|15|1|4|4|0|
+|16103|Chillán Viejo|11.522|557|195|10.277|473|10|3|4|1|2|
+|16104|El Carmen|4.966|305|3|4.554|98|4|1|0|0|1|
+|16105|Pemuco|3.207|141|2|3.017|43|1|0|1|1|1|
+|16106|Pinto|4.714|383|12|4.246|66|4|0|0|3|0|
+|16107|Quillón|7.432|385|2|6.863|162|10|1|8|1|0|
+|16108|San Ignacio|6.533|278|4|6.139|105|2|0|3|1|1|
+|16109|Yungay|7.238|245|11|6.829|142|5|0|2|3|1|
+|16201|Quirihue|4.586|276|29|4.144|134|2|1|0|0|0|
+|16202|Cobquecura|2.276|217|2|1.936|119|2|0|0|0|0|
+|16203|Coelemu|5.555|325|7|4.908|310|2|1|2|0|0|
+|16204|Ninhue|2.296|73|1|2.177|41|4|0|0|0|0|
+|16205|Portezuelo|2.019|76|1|1.900|38|4|0|0|0|0|
+|16206|Ránquil|2.586|173|4|2.319|85|4|0|1|0|0|
+|16207|Trehuaco|2.317|65|0|2.194|54|2|1|0|0|1|
+|16301|San Carlos|20.385|1.204|168|18.498|474|27|1|10|3|0|
+|16302|Coihueco|10.350|531|6|9.614|183|12|1|2|1|0|
+|16303|Ñiquén|4.869|264|3|4.475|121|4|1|1|0|0|
+|16304|San Fabián|2.007|111|2|1.878|6|7|1|2|0|0|
+|16305|San Nicolás|5.364|241|5|4.999|107|5|1|5|1|0|
+
+### Materialidad del Piso
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|"Parquet, piso flotante cerámico, madera, alfombra, flexit, cubrepiso u otro similar; sobre radier o vigas de madera"|Radier sin revestimiento|Baldosa de cemento|Capa de cemento sobre tierra|Tierra|Material del piso no declarado|
+|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|6.036.357|145.177|143.611|63.853|17.010|2.164|
+|16|Ñuble|187.513|175.708|6.632|2.920|1.785|442|26|
+|16101|Chillán|68.623|66.141|1.231|846|343|55|7|
+|16102|Bulnes|8.668|8.099|354|150|49|14|2|
+|16103|Chillán Viejo|11.522|11.015|364|73|52|16|2|
+|16104|El Carmen|4.966|4.398|315|84|150|19|0|
+|16105|Pemuco|3.207|2.900|162|56|79|8|2|
+|16106|Pinto|4.714|4.422|163|72|41|13|3|
+|16107|Quillón|7.432|6.726|367|214|106|19|0|
+|16108|San Ignacio|6.533|5.878|455|74|103|23|0|
+|16109|Yungay|7.238|6.604|395|144|78|15|2|
+|16201|Quirihue|4.586|4.294|146|53|61|32|0|
+|16202|Cobquecura|2.276|2.101|92|39|29|14|1|
+|16203|Coelemu|5.555|5.308|84|121|33|9|0|
+|16204|Ninhue|2.296|2.001|175|50|50|20|0|
+|16205|Portezuelo|2.019|1.858|109|24|17|11|0|
+|16206|Ránquil|2.586|2.227|139|193|17|10|0|
+|16207|Trehuaco|2.317|2.175|65|23|41|13|0|
+|16301|San Carlos|20.385|18.786|859|396|278|61|5|
+|16302|Coihueco|10.350|9.738|357|142|94|18|1|
+|16303|Ñiquén|4.869|4.404|327|57|48|33|0|
+|16304|San Fabián|2.007|1.853|70|40|30|14|0|
+|16305|San Nicolás|5.364|4.780|403|69|86|25|1|
+
+### Estado de Conservación de la Vivienda
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Viviendas irrecuperables|Viviendas sin requerimientos de reemplazo|Viviendas con requerimiento de reemplazo ignorado|
+|-|-|-|-|-|-|
+|0|País|6.408.172|72.642|6.331.142|4.388|
+|16|Ñuble|187.513|2.180|185.281|52|
+|16101|Chillán|68.623|347|68.260|16|
+|16102|Bulnes|8.668|143|8.523|2|
+|16103|Chillán Viejo|11.522|90|11.429|3|
+|16104|El Carmen|4.966|40|4.925|1|
+|16105|Pemuco|3.207|102|3.103|2|
+|16106|Pinto|4.714|29|4.682|3|
+|16107|Quillón|7.432|89|7.340|3|
+|16108|San Ignacio|6.533|68|6.463|2|
+|16109|Yungay|7.238|62|7.172|4|
+|16201|Quirihue|4.586|70|4.514|2|
+|16202|Cobquecura|2.276|24|2.251|1|
+|16203|Coelemu|5.555|50|5.505|0|
+|16204|Ninhue|2.296|31|2.264|1|
+|16205|Portezuelo|2.019|23|1.996|0|
+|16206|Ránquil|2.586|50|2.536|0|
+|16207|Trehuaco|2.317|29|2.287|1|
+|16301|San Carlos|20.385|488|19.892|5|
+|16302|Coihueco|10.350|257|10.091|2|
+|16303|Ñiquén|4.869|78|4.791|0|
+|16304|San Fabián|2.007|34|1.973|0|
+|16305|San Nicolás|5.364|76|5.284|4|
+
+### Número de Dormitorios por Vivienda
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|0 dormitorios|1 dormitorio|2 dormitorios|3 dormitorios|4 dormitorios|5 dormitorios|6 o más dormitorios|Cantidad de dormitorios no declarado|
+|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|36.835|1.575.168|2.419.639|1.785.285|451.532|100.036|38.643|1.034|
+|16|Ñuble|187.513|399|47.543|72.638|52.546|11.775|2.055|547|10|
+|16101|Chillán|68.623|148|14.573|27.092|21.166|4.652|790|198|4|
+|16102|Bulnes|8.668|31|2.324|3.366|2.311|526|83|27|0|
+|16103|Chillán Viejo|11.522|27|2.087|4.904|3.628|704|140|31|1|
+|16104|El Carmen|4.966|7|762|1.754|1.781|505|126|31|0|
+|16105|Pemuco|3.207|9|811|1.130|927|261|51|17|1|
+|16106|Pinto|4.714|15|1.629|1.743|1.057|212|47|11|0|
+|16107|Quillón|7.432|12|2.391|2.768|1.795|364|76|25|1|
+|16108|San Ignacio|6.533|17|1.883|2.331|1.844|400|45|13|0|
+|16109|Yungay|7.238|9|2.116|2.630|1.902|478|76|26|1|
+|16201|Quirihue|4.586|20|1.424|1.808|1.012|262|42|18|0|
+|16202|Cobquecura|2.276|9|927|779|440|101|13|7|0|
+|16203|Coelemu|5.555|4|1.668|2.013|1.473|305|76|16|0|
+|16204|Ninhue|2.296|4|755|792|603|114|21|7|0|
+|16205|Portezuelo|2.019|3|708|749|439|98|18|4|0|
+|16206|Ránquil|2.586|4|943|956|551|117|12|3|0|
+|16207|Trehuaco|2.317|5|615|957|574|148|15|3|0|
+|16301|San Carlos|20.385|32|5.174|8.307|5.389|1.218|209|55|1|
+|16302|Coihueco|10.350|23|2.749|3.948|2.798|692|108|31|1|
+|16303|Ñiquén|4.869|6|1.771|1.766|1.065|216|38|7|0|
+|16304|San Fabián|2.007|3|566|836|476|107|16|3|0|
+|16305|San Nicolás|5.364|11|1.667|2.009|1.315|295|53|14|0|
+
+### Hacinamiento en Viviendas
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Viviendas sin hacinamiento|Viviendas con hacinamiento medio|Viviendas con hacinamiento crítico|Índice de hacinamiento ignorado|
+|-|-|-|-|-|-|-|
+|0|País|6.408.172|6.018.851|330.955|57.332|1.034|
+|16|Ñuble|187.513|179.006|7.773|724|10|
+|16101|Chillán|68.623|65.708|2.653|258|4|
+|16102|Bulnes|8.668|8.235|377|56|0|
+|16103|Chillán Viejo|11.522|10.975|499|47|1|
+|16104|El Carmen|4.966|4.799|154|13|0|
+|16105|Pemuco|3.207|3.033|158|15|1|
+|16106|Pinto|4.714|4.467|228|19|0|
+|16107|Quillón|7.432|7.077|325|29|1|
+|16108|San Ignacio|6.533|6.223|281|29|0|
+|16109|Yungay|7.238|6.967|251|19|1|
+|16201|Quirihue|4.586|4.369|187|30|0|
+|16202|Cobquecura|2.276|2.183|81|12|0|
+|16203|Coelemu|5.555|5.261|277|17|0|
+|16204|Ninhue|2.296|2.226|63|7|0|
+|16205|Portezuelo|2.019|1.946|69|4|0|
+|16206|Ránquil|2.586|2.491|87|8|0|
+|16207|Trehuaco|2.317|2.231|80|6|0|
+|16301|San Carlos|20.385|19.388|919|77|1|
+|16302|Coihueco|10.350|9.821|492|36|1|
+|16303|Ñiquén|4.869|4.621|235|13|0|
+|16304|San Fabián|2.007|1.910|91|6|0|
+|16305|San Nicolás|5.364|5.075|266|23|0|
+
+### Número de Hogares por Vivienda
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Viviendas con 1 hogar|Viviendas con 2 hogares|Viviendas con 3 hogares|Viviendas con 4 o más hogares|
+|-|-|-|-|-|-|-|
+|0|País|6.408.172|6.254.479|127.917|20.256|5.520|
+|16|Ñuble|187.513|184.986|2.236|248|43|
+|16101|Chillán|68.623|67.463|987|145|28|
+|16102|Bulnes|8.668|8.575|86|5|2|
+|16103|Chillán Viejo|11.522|11.337|158|24|3|
+|16104|El Carmen|4.966|4.925|40|1|0|
+|16105|Pemuco|3.207|3.177|26|3|1|
+|16106|Pinto|4.714|4.659|51|3|1|
+|16107|Quillón|7.432|7.346|81|5|0|
+|16108|San Ignacio|6.533|6.453|74|5|1|
+|16109|Yungay|7.238|7.170|65|3|0|
+|16201|Quirihue|4.586|4.533|50|3|0|
+|16202|Cobquecura|2.276|2.251|22|2|1|
+|16203|Coelemu|5.555|5.482|63|10|0|
+|16204|Ninhue|2.296|2.285|10|1|0|
+|16205|Portezuelo|2.019|1.997|19|2|1|
+|16206|Ránquil|2.586|2.560|23|3|0|
+|16207|Trehuaco|2.317|2.299|17|1|0|
+|16301|San Carlos|20.385|20.129|235|17|4|
+|16302|Coihueco|10.350|10.241|100|9|0|
+|16303|Ñiquén|4.869|4.822|44|2|1|
+|16304|San Fabián|2.007|1.992|15|0|0|
+|16305|San Nicolás|5.364|5.290|70|4|0|
+
+### Origen del Agua
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Red pública|Pozo o noria|Camión aljibe|Río, vertiente, estero, canal, lago, agua lluvia, etc|Fuente de origen del agua no declarado|
+|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|5.914.136|263.309|131.141|98.243|1.343|
+|16|Ñuble|187.513|152.864|27.256|5.049|2.332|12|
+|16101|Chillán|68.623|63.917|4.322|326|55|3|
+|16102|Bulnes|8.668|6.691|1.737|216|24|0|
+|16103|Chillán Viejo|11.522|10.054|1.029|411|27|1|
+|16104|El Carmen|4.966|2.715|1.720|293|238|0|
+|16105|Pemuco|3.207|2.369|670|147|20|1|
+|16106|Pinto|4.714|2.998|1.139|177|400|0|
+|16107|Quillón|7.432|4.464|2.611|278|79|0|
+|16108|San Ignacio|6.533|4.313|2.044|145|31|0|
+|16109|Yungay|7.238|5.719|1.222|222|73|2|
+|16201|Quirihue|4.586|3.574|496|352|164|0|
+|16202|Cobquecura|2.276|1.242|480|196|358|0|
+|16203|Coelemu|5.555|3.865|985|390|315|0|
+|16204|Ninhue|2.296|704|1.003|538|50|1|
+|16205|Portezuelo|2.019|1.494|340|149|36|0|
+|16206|Ránquil|2.586|1.675|676|142|93|0|
+|16207|Trehuaco|2.317|1.356|731|146|84|0|
+|16301|San Carlos|20.385|17.783|2.073|492|35|2|
+|16302|Coihueco|10.350|8.036|2.012|209|92|1|
+|16303|Ñiquén|4.869|3.914|871|66|17|1|
+|16304|San Fabián|2.007|1.830|54|7|116|0|
+|16305|San Nicolás|5.364|4.151|1.041|147|25|0|
+
+### Sistema de Distribución del Agua
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Con llave dentro de la vivienda|Con llave dentro del sitio, pero fuera de la vivienda|No tiene sistema, la acarrea|Sistema de distribución del agua no declarado|
+|-|-|-|-|-|-|-|
+|0|País|6.408.172|6.196.815|160.098|49.617|1.642|
+|16|Ñuble|187.513|181.464|4.530|1.493|26|
+|16101|Chillán|68.623|67.418|1.083|117|5|
+|16102|Bulnes|8.668|8.375|230|63|0|
+|16103|Chillán Viejo|11.522|11.232|220|66|4|
+|16104|El Carmen|4.966|4.580|250|136|0|
+|16105|Pemuco|3.207|3.048|104|53|2|
+|16106|Pinto|4.714|4.552|117|43|2|
+|16107|Quillón|7.432|7.077|244|109|2|
+|16108|San Ignacio|6.533|6.232|199|102|0|
+|16109|Yungay|7.238|6.927|235|73|3|
+|16201|Quirihue|4.586|4.329|182|75|0|
+|16202|Cobquecura|2.276|2.138|106|31|1|
+|16203|Coelemu|5.555|5.391|141|23|0|
+|16204|Ninhue|2.296|2.053|176|67|0|
+|16205|Portezuelo|2.019|1.894|80|45|0|
+|16206|Ránquil|2.586|2.413|139|34|0|
+|16207|Trehuaco|2.317|2.174|107|36|0|
+|16301|San Carlos|20.385|19.786|409|189|1|
+|16302|Coihueco|10.350|10.053|219|77|1|
+|16303|Ñiquén|4.869|4.698|107|59|5|
+|16304|San Fabián|2.007|1.949|46|12|0|
+|16305|San Nicolás|5.364|5.145|136|83|0|
+
+### Disponibilidad de Servicio Higiénico
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Dentro de la vivienda, conectado a una red de alcantarillado|Fuera de la vivienda, conectado a una red de alcantarillado|Conectado a una fosa séptica|Conectado a pozo negro (letrina sanitaria o cajón)|En un cajón sobre acequia o canal|En un cajón conectado a otro sistema|Baño químico|Conectado a baño seco|No tiene servicio higiénico|Sistema de servicio higiénico no declarado|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|5.344.651|104.723|767.214|164.499|3.868|2.310|2.141|2.443|14.794|1.529|
+|16|Ñuble|187.513|118.847|2.173|59.820|5.690|105|126|58|106|568|20|
+|16101|Chillán|68.623|60.017|611|7.479|381|20|12|14|7|71|11|
+|16102|Bulnes|8.668|5.082|119|3.138|281|3|1|1|3|40|0|
+|16103|Chillán Viejo|11.522|9.551|170|1.618|148|0|2|3|5|24|1|
+|16104|El Carmen|4.966|1.969|78|2.371|498|5|21|0|10|14|0|
+|16105|Pemuco|3.207|1.722|41|1.245|168|5|8|0|2|15|1|
+|16106|Pinto|4.714|1.624|94|2.737|218|7|6|2|13|13|0|
+|16107|Quillón|7.432|3.535|71|3.531|242|10|4|2|2|34|1|
+|16108|San Ignacio|6.533|2.427|74|3.538|451|2|10|0|1|28|2|
+|16109|Yungay|7.238|4.055|143|2.724|270|0|7|2|3|33|1|
+|16201|Quirihue|4.586|3.246|102|1.000|214|1|7|1|2|13|0|
+|16202|Cobquecura|2.276|747|23|1.337|144|0|2|1|11|11|0|
+|16203|Coelemu|5.555|3.105|214|2.012|191|8|5|1|3|15|1|
+|16204|Ninhue|2.296|730|33|1.312|181|2|6|0|5|27|0|
+|16205|Portezuelo|2.019|782|17|1.075|120|1|0|1|4|19|0|
+|16206|Ránquil|2.586|594|34|1.806|124|5|2|2|1|18|0|
+|16207|Trehuaco|2.317|1.094|37|1.058|112|3|1|0|1|11|0|
+|16301|San Carlos|20.385|12.586|179|6.925|600|15|11|14|14|40|1|
+|16302|Coihueco|10.350|3.409|48|6.136|692|6|9|1|1|48|0|
+|16303|Ñiquén|4.869|989|32|3.405|373|5|7|5|4|49|0|
+|16304|San Fabián|2.007|63|5|1.817|104|2|2|0|5|9|0|
+|16305|San Nicolás|5.364|1.520|48|3.556|178|5|3|8|9|36|1|
+
+### Disponibilidad de Energía Eléctrica
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|Red pública|Generador con diésel o bencina|Placa solar|Energía eólica (viento)|Otro|No tiene energía eléctrica|Fuente de energía eléctrica no declarada|
+|-|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|6.316.147|16.021|32.343|695|16.430|24.917|1.619|
+|16|Ñuble|187.513|185.063|400|548|13|431|1.034|24|
+|16101|Chillán|68.623|68.262|65|89|7|81|108|11|
+|16102|Bulnes|8.668|8.534|17|17|1|33|66|0|
+|16103|Chillán Viejo|11.522|11.389|28|30|0|24|50|1|
+|16104|El Carmen|4.966|4.866|22|28|1|10|39|0|
+|16105|Pemuco|3.207|3.102|24|18|0|10|51|2|
+|16106|Pinto|4.714|4.655|10|16|0|8|25|0|
+|16107|Quillón|7.432|7.315|18|23|1|13|61|1|
+|16108|San Ignacio|6.533|6.430|20|14|0|23|46|0|
+|16109|Yungay|7.238|7.085|18|23|0|38|72|2|
+|16201|Quirihue|4.586|4.507|20|16|0|7|36|0|
+|16202|Cobquecura|2.276|2.216|7|22|0|4|27|0|
+|16203|Coelemu|5.555|5.471|13|11|0|25|35|0|
+|16204|Ninhue|2.296|2.231|6|15|0|13|31|0|
+|16205|Portezuelo|2.019|1.979|2|8|1|6|23|0|
+|16206|Ránquil|2.586|2.542|7|10|0|7|20|0|
+|16207|Trehuaco|2.317|2.274|5|14|0|7|17|0|
+|16301|San Carlos|20.385|20.174|43|50|1|30|83|4|
+|16302|Coihueco|10.350|10.172|14|40|0|42|80|2|
+|16303|Ñiquén|4.869|4.725|12|19|0|16|96|1|
+|16304|San Fabián|2.007|1.964|6|20|0|2|15|0|
+|16305|San Nicolás|5.364|5.170|43|65|1|32|53|0|
+
+### Sistema de Eliminación de Basura
+
+|Código comuna|Comuna|Viviendas particulares ocupadas con moradores presentes|La recogen los servicios de aseo|La entierra y/o quema|La deja en terreno eriazo, quebrada o zanja|La tira al río, laguna o mar|Otro|Medio de eliminación de basura no declarado|
+|-|-|-|-|-|-|-|-|-|
+|0|País|6.408.172|6.221.171|111.904|14.058|1.009|58.798|1.232|
+|16|Ñuble|187.513|178.845|6.362|497|22|1.771|16|
+|16101|Chillán|68.623|68.249|187|45|7|132|3|
+|16102|Bulnes|8.668|8.434|153|22|1|57|1|
+|16103|Chillán Viejo|11.522|11.263|106|13|1|135|4|
+|16104|El Carmen|4.966|4.306|601|22|1|36|0|
+|16105|Pemuco|3.207|3.042|144|7|0|13|1|
+|16106|Pinto|4.714|4.471|169|12|0|62|0|
+|16107|Quillón|7.432|6.943|343|68|1|76|1|
+|16108|San Ignacio|6.533|6.011|461|21|0|39|1|
+|16109|Yungay|7.238|6.958|181|13|0|85|1|
+|16201|Quirihue|4.586|4.158|330|33|1|64|0|
+|16202|Cobquecura|2.276|1.859|334|11|0|72|0|
+|16203|Coelemu|5.555|5.351|180|7|1|16|0|
+|16204|Ninhue|2.296|1.497|658|53|0|88|0|
+|16205|Portezuelo|2.019|1.844|140|27|0|8|0|
+|16206|Ránquil|2.586|2.345|154|9|1|77|0|
+|16207|Trehuaco|2.317|1.693|548|13|0|63|0|
+|16301|San Carlos|20.385|19.296|789|80|5|211|4|
+|16302|Coihueco|10.350|9.999|265|15|0|71|0|
+|16303|Ñiquén|4.869|4.521|321|12|1|14|0|
+|16304|San Fabián|2.007|1.930|46|3|0|28|0|
+|16305|San Nicolás|5.364|4.675|252|11|2|424|0|
+
+### Tipo de Vivienda Censada
+
+|Código comuna|Comuna|Viviendas censadas|Casa con acceso directo desde la calle|Casa en condominio cerrado|Departamento en edificio con ascensor|Departamento en edificio sin ascensor|Vivienda tradicional indígena (ruka u otras)|Pieza en casa antigua o conventillo|Mediagua, mejora, vivienda de emergencia, rancho o choza|Móvil (carpa, casa rodante o similar)|Otro tipo de vivienda particular|Viviendas Colectivas|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|0|País|7.642.716|5.397.387|539.897|915.728|664.242|1.967|51.305|27.490|1.557|38.823|4.320|
+|16|Ñuble|234.845|213.761|9.221|2.780|6.675|16|123|564|50|1.516|139|
+|16101|Chillán|81.042|69.092|3.386|2.607|5.484|5|87|96|10|217|58|
+|16102|Bulnes|10.531|9.759|415|80|140|0|3|85|2|43|4|
+|16103|Chillán Viejo|13.027|11.932|388|5|611|0|0|39|10|32|10|
+|16104|El Carmen|6.212|6.139|46|0|1|0|1|9|0|10|6|
+|16105|Pemuco|4.204|3.889|142|0|0|0|0|17|1|153|2|
+|16106|Pinto|7.664|6.844|774|10|4|1|4|5|0|13|9|
+|16107|Quillón|13.489|12.332|1.073|2|0|0|3|38|1|34|6|
+|16108|San Ignacio|7.990|7.802|149|2|0|0|3|20|1|12|1|
+|16109|Yungay|10.342|10.112|154|3|8|2|4|21|0|31|7|
+|16201|Quirihue|5.628|5.375|106|31|14|0|3|47|2|44|6|
+|16202|Cobquecura|3.897|3.778|82|0|0|1|1|6|3|20|6|
+|16203|Coelemu|7.087|6.908|127|0|2|1|3|19|0|25|2|
+|16204|Ninhue|2.908|2.865|29|0|1|0|2|2|0|8|1|
+|16205|Portezuelo|2.700|2.611|33|8|0|0|0|18|0|28|2|
+|16206|Ránquil|3.563|3.220|294|0|0|0|2|9|1|34|3|
+|16207|Trehuaco|3.053|3.014|13|1|0|0|0|12|0|13|0|
+|16301|San Carlos|23.905|21.945|1.041|28|394|2|3|37|13|431|11|
+|16302|Coihueco|12.130|11.519|281|1|6|0|1|25|0|296|1|
+|16303|Ñiquén|6.008|5.518|444|0|5|0|0|11|3|26|1|
+|16304|San Fabián|3.137|2.975|104|1|1|0|0|37|1|17|1|
+|16305|San Nicolás|6.328|6.132|140|1|4|4|3|11|2|29|2|
+
 ## Indicadores sanitarios
 
 Los datos presentados a continuación, fueron extraídos del Departamento de Estadísticas e Información en Salud (DEIS) del Ministerio de Salud y SINIM desde datos FONASA. Se presenta la cantidad de establecimientos de salud al 12 de enero de 2024, las tasas de fecundidad, natalidad, mortalidad general y mortalidad infantil para el año 2020, la población inscrita validada en servicios de salud municipal al año 2022. Este año se incorpora información sobre la Cobertura de vacunación Bivalente COVID-19.
@@ -1014,6 +1594,233 @@ Los datos presentados a continuación, fueron extraídos de las bases puestas a 
 |Yungay|267|251|249|243|241|258|
 |Región Ñuble|279|268|249|244|279|-|
 |País|278|264|249|245|249|259|
+
+### Alfabetismo de la población de 5 años y más por grupos de edad (Censo 2024)
+
+|Código comuna|Comuna|Sabe leer y escribir|Población de 5 años o más|5-14 años|15-64 años|65 años o más|
+|-|-|-|-|-|-|-|
+|0|País|Total País|17.609.739|2.403.955|12.618.546|2.587.238|
+|0|País|Sí|16.768.987|1.988.549|12.377.415|2.403.023|
+|0|País|No|725.878|395.026|166.492|164.360|
+|0|País|Sabe leer y escribir no declarado|114.874|20.380|74.639|19.855|
+|16|Ñuble|Total Región|488.842|63.849|339.759|85.234|
+|16|Ñuble|Sí|457.226|52.174|329.995|75.057|
+|16|Ñuble|No|29.713|11.273|8.580|9.860|
+|16|Ñuble|Sabe leer y escribir no declarado|1.903|402|1.184|317|
+|16101|Chillán|Total Comuna|181.437|24.176|128.445|28.816|
+|16101|Chillán|Sí|172.564|19.801|125.921|26.842|
+|16101|Chillán|No|8.002|4.218|1.946|1.838|
+|16101|Chillán|Sabe leer y escribir no declarado|871|157|578|136|
+|16102|Bulnes|Total Comuna|22.749|3.025|15.611|4.113|
+|16102|Bulnes|Sí|21.142|2.471|15.090|3.581|
+|16102|Bulnes|No|1.547|539|482|526|
+|16102|Bulnes|Sabe leer y escribir no declarado|60|15|39|6|
+|16103|Chillán Viejo|Total Comuna|31.105|4.429|22.541|4.135|
+|16103|Chillán Viejo|Sí|29.408|3.599|22.048|3.761|
+|16103|Chillán Viejo|No|1.580|791|424|365|
+|16103|Chillán Viejo|Sabe leer y escribir no declarado|117|39|69|9|
+|16104|El Carmen|Total Comuna|12.581|1.590|8.698|2.293|
+|16104|El Carmen|Sí|11.652|1.276|8.442|1.934|
+|16104|El Carmen|No|895|313|249|333|
+|16104|El Carmen|Sabe leer y escribir no declarado|34|1|7|26|
+|16105|Pemuco|Total Comuna|8.492|1.079|5.910|1.503|
+|16105|Pemuco|Sí|7.828|861|5.726|1.241|
+|16105|Pemuco|No|635|213|165|257|
+|16105|Pemuco|Sabe leer y escribir no declarado|29|5|19|5|
+|16106|Pinto|Total Comuna|11.914|1.418|8.259|2.237|
+|16106|Pinto|Sí|11.169|1.178|8.039|1.952|
+|16106|Pinto|No|686|233|214|239|
+|16106|Pinto|Sabe leer y escribir no declarado|59|7|6|46|
+|16107|Quillón|Total Comuna|18.379|2.226|12.100|4.053|
+|16107|Quillón|Sí|17.018|1.839|11.639|3.540|
+|16107|Quillón|No|1.261|366|400|495|
+|16107|Quillón|Sabe leer y escribir no declarado|100|21|61|18|
+|16108|San Ignacio|Total Comuna|16.656|2.043|11.443|3.170|
+|16108|San Ignacio|Sí|15.277|1.624|10.956|2.697|
+|16108|San Ignacio|No|1.329|402|455|472|
+|16108|San Ignacio|Sabe leer y escribir no declarado|50|17|32|1|
+|16109|Yungay|Total Comuna|17.914|2.299|12.246|3.369|
+|16109|Yungay|Sí|16.821|1.848|11.986|2.987|
+|16109|Yungay|No|1.037|438|228|371|
+|16109|Yungay|Sabe leer y escribir no declarado|56|13|32|11|
+|16201|Quirihue|Total Comuna|11.233|1.402|7.604|2.227|
+|16201|Quirihue|Sí|10.417|1.185|7.327|1.905|
+|16201|Quirihue|No|804|214|271|319|
+|16201|Quirihue|Sabe leer y escribir no declarado|12|3|6|3|
+|16202|Cobquecura|Total Comuna|5.291|534|3.466|1.291|
+|16202|Cobquecura|Sí|4.815|437|3.314|1.064|
+|16202|Cobquecura|No|469|92|150|227|
+|16202|Cobquecura|Sabe leer y escribir no declarado|7|5|2|0|
+|16203|Coelemu|Total Comuna|15.189|1.991|10.242|2.956|
+|16203|Coelemu|Sí|14.072|1.618|9.916|2.538|
+|16203|Coelemu|No|1.076|360|300|416|
+|16203|Coelemu|Sabe leer y escribir no declarado|41|13|26|2|
+|16204|Ninhue|Total Comuna|5.551|631|3.693|1.227|
+|16204|Ninhue|Sí|4.982|525|3.496|961|
+|16204|Ninhue|No|566|105|195|266|
+|16204|Ninhue|Sabe leer y escribir no declarado|3|1|2|0|
+|16205|Portezuelo|Total Comuna|5.021|556|3.341|1.124|
+|16205|Portezuelo|Sí|4.534|460|3.141|933|
+|16205|Portezuelo|No|483|95|197|191|
+|16205|Portezuelo|Sabe leer y escribir no declarado|4|1|3|0|
+|16206|Ránquil|Total Comuna|6.249|790|3.975|1.484|
+|16206|Ránquil|Sí|5.758|642|3.838|1.278|
+|16206|Ránquil|No|475|141|130|204|
+|16206|Ránquil|Sabe leer y escribir no declarado|16|7|7|2|
+|16207|Trehuaco|Total Comuna|5.866|687|4.007|1.172|
+|16207|Trehuaco|Sí|5.350|568|3.822|960|
+|16207|Trehuaco|No|509|118|182|209|
+|16207|Trehuaco|Sabe leer y escribir no declarado|7|1|3|3|
+|16301|San Carlos|Total Comuna|53.247|6.906|36.832|9.509|
+|16301|San Carlos|Sí|49.483|5.631|35.720|8.132|
+|16301|San Carlos|No|3.558|1.229|987|1.342|
+|16301|San Carlos|Sabe leer y escribir no declarado|206|46|125|35|
+|16302|Coihueco|Total Comuna|28.276|4.002|20.041|4.233|
+|16302|Coihueco|Sí|25.881|3.247|19.138|3.496|
+|16302|Coihueco|No|2.259|727|799|733|
+|16302|Coihueco|Sabe leer y escribir no declarado|136|28|104|4|
+|16303|Ñiquén|Total Comuna|12.292|1.471|8.040|2.781|
+|16303|Ñiquén|Sí|11.234|1.220|7.662|2.352|
+|16303|Ñiquén|No|1.027|245|357|425|
+|16303|Ñiquén|Sabe leer y escribir no declarado|31|6|21|4|
+|16304|San Fabián|Total Comuna|4.994|699|3.335|960|
+|16304|San Fabián|Sí|4.574|562|3.253|759|
+|16304|San Fabián|No|413|134|78|201|
+|16304|San Fabián|Sabe leer y escribir no declarado|7|3|4|0|
+|16305|San Nicolás|Total Comuna|14.406|1.895|9.930|2.581|
+|16305|San Nicolás|Sí|13.247|1.582|9.521|2.144|
+|16305|San Nicolás|No|1.102|300|371|431|
+|16305|San Nicolás|Sabe leer y escribir no declarado|57|13|38|6|
+
+### Nivel educativo alcanzado por la población censada (Censo 2024)
+
+|Código comuna|Comuna|Población censada|Nunca asistió|Diferencial|Parvularia|Básica|Media|Superior|Nivel educativo no declarado|
+|-|-|-|-|-|-|-|-|-|-|
+|0|País|18.480.432|552.698|100.691|821.251|4.432.723|6.745.582|5.711.299|116.188|
+|16|Ñuble|512.289|18.651|2.564|22.237|159.476|184.582|122.943|1.836|
+|16101|Chillán|190.382|5.183|1.175|8.769|44.228|67.752|62.416|859|
+|16102|Bulnes|23.863|885|113|1.051|8.174|8.938|4.647|55|
+|16103|Chillán Viejo|32.688|957|212|1.517|8.418|13.300|8.171|113|
+|16104|El Carmen|13.186|629|46|510|5.531|4.474|1.986|10|
+|16105|Pemuco|8.930|415|22|384|3.458|3.276|1.348|27|
+|16106|Pinto|12.502|456|58|496|4.320|4.650|2.469|53|
+|16107|Quillón|19.165|771|55|734|6.688|7.152|3.668|97|
+|16108|San Ignacio|17.405|712|54|644|7.113|6.219|2.616|47|
+|16109|Yungay|18.680|625|70|787|6.074|7.424|3.641|59|
+|16201|Quirihue|11.746|458|34|489|4.404|3.979|2.374|8|
+|16202|Cobquecura|5.495|278|26|275|2.187|1.590|1.134|5|
+|16203|Coelemu|15.895|687|50|591|5.683|5.591|3.254|39|
+|16204|Ninhue|5.763|280|12|194|2.642|1.749|884|2|
+|16205|Portezuelo|5.203|207|13|192|2.338|1.610|840|3|
+|16206|Ránquil|6.508|254|15|245|2.573|2.265|1.144|12|
+|16207|Trehuaco|6.124|239|18|263|2.550|2.032|1.016|6|
+|16301|San Carlos|55.847|2.488|326|2.366|18.500|21.031|10.938|198|
+|16302|Coihueco|29.766|1.459|128|1.469|11.725|9.783|5.061|141|
+|16303|Ñiquén|12.797|634|63|424|5.656|4.441|1.549|30|
+|16304|San Fabián|5.245|371|16|222|1.653|1.871|1.106|6|
+|16305|San Nicolás|15.099|663|58|615|5.561|5.455|2.681|66|
+
+### Años de escolaridad promedio por sexo (Censo 2024)
+
+|Código comuna|Comuna|Sexo|Años de escolaridad promedio|Años de escolaridad promedio para la población de 18 años o más|
+|-|-|-|-|-|
+|0|País|Total País|10.4|12.1|
+|0|País|Hombre|10.3|12.1|
+|0|País|Mujer|10.5|12.1|
+|16|Ñuble|Total Región|9.6|11.0|
+|16|Ñuble|Hombre|9.4|10.9|
+|16|Ñuble|Mujer|9.8|11.2|
+|16101|Chillán|Total Comuna|10.6|12.3|
+|16101|Chillán|Hombre|10.4|12.3|
+|16101|Chillán|Mujer|10.7|12.3|
+|16102|Bulnes|Total Comuna|9.2|10.5|
+|16102|Bulnes|Hombre|9.0|10.4|
+|16102|Bulnes|Mujer|9.3|10.6|
+|16103|Chillán Viejo|Total Comuna|9.9|11.6|
+|16103|Chillán Viejo|Hombre|9.7|11.5|
+|16103|Chillán Viejo|Mujer|10.1|11.7|
+|16104|El Carmen|Total Comuna|8.6|9.7|
+|16104|El Carmen|Hombre|8.3|9.4|
+|16104|El Carmen|Mujer|8.8|9.9|
+|16105|Pemuco|Total Comuna|8.7|9.9|
+|16105|Pemuco|Hombre|8.4|9.6|
+|16105|Pemuco|Mujer|8.9|10.1|
+|16106|Pinto|Total Comuna|9.2|10.5|
+|16106|Pinto|Hombre|9.0|10.2|
+|16106|Pinto|Mujer|9.5|10.7|
+|16107|Quillón|Total Comuna|9.1|10.3|
+|16107|Quillón|Hombre|9.0|10.2|
+|16107|Quillón|Mujer|9.2|10.3|
+|16108|San Ignacio|Total Comuna|8.6|9.7|
+|16108|San Ignacio|Hombre|8.4|9.5|
+|16108|San Ignacio|Mujer|8.8|9.9|
+|16109|Yungay|Total Comuna|9.3|10.6|
+|16109|Yungay|Hombre|9.2|10.6|
+|16109|Yungay|Mujer|9.4|10.6|
+|16201|Quirihue|Total Comuna|9.0|10.2|
+|16201|Quirihue|Hombre|8.7|9.8|
+|16201|Quirihue|Mujer|9.3|10.5|
+|16202|Cobquecura|Total Comuna|8.9|9.8|
+|16202|Cobquecura|Hombre|8.5|9.4|
+|16202|Cobquecura|Mujer|9.3|10.2|
+|16203|Coelemu|Total Comuna|9.1|10.3|
+|16203|Coelemu|Hombre|8.8|10.1|
+|16203|Coelemu|Mujer|9.3|10.5|
+|16204|Ninhue|Total Comuna|8.4|9.3|
+|16204|Ninhue|Hombre|8.2|9.0|
+|16204|Ninhue|Mujer|8.6|9.6|
+|16205|Portezuelo|Total Comuna|8.4|9.3|
+|16205|Portezuelo|Hombre|8.2|9.1|
+|16205|Portezuelo|Mujer|8.6|9.6|
+|16206|Ránquil|Total Comuna|8.8|9.9|
+|16206|Ránquil|Hombre|8.6|9.8|
+|16206|Ránquil|Mujer|9.0|10.1|
+|16207|Trehuaco|Total Comuna|8.7|9.8|
+|16207|Trehuaco|Hombre|8.4|9.5|
+|16207|Trehuaco|Mujer|9.1|10.1|
+|16301|San Carlos|Total Comuna|9.2|10.5|
+|16301|San Carlos|Hombre|9.0|10.4|
+|16301|San Carlos|Mujer|9.4|10.7|
+|16302|Coihueco|Total Comuna|8.7|10.0|
+|16302|Coihueco|Hombre|8.4|9.7|
+|16302|Coihueco|Mujer|8.9|10.3|
+|16303|Ñiquén|Total Comuna|8.3|9.2|
+|16303|Ñiquén|Hombre|8.1|9.0|
+|16303|Ñiquén|Mujer|8.5|9.5|
+|16304|San Fabián|Total Comuna|9.1|10.5|
+|16304|San Fabián|Hombre|8.9|10.3|
+|16304|San Fabián|Mujer|9.4|10.7|
+|16305|San Nicolás|Total Comuna|8.9|10.1|
+|16305|San Nicolás|Hombre|8.7|9.9|
+|16305|San Nicolás|Mujer|9.1|10.3|
+
+### Tasa de asistencia neta por nivel educativo (Censo 2024)
+
+|Código comuna|Comuna|Tasa de asistencia neta Educación Parvularia|Tasa de asistencia neta Educación Básica|Tasa de asistencia neta Educación Media|Tasa de asistencia neta Educación Superior|
+|-|-|-|-|-|-|
+|0|País|52.3|95.4|87.4|46.6|
+|16|Ñuble|51.6|95.3|88.7|45.9|
+|16101|Chillán|55.5|95.7|88.9|51.7|
+|16102|Bulnes|53.0|95.1|87.5|42.5|
+|16103|Chillán Viejo|52.2|95.3|88.0|46.5|
+|16104|El Carmen|47.1|96.5|90.0|40.8|
+|16105|Pemuco|49.7|94.2|89.2|31.3|
+|16106|Pinto|48.6|94.7|89.6|38.9|
+|16107|Quillón|50.1|94.1|86.6|40.4|
+|16108|San Ignacio|45.5|94.0|88.7|40.0|
+|16109|Yungay|51.3|95.4|88.4|41.7|
+|16201|Quirihue|59.9|95.7|88.9|46.6|
+|16202|Cobquecura|45.8|95.0|90.6|34.0|
+|16203|Coelemu|46.4|94.4|89.7|46.5|
+|16204|Ninhue|43.0|96.5|87.5|50.9|
+|16205|Portezuelo|55.1|95.3|92.5|39.9|
+|16206|Ránquil|40.4|93.1|88.8|36.5|
+|16207|Trehuaco|55.5|96.2|92.8|41.0|
+|16301|San Carlos|48.6|95.5|89.7|43.1|
+|16302|Coihueco|47.3|94.9|87.0|39.8|
+|16303|Ñiquén|43.3|95.7|88.8|39.2|
+|16304|San Fabián|44.2|94.4|86.8|36.7|
+|16305|San Nicolás|47.9|95.2|86.8|43.3|
 
 ##  Indicadores económicos
 
@@ -1510,1029 +2317,605 @@ Abreviaturas
 
 ## Indicadores de seguridad Pública
 
-### ENCUESTA NACIONAL URBANA DE SEGURIDAD CIUDADANA (ENUSC) 2024 Región de Ñuble
+A continuación se presentan los principales indicadores de seguridad pública para la Región de Ñuble, incluyendo datos de delitos registrados por las policías y los resultados de la Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC).
 
-A continuación, se presentan los resultados de la Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC) para el año 2024, correspondientes a la Región de Ñuble.
+### Casos Policiales por tipo de delito (Tasa cada 100.000 habitantes)
 
-#### 1. FICHA TÉCNICA
+Fuente: Sistema Táctico de Operación Policial (STOP), Carabineros de Chile.
 
-##### FICHA TÉCNICA: ENUSC 2024
+#### Abigeato
 
-| | |
-|-|-|
-| Población objetivo | Hogares y personas de 15 años o más que lo componen, residentes de viviendas particulares ocupadas de zonas urbanas de 136 comunas incluidas en el marco muestral de ENUSC. |
-| Diseño muestral | Probabilístico, trietápico, estratificado con igual probabilidad de selección en cada etapa. |
-| Tamaño muestral efectivo | 24.472 viviendas |
-| Error absoluto observado | Nacional | 0,5% |
-| | Regional | Mínimo: 0,9% (Región Metropolitana) <br> Máximo: 2,1% (Tarapacá) |
-| Indicadores de desempeño operativo | Operativo | 244 personas encuestadoras <br> 49 personas encargadas de grupo 45 supervisores/as <br> 8 personas encargadas regionales <br> 6 personas encargadas macrozonales |
-| | Tasa de logro | 101,9% a nivel nacional |
-| | Tasa contacto | 87,7% a nivel nacional |
-| | Tasa rechazo | 6,7% a nivel nacional |
-| | Tasa cooperación | 90,5% a nivel nacional |
-| | Tasa de respuesta | 80,1% a nivel nacional |
-| Período de recolección | Octubre a diciembre del 2024 |
-| Tipo de entrevista | Presencial |
-| Método de captura | Dispositivos Móviles de Captura (CAPI - Computer Assisted Personal Interviewing) |
-| Período de registro | Octubre 2023 a diciembre del 2024 |
-| Variable de diseño | Victimización agregada de hogares por delitos violentos |
-| Nivel de estimación | Nacional y regional |
-| Unidad de análisis | Hogares/Personas de 15 años o más |
-| Contraste 2023 - 2024 | El factor de expansión ENUSC fue mejorado para ajustarse al stock poblacional regional en base a las comunas presentes en el diseño muestral, por lo que el dato de ENUSC 2023 publicado para la presente versión puede diferir en relación con lo publicado anteriormente. <br> Para mayor detalle revisar Informe Metodológico ENUSC 2024 y Separata técnica ENUSC 2024. |
-| Contraste serie histórica | Para realizar comparaciones en la serie histórica, se consideran solo las 102 comunas, presentes en el diseño muestral de ENUSC 2015 – 2022, y no las 136 comunas de la cobertura ENUSC 2023 – 2024. Para mayor información revisar <ins>Informe Metodológico ENUSC 2023 del INE</ins>. |
-| Variaciones interanuales ENUSC 2023-2024 | Para determinar si las diferencias observadas entre las estimaciones de la ENUSC 2024 y 2023 son estadísticamente significativas, se aplicaron pruebas de hipótesis con un nivel de confianza del 95%. Esto significa que una diferencia se considera estadísticamente significativa cuando existe un 95% de certeza de que dicha variación no se debe al azar o a la variabilidad muestral, sino que refleja un cambio real en la población. Es decir, solo hay un 5% de probabilidad de que la diferencia observada sea producto del azar. La prueba utilizada es t de student. |
-
-#### 2. VICTIMIZACIÓN
-
-##### AGRUPACIÓN POR DELITOS VIOLENTOS: VICTIMIZACIÓN
-
-* Desde el 2023, se implementó la medición de victimización por delitos violentos, reemplazando los delitos de mayor connotación social para obtener una visión más completa del fenómeno. Esta actualización alinea al país con estándares de la Oficina de Naciones Unidas contra la Droga y el Delito (UNODC) con el objetivo de estandarizar las mediciones de victimización y percepción de seguridad, permitiendo una comparación rigurosa y el diseño de políticas públicas basadas en evidencia.
-* El indicador incluye a todas las personas u hogares que, durante los 12 meses previos a la entrevista, fueron víctima de al menos de uno de los siete delitos considerados, en los cuales se usó la violencia.
-
-> En el caso de los robos con violencia o intimidación y las agresiones-lesiones, siempre son considerados ya que, por definición son delitos violentos, sin embargo, los otros delitos solo se consideran en el caso de que se haya usado la violencia según las víctimas.
-
-##### VICTIMIZACIÓN HOGARES POR DELITOS VIOLENTOS
-
-Hogares de la Región, 2023-2024*
-
-Proporción de hogares de la región por tipo de delito
-
-| | 2023 | 2024 |
-|-| :---: | :---: |
-| Amenaza violenta | 2,2% | 2,8% |
-| Robo con violencia o intimidación | 1,7% | 1,3% |
-| Agresiones/lesiones | 0,7% | 0,9% |
-| Robo por sorpresa con violencia | 0,3% | 0,3% |
-| Extorsión violenta | 0,3% | 0,2% |
-| Robo de vehículo con violencia | 0,6% | 0,0% |
-| Robo de vivienda con violencia | 0,1% | 0,0% |
-
-⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad
-
-* INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)
-
-##### VICTIMIZACIÓN HOGARES POR DELITOS VIOLENTOS
-
-Comparación por regiones 2023-2024*
-
-¿Pensando en los últimos 12 meses, usted o algún integrante de su hogar fue víctima ...?
-Robos con violencia o intimidación, agresiones/lesiones, robo por sorpresa con violencia, robo de vehículo con violencia, amenazas violentas o extorsión violenta
-
-⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad
-
-* INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)
-
-##### VICTIMIZACIÓN PERSONAL POR DELITOS VIOLENTOS
-
-Personas de la Región, 2023-2024*
-
-Proporción de personas de la región por tipo de delito
-
-| | 2023 | 2024 |
-|-| :---: | :---: |
-| Amenazas Violentas | 1,4% | 1,9% |
-| Agresiones y lesiones | 0,4% | 0,5% |
-| Robo con violencia e intimidación | 1,1% | 0,5% |
-| Extorsión | 0,1% | 0,1% |
-| Robo por sorpresa | 0,3% | 0,1% |
-| Robo de Vehículo | 0,3% | 0,0% |
-| Robo en la vivienda | 0,1% | 0,0% |
-
-* INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)
-
-##### VICTIMIZACIÓN PERSONAL POR DELITOS VIOLENTOS
-
-###### Comparación por regiones, 2023-2024*
-
-¿Pensando en los últimos 12 meses, usted fue víctima ...?
-Robos con violencia o intimidación, agresiones/lesiones, robo por sorpresa con violencia, robo de vehículo con violencia, amenazas violentas o extorsión violenta
-
-* Total País: 2023: 5,7%, 2024: 5,8%.
-* Arica y Parinacota: 2023: 5,3%, 2024: 7,2%.
-* Tarapacá: 2023: 6,1%, 2024: 6,5%.
-* Antofagasta: 2023: 5,0%, 2024: 3,6%.
-* Atacama: 2023: 5,7%, 2024: 4,3%.
-* Coquimbo: 2023: 2,9%, 2024: 4,5%.
-* Valparaíso: 2023: 4,8%, 2024: 5,9%.
-* Metropolitana: 2023: 7,1%, 2024: 7,2%.
-* O'Higgins: 2023: 3,6%, 2024: 4,8%.
-* Maule: 2023: 3,1%, 2024: 3,4%.
-* Ñuble: 2023: 3,4%, 2024: 2,9%.
-* Biobío: 2023: 4,9%, 2024: 3,8%.
-* Araucanía: 2023: 3,7%, 2024: 4,8%.
-* Los Ríos: 2023: 3,5%, 2024: 4,8%.
-* Los Lagos: 2023: 2,8%, 2024: 3,0%.
-* Aysén: 2023: 2,1%, 2024: 2,0%.
-* Magallanes: 2023: 2,0%, 2024: 2,6%.
-
-An upward arrow next to the Arica y Parinacota region indicates a statistically significant increase in 2024.]
-
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-##### VICTIMIZACIÓN HOGARES: DELITOS NO VIOLENTOS
-
-###### Hogares de la Región, 2023-2024*
-
-####### Robos no violentos
-
-* 2023: 9,1%
-* 2024: 10,8%
-
-| Tipo de Robo | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Robo desde vehículo** | 8,9% | 10,3% |
-| Robo en la vivienda no violento | 4,1% | 4,7% |
-| Robo por sorpresa no violento | 1,2% | 1,3% |
-| Robo de vehículo no violento** | 0,9% | 0,8% |
+|TOTAL PAÍS|12,4|14,8|
+|Región de Ñuble|29|39,3|
+|Chillán|8,4|5,4|
+|Bulnes|30,8|70,4|
+|Chillán Viejo|20,1|45,5|
+|El Carmen|24,4|73,6|
+|Pemuco|58|34,9|
+|Pinto|41,5|90,8|
+|Quillón|31,5|31,3|
+|San Ignacio|18|36,1|
+|Yungay|42,7|47,9|
+|Quirihue|73,6|73,6|
+|Cobquecura|19|76,4|
+|Coelemu|23,7|5,9|
+|Ninhue|55,7|93,1|
+|Portezuelo|0|143,1|
+|Ránquil|31,8|31,8|
+|Treguaco|17,4|34,8|
+|San Carlos|42,3|59,8|
+|Coihueco|55,7|86,5|
+|Ñiquén|103,9|104|
+|San Fabián|211,5|189|
+|San Nicolás|56,7|56,4|
 
-####### Económicos
+#### Delitos Sexuales
 
-* 2023: 5,1%
-* 2024: 9,1% (Statistically significant increase)
-
-| Tipo de Delito | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Fraudes | 2,7% | 5,9% (Statistically significant increase) |
-| Estafas | 2,5% | 3,3% |
+|TOTAL PAÍS|124,5|109,1|
+|Región de Ñuble|116,4|99,5|
+|Chillán|102,2|95,2|
+|Bulnes|123,3|118,8|
+|Chillán Viejo|109,3|82,4|
+|El Carmen|154,8|106,3|
+|Pemuco|116,1|93|
+|Pinto|124,6|99,1|
+|Quillón|131,2|119,9|
+|San Ignacio|144,4|156,5|
+|Yungay|170,8|127,8|
+|Quirihue|122,7|73,6|
+|Cobquecura|114,2|171,8|
+|Coelemu|47,4|88,8|
+|Ninhue|167,1|93,1|
+|Portezuelo|142,6|102,2|
+|Ránquil|143,2|15,9|
+|Treguaco|122|121,7|
+|San Carlos|119,9|77,3|
+|Coihueco|114,8|124,5|
+|Ñiquén|60,6|86,6|
+|San Fabián|465,3|252|
+|San Nicolás|113,5|72,5|
 
-####### Hurtos
+#### Infracciones a la Ley de Drogas
 
-* 2023: 3,4%
-* 2024: 5,0% (Statistically significant increase)
-
-**Respecto del total de hogares que poseen vehículo.
-
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-##### VICTIMIZACIÓN HOGARES: OTROS DELITOS
-
-###### Hogares de la Región, 2023-2024*
-
-####### Delitos Cibernéticos
-
-* 2023: 4,3%
-* 2024: 5,6%
-
-| Tipo de Delito | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Hackeo redes sociales o correo electrónico | 2,6% | 3,9% |
-| Software Malicioso | 0,8% | 1,0% |
-| Acoso por internet o Ciberbullying | 0,9% | 0,9% |
-| Suplantación Identidad | 0,6% | 0,7% |
+|TOTAL PAÍS|78,3|83,3|
+|Región de Ñuble|70,2|75,5|
+|Chillán|78,9|94,7|
+|Bulnes|74,9|74,8|
+|Chillán Viejo|43,2|42,6|
+|El Carmen|40,7|0|
+|Pemuco|325|186|
+|Pinto|58,1|66,1|
+|Quillón|73,5|62,6|
+|San Ignacio|36,1|36,1|
+|Yungay|69,4|122,4|
+|Quirihue|81,8|57,2|
+|Cobquecura|38,1|57,3|
+|Coelemu|11,8|35,5|
+|Ninhue|0|0|
+|Portezuelo|20,4|0|
+|Ránquil|47,7|47,7|
+|Treguaco|0|69,5|
+|San Carlos|72,3|52,7|
+|Coihueco|90,5|121,1|
+|Ñiquén|26|17,3|
+|San Fabián|84,6|42|
+|San Nicolás|56,7|88,6|
 
-####### Delitos de odio
+#### Robo de Vehículo Motorizado
 
-* 2023: 0,2%
-* 2024: 0,1%
-
-Agrupación compuesta por hogares víctimas de los delitos de:
-
-* Amenazas
-* Agresiones/lesiones
-* Vandalismo vehículo
-* Vandalismo vivienda
-* Acoso por internet o Ciberbullying
-
-En estos casos las víctimas identificaron que el motivo de ocurrencia del delito fue por una motivación de odio.
-
-####### Vandalismo
-
-* 2023: 4,2%
-* 2024: 5,0%
-
-| Tipo | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Vehículos | 5,6% | 6,9% |
-| Viviendas | 1,9% | 1,6% |
+|TOTAL PAÍS|168,2|148,3|
+|Región de Ñuble|116,2|104,5|
+|Chillán|233,7|182,9|
+|Bulnes|48,5|52,8|
+|Chillán Viejo|106,5|125,1|
+|El Carmen|48,9|8,2|
+|Pemuco|23,2|46,5|
+|Pinto|8,3|24,8|
+|Quillón|73,5|78,2|
+|San Ignacio|24,1|12|
+|Yungay|0|42,6|
+|Quirihue|40,9|32,7|
+|Cobquecura|0|19,1|
+|Coelemu|23,7|47,4|
+|Ninhue|0|0|
+|Portezuelo|20,4|0|
+|Ránquil|15,9|47,7|
+|Treguaco|17,4|17,4|
+|San Carlos|54,7|93,2|
+|Coihueco|13,9|17,3|
+|Ñiquén|34,6|17,3|
+|San Fabián|0|21|
+|San Nicolás|32,4|40,3|
 
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
+#### Robo en Lugar Habitado y No Habitado
 
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-#### 3. DENUNCIA
-
-##### DENUNCIA POR DELITOS VIOLENTOS
-
-###### Hogares de la Región 2023-2024*
-
-[Left Chart: A stacked bar chart titled "Proporción de hogares víctimas de delitos violentos que denunciaron 2023-2024".
-
-* 2023: Sí (Reported) 57,7%, No (Not Reported) 42,3%.
-* 2024: Sí (Reported) 46,3%, No (Not Reported) 53,7%.]
-
-[Right Chart: A bar chart titled "Proporción de hogares víctimas de delitos violentos específicos que denunciaron". It compares reporting rates for specific violent crimes in 2023 (light blue) and 2024 (dark blue).
-
-* Agresiones / Lesiones: 2023: 48,5%, 2024: 63,6%.
-* Extorsión violenta: 2023: 60,9%, 2024: 88,5% (Statistically significant increase).
-* Robo con violencia o intimidación: 2023: 54,5%, 2024: 56,2%.
-* Amenaza violenta: 2023: 49,8%, 2024: 35,2%.
-* Robo por sorpresa con violencia: 2023: 71,8%, 2024: 28,8%.
-* Robo de vehículo con violencia: 2023: 0,0%, 2024: 100,0%.
-* Robo de vivienda con violencia: 2023: 0,0%, 2024: 100,0%.]
-
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-#### 4. PERCEPCIÓN DE INSEGURIDAD
-
-##### PERCEPCIÓN RESPECTO A EXPECTATIVA DE SER VÍCTIMA
-
-###### Proporción de personas de la región, 2023-2024*
-
-¿Cree usted que será víctima de algún delito en los próximos doce meses?
-
-2023
-
-* Sí: 43,5%
-* No: 43,8%
-* No Sabe: 12,7%
-* sn/nr: 0,0%
-
-2024
-
-* Sí: 44,8%
-* No: 52,7%
-* No Sabe: 2,5%
-* sn/nr: 0,0%
-
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-##### REACCIÓN FRENTE AL TEMOR DE SER VÍCTIMAS
-
-###### Proporción de personas de la región que declaran haber dejado de realizar actividades por temor a ser víctimas de un delito, 2023-2024*
-
-| Actividades que ha dejado de hacer por temor a ser víctima de delito | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Caminar por ciertas áreas o lugares | 67,6% | 67,7% |
-| Usar celular y/o artículos electrónicos en público | 55,3% | 57,4% |
-| Salir de noche | 49,5% | 56,1% |
-| Llevar o usar dinero en efectivo | 50,4% | 46,2% |
-| Usar joyas, reloj u objetos de lujo | 40,0% | 36,5% |
-| Caminar solo/a | 38,6% | 35,2% |
-| **Realizar actividades deportivas, de recreación o esparcimiento en... | 16,7% | |
-| Ir al banco | 21,4% (Statistically significant decrease) | 16,5% |
-| Tomar micros o buses | 19,4% (Statistically significant decrease) | 14,0% |
-| Tomar taxis o colectivos | 14,5% (Statistically significant decrease) | 10,8% |
-| **Manejar vehículos, motos y/o estacionar fuera de la vivienda (nueva) | 10,4% | |
-| Tomar o usar Uber, Cabify, Didi o similares | 11,4% | 9,9% |
+|TOTAL PAÍS|446,5|464,2|
+|Región de Ñuble|578,5|629,3|
+|Chillán|575,1|739,1|
+|Bulnes|784|510,3|
+|Chillán Viejo|702,1|645,3|
+|El Carmen|366,7|506,8|
+|Pemuco|684,8|558,1|
+|Pinto|490,1|536,7|
+|Quillón|771,3|808|
+|San Ignacio|481,2|433,4|
+|Yungay|667,4|638,8|
+|Quirihue|458|425|
+|Cobquecura|342,7|305,5|
+|Coelemu|438,3|497,2|
+|Ninhue|315,7|316,6|
+|Portezuelo|326|490,7|
+|Ránquil|461,5|1287,8|
+|Treguaco|557,9|521,6|
+|San Carlos|737,2|548,5|
+|Coihueco|309,7|428,9|
+|Ñiquén|302,9|502,6|
+|San Fabián|655,7|546,1|
+|San Nicolás|648,4|652,5|
 
-** Categorías son medidas desde la versión ENUSC 2024. Las proporciones para cada categoría consideran la distribución de todas las opciones de respuesta incluida ns/na.
+#### Robos con Violencia o Sorpresa
 
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-##### PERCEPCIÓN DE AUMENTO DE LA DELINCUENCIA
-
-###### Proporción de personas de la región que creen que la delincuencia aumentó en los últimos 12 meses, 2023-2024* por nivel territorial
-
-* PAÍS
-  * 2023: 91,8%
-  * 2024: 92,8%
-* COMUNA
-  * 2023: 84,7%
-  * 2024: 79,6% (Statistically significant decrease)
-* BARRIO
-  * 2023: 54,3%
-  * 2024: 47,2% (Statistically significant decrease)
-
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-##### PERCEPCIÓN DE AUMENTO DE LA DELINCUENCIA POR REGIÓN
-
-###### Proporción de personas que creen que la delincuencia aumentó en los últimos 12 meses, 2023-2024*
-
-PAÍS
-
-| Región | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Arica y Parinacota | 88,8% | 93,5% |
-| Tarapacá | 86,0% | 94,6% |
-| Antofagasta | 93,2% | 91,4% |
-| Atacama | 91,2% | 92,4% |
-| Coquimbo | 87,4% | 88,4% |
-| Valparaíso | 87,9% | 94,9% |
-| Metropolitana | 96,2% | 95,9% |
-| O´Higgins | 89,5% | 87,5% |
-| Maule | 88,4% | 89,3% |
-| Ñuble | 91,8% | 93,7% |
-| Biobío | 95,7% | 93,8% |
-| Araucanía | 94,0% (Signif. decrease) | 88,9% |
-| Los Ríos | 85,4% | 82,8% |
-| Los Lagos | 89,3% | 85,9% |
-| Aysén | 90,1% | 87,5% |
-| Magallanes | 85,7% | 86,6% |
+|TOTAL PAÍS|541,2|583,3|
+|Región de Ñuble|192,8|200,4|
+|Chillán|297,2|335,8|
+|Bulnes|171,8|132|
+|Chillán Viejo|296,4|264,4|
+|El Carmen|24,4|49|
+|Pemuco|232,1|162,8|
+|Pinto|33,2|66,1|
+|Quillón|78,7|114,7|
+|San Ignacio|84,2|48,2|
+|Yungay|96,1|47,9|
+|Quirihue|106,3|73,6|
+|Cobquecura|38,1|19,1|
+|Coelemu|100,7|94,7|
+|Ninhue|0|18,6|
+|Portezuelo|0|0|
+|Ránquil|95,5|31,8|
+|Treguaco|69,7|69,5|
+|San Carlos|176,4|181,1|
+|Coihueco|48,7|48,4|
+|Ñiquén|77,9|69,3|
+|San Fabián|63,5|21|
+|San Nicolás|113,5|88,6|
 
-COMUNA
+#### Violencia Intrafamiliar
 
-| Región | 2023 | 2024 |
+|Unidad Territorial|2022|2023|
 |-|-|-|
-| Arica y Parinacota | 87,2% (Signif. decrease) | 81,1% |
-| Tarapacá | 81,2% | 79,8% |
-| Antofagasta | 89,0% (Signif. decrease) | 84,2% |
-| Atacama | 84,4% | 83,2% |
-| Coquimbo | 81,6% | 79,8% |
-| Valparaíso | 77,9% | 79,5% |
-| Metropolitana | 72,6% | 79,0% |
-| O´Higgins | 79,1% | 76,1% |
-| Maule | 80,4% | 79,7% |
-| Ñuble | 84,7% (Signif. decrease) | 79,6% |
-| Biobío | 79,3% | 79,4% |
-| Araucanía | 77,7% (Signif. decrease) | 65,9% |
-| Los Ríos | 78,6% | 72,8% |
-| Los Lagos | 76,6% | 70,8% |
-| Aysén | 71,9% (Signif. decrease) | 59,4% |
-| Magallanes | 56,4% (Signif. decrease) | 48,4% |
+|TOTAL PAÍS|737,3|716,9|
+|Región de Ñuble|754,8|695,9|
+|Chillán|723,5|662,6|
+|Bulnes|858,9|901,8|
+|Chillán Viejo|748,1|668,1|
+|El Carmen|708,9|686,6|
+|Pemuco|719,6|697,7|
+|Pinto|573,1|578|
+|Quillón|1107,1|834,1|
+|San Ignacio|751,9|872,8|
+|Yungay|902,3|771,9|
+|Quirihue|409|531,3|
+|Cobquecura|571,2|496,4|
+|Coelemu|533|520,9|
+|Ninhue|612,8|744,9|
+|Portezuelo|346,4|429,4|
+|Ránquil|652,5|604,1|
+|Treguaco|802|765|
+|San Carlos|932,9|757,7|
+|Coihueco|706,3|684,9|
+|Ñiquén|623,2|589,2|
+|San Fabián|1099,8|1134,2|
+|San Nicolás|842,9|757,2|
 
-BARRIO
+### Riesgos y Fragilidad Territorial
 
-| Región | 2023 | 2024 |
-|-|-|-|
-| Arica y Parinacota | 61,8% (Signif. decrease) | 56,1% |
-| Tarapacá | 53,1% (Signif. decrease) | 44,7% |
-| Antofagasta | 55,7% | 55,4% |
-| Atacama | 52,6% | 53,2% |
-| Coquimbo | 51,5% | 50,1% |
-| Valparaíso | 53,4% (Signif. decrease) | 36,3% |
-| Metropolitana | 57,0% (Signif. decrease) | 54,5% |
-| O´Higgins | 54,3% (Signif. decrease) | 45,2% |
-| Maule | 49,3% | 47,0% |
-| Ñuble | 54,3% (Signif. decrease) | 47,2% |
-| Biobío | 53,2% | 50,9% |
-| Araucanía | 35,4% | 38,4% |
-| Los Ríos | 45,1% | 43,3% |
-| Los Lagos | 42,8% | 33,6% |
-| Aysén | 29,8% | 34,1% |
-| Magallanes | 17,5% (Signif. increase) | 26,4% |
+#### Población e Infraestructura Crítica Expuesta a Amenazas
 
-Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad.
-
-> INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023).
-
-##### FUENTES DE INFORMACIÓN PARA LA PERCEPCIÓN DE AUMENTO DE LA DELINCUENCIA
-
-Proporción de personas de la región que utilizan distintas fuentes de información para creer que la delincuencia aumentó, 2023-2024*
-
-PAÍS
-
-* Televisión: 49,1% (2023), 52,1% (2024)
-* Redes sociales: 33,8% (2023), 33,0% (2024)
-* Familiares otras personas: 5,9% (2023), 5,3% (2024)
-* Radio: 4,1% (2023), 3,6% (2024)
-* Periódicos: 1,8% (2023), 2,8% (2024)
-* Experiencia personal: 5,0% (2023), 2,8% (2024)
-
-COMUNA
-
-* Redes sociales: 47,7% (2023), 48,5% (2024)
-* Radio: 16,9% (2023), 18,1% (2024)
-* Familiares otras personas: 17,2% (2023), 16,3% (2024)
-* Televisión: 7,3% (2023), 9,3% (2024)
-* Periódicos: 3,2% (2023), 4,3% (2024)
-* Experiencia personal: 7,5% (2023), 3,2% (2024)
-
-BARRIO
-
-* Familiares otras personas: 59,5% (2024)
-* Redes sociales: 27,1% (2024)
-* Experiencia personal: 7,5% (2024)
-* Radio: 4,0% (2024)
-* Televisión: 1,1% (2024)
-* Periódicos: 0,4% (2024)
-
-** La medición de medios utilizados para percepción en el Barrio comienza desde la versión ENUSC 2024.*
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-**INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-##### PERCEPCIÓN DE OCURRENCIA DE INCIVILIDADES
-
-Región, 2023-2024*
-
-Percepción de ocurrencia desórdenes en el barrio
-Opciones Siempre y Casi Siempre
-2023-2024
-
-* Consumo de alcohol o droga en la vía pública: 22,0% (2023), 22,6% (2024)
-* Sitios eriazos descuidados o acumulación de basura: 16,8% (2023), 20,5% (2024)
-* Lanzamiento de fuegos artificiales: 13,2% (2023), 17,0% (2024)
-* Presencia de comercio ilegal: 13,7% (2023), 13,0% (2024)
-* Presencia de personas que habitan y/o duermen en la calle: 8,2% (2023), 9,9% (2024)
-* Rayados, marcas o pinturas en la propiedad pública o privada sin autorización: 6,3% (2023), 6,4% (2024)
-* Venta clandestina de alcohol: 6,7% (2023), 6,4% (2024)
-* Prostitución o comercio sexual: 2,6% (2023), 1,3% (2024)
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-##### PERCEPCIÓN DE OCURRENCIA DE INCIVILIDADES
-
-Región, 2023-2024*
-
-Percepción de ocurrencia de situaciones delictivas en el barrio
-Opciones Siempre y Casi Siempre
-2023-2024
-
-* Balaceras o disparos: 7,8% (2023), 7,1% (2024)
-* Robos o asaltos en la vía pública: 5,7% (2023), 5,4% (2024)
-* Presencia de pandillas violentas: 4,3% (2023), 4,5% (2024)
-* Amenazas o peleas entre vecinos: 3,1% (2023), 4,1% (2024)
-* Vandalismo o daño a la propiedad pública o privada, excluyendo rayados o marcas: 6,0% (2023), 4,1% (2024)
-* Peleas callejeras sin armas: 4,5% (2023), 3,1% (2024)
-* Peleas callejeras con armas blancas o de fuego: 3,4% (2023), 3,1% (2024)
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-##### PERCEPCIÓN DE PRESENCIA DE ARMAS DE FUEGO Y TRAFICO DE DROGAS EN EL BARRIO
-
-Región, 2023-2024*
-
-Gráfico 1: Percepción de presencia de armas de fuego en el barrio
-
-* Siempre: 0,6% (2023), 1,0% (2024)
-* Casi siempre: 1,1% (2023), 1,7% (2024)
-* Ocasionalmente: 6,1% (2023), 6,2% (2024)
-* Casi Nunca: 4,5% (2023), 7,6% (2024) - *Statistically significant increase*
-* Nunca: 87,2% (2023), 83,2% (2024) - *Statistically significant decrease*
-* NS/NR/SD: 0,4% (2023), 0,3% (2024)
-
-Gráfico 2: Percepción de tráfico de drogas en el barrio
-
-* Siempre: 5,2% (2023), 5,1% (2024)
-* Casi siempre: 7,8% (2023), 4,9% (2024) - *Statistically significant decrease*
-* Ocasionalmente: 12,1% (2023), 11,4% (2024)
-* Casi Nunca: 6,6% (2023), 9,2% (2024) - *Statistically significant increase*
-* Nunca: 67,1% (2023), 69,0% (2024)
-* NS/NR/SD: 1,1% (2023), 0,3% (2024) - *Statistically significant decrease*
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-#### 5. PERCEPCIÓN SOBRE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
-
-##### PERCEPCIÓN RESPECTO A INSTITUCIONES
-
-Proporción de personas, Región. 2023-2024*
-
-Gráfico de Barras: ¿Podría indicarme si conoce las acciones que realiza en seguridad pública (% Sí)
-
-* Carabineros de Chile: 63,9% (2023), 75,7% (2024) - *Statistically significant increase*
-* Policía de Investigaciones (PDI): 47,9% (2023), 54,7% (2024) - *Statistically significant increase*
-* Fiscalía o Ministerio Público: 32,4% (2023), 35,7% (2024)
-
-Gráficos de Dona: ¿Cuánta confianza le genera (...) respecto de sus acciones en Seguridad Pública? (de quienes conocen acciones que realizan)
-
-* Policía de Investigaciones de Chile (2023):
-
-  * Mucha y bastante confianza: 80,5%
-  * Poco o Nada de confianza: 18,9%
-
-* Policía de Investigaciones de Chile (2024):
-
-  * Mucha y bastante confianza: 80,8%
-  * Poco o Nada de confianza: 18,2%
-
-* Carabineros de Chile (2023):
-
-  * Mucha y bastante confianza: 69,3%
-  * Poco o Nada de confianza: 30,4%
-
-* Carabineros de Chile (2024):
-
-  * Mucha y bastante confianza: 68,5%
-  * Poco o Nada de confianza: 31,4%
-
-* Fiscalía o Ministerio Público (2023):
-
-  * Mucha y bastante confianza: 44,5%
-  * Poco o Nada de confianza: 54,5%
-
-* Fiscalía o Ministerio Público (2024):
-
-  * Mucha y bastante confianza: 43,3%
-  * Poco o Nada de confianza: 56,6%
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-##### PERCEPCIÓN RESPECTO A INSTITUCIONES
-
-Proporción de personas de la región, 2023-2024*
-
-¿Cómo percibe usted el trabajo de Carabineros de Chile en su comuna en los siguientes aspectos?
-
-| Aspecto | Percepción | 2023 | 2024 |
+|Amenaza|Comuna expuesta|Población Expuesta|Infraestructura Crítica expuesta|
 |-|-|-|-|
-| Control del tránsito | Muy bueno y bueno | 44,9% | 46,7% |
-| | Muy mal y Malo | 22,2% | 25,5% |
-| Frecuencia con que patrulla y vigila las calles | Muy bueno y bueno | 42,9% | 43,2% |
-| | Muy mal y Malo | 25,9% | 26,0% |
-| Coordinación y comunicación con los/as vecinos/as de su barrio | Muy bueno y bueno | 38,2% | 42,1% |
-| | Muy mal y Malo | 25,5% | 26,5% |
-| Prevención de delitos y faltas en la comuna | Muy bueno y bueno | 31,6% | 31,1% |
-| | Muy mal y Malo | 27,8% | 31,4% |
-| Control del tráfico de drogas | Muy bueno y bueno | 23,2% | 24,2% |
-| | Muy mal y Malo | 35,1% | 37,5% |
-| Control de armas | Muy bueno y bueno | 19,6% | 23,7% |
-| | Muy mal y Malo | 26,7% | 28,1% |
+|Incendio Forestal|Región de Ñuble|489029 habitantes|"69938 Viviendas ; 629 Establecimientos Educacionales ;  112 Servicios de Salud ; 41 Cuarteles de Carabineros ; 46 Compañías de Bomberos"|
+|Erupción Volcánica|Pinto, El Carmen, San Ignacio, Coihueco y San Fabián de Alico|6626 habitantes|"1704 Viviendas ; 7 Establecimientos Educacionales ; 1 Servicios de Salud ; 2 Cuarteles de Carabineros ; 2 Compañías de Bomberos"|
+|Tsunami|Cobquecura, Trehuaco y Coelemu|11249 habitantes|"5939 Viviendas ; 22 Establecimientos Educacionales ; 6 Servicios de Salud ; 3 Cuarteles de Carabineros ; 3 Compañías de Bomberos"|
+|Marejadas|Coelemu y Trehuaco|906 habitantes|"514 Viviendas ; 5 Establecimientos Educacionales ; 1 Servicios de Salud ; 1 Cuarteles de Carabineros"|
+|Déficit Hídrico|Región de Ñuble|26126 habitantes|
 
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-> En gráficos no se presentan opción Ns/nr/na y los test de significancia se realizan sólo para respuestas Muy bueno, Bueno y Muy mal y malo*
-
-**INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-##### PERCEPCIÓN RESPECTO A INSTITUCIONES
-
-Proporción de personas, Región. 2023-2024*
-
-¿Ud. diría que en los últimos doce meses la presencia de Carabineros de Chile en su barrio?
-
-* Aumentó: 20,7% (2023), 18,2% (2024)
-* Se mantuvo: 51,2% (2023), 51,2% (2024)
-* Disminuyó: 25,6% (2023), 28,4% (2024)
-* NS/NR/SD: 2,5% (2023), 2,2% (2024)
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-* *INE realizó actualización del factor de expansión 2024 en función de proyecciones de población, para efectos de comparación se actualizaron también estimaciones 2023, (podrían haber diferencias menores con datos publicados 2023)*
-
-#### 6. SERIE HISTÓRICA
-
-Delitos de Mayor Connotación Social (DMCS) e Inseguridad
-
-##### BRECHA ENTRE VICTIMIZACIÓN Y PERCEPCIÓN
-
-Victimización por DMCS* y Percepción de aumento de la delincuencia. Región 2018 - 2024
-
-Línea (Percepción): Proporción personas que creen que delincuencia aumentó en el país los últimos 12 meses
-
-* 2018: 74,6%
-* 2019: 83,3%
-* 2020: 73,1%
-* 2021: 80,8%
-* 2022: 90,5%
-* 2023: 92,2%
-* 2024: 92,2%
-
-Barras (Victimización): Proporción de hogares en el cual algún miembro del hogar fue víctima de DMCS en los últimos 12 meses
-
-* 2018: 23,8%
-* 2019: 19,1%
-* 2020: 19,3%
-* 2021: 13,8%
-* 2022: 14,3%
-* 2023: 15,4%
-* 2024: 17,9%
-
-> ⬆⬇ Diferencias estadísticamente significativas, en caso de no estar presente flechas, se considera estabilidad*
-
-> Serie construida con factor de expansión para las 102 comunas.*
-
-* *DMCS (Robo con violencia o intimidación, sorpresa, en la vivienda, de vehículo, desde vehículo, hurto y/o lesiones)*
-
-### Estadísticas comunales
-
-#### Casos policiales de violencia intrafamiliar (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|737.3|716.9|
-|Región de Ñuble|754.8|695.9|
-|Chillán|723.5|662.6|
-|Bulnes|858.9|901.8|
-|Chillán Viejo|748.1|668.1|
-|El Carmen|708.9|686.6|
-|Pemuco|719.6|697.7|
-|Pinto|573.1|578.0|
-|Quillón|1107.1|834.1|
-|San Ignacio|751.9|872.8|
-|Yungay|902.3|771.9|
-|Quirihue|409.0|531.3|
-|Cobquecura|571.2|496.4|
-|Coelemu|533.0|520.9|
-|Ninhue|612.8|744.9|
-|Portezuelo|346.4|429.4|
-|Ránquil|652.5|604.1|
-|Treguaco|802.0|765.0|
-|San Carlos|932.9|757.7|
-|Coihueco|706.3|684.9|
-|Ñiquén|623.2|589.2|
-|San Fabián|1099.8|1134.2|
-|San Nicolás|842.9|757.2|
-
-#### Violaciones y delitos sexuales (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|124.5|109.1|
-|Región de Ñuble|116.4|99.5|
-|Chillán|102.2|95.2|
-|Bulnes|123.3|118.8|
-|Chillán Viejo|109.3|82.4|
-|El Carmen|154.8|106.3|
-|Pemuco|116.1|93.0|
-|Pinto|124.6|99.1|
-|Quillón|131.2|119.9|
-|San Ignacio|144.4|156.5|
-|Yungay|170.8|127.8|
-|Quirihue|122.7|73.6|
-|Cobquecura|114.2|171.8|
-|Coelemu|47.4|88.8|
-|Ninhue|167.1|93.1|
-|Portezuelo|142.6|102.2|
-|Ránquil|143.2|15.9|
-|Treguaco|122.0|121.7|
-|San Carlos|119.9|77.3|
-|Coihueco|114.8|124.5|
-|Ñiquén|60.6|86.6|
-|San Fabián|465.3|252.0|
-|San Nicolás|113.5|72.5|
-
-#### Robos con violencia o intimidación, Robo por sorpresa (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|541.2|583.3|
-|Región de Ñuble|192.8|200.4|
-|Chillán|297.2|335.8|
-|Bulnes|171.8|132.0|
-|Chillán Viejo|296.4|264.4|
-|El Carmen|24.4|49.0|
-|Pemuco|232.1|162.8|
-|Pinto|33.2|66.1|
-|Quillón|78.7|114.7|
-|San Ignacio|84.2|48.2|
-|Yungay|96.1|47.9|
-|Quirihue|106.3|73.6|
-|Cobquecura|38.1|19.1|
-|Coelemu|100.7|94.7|
-|Ninhue|0.0|18.6|
-|Portezuelo|0.0|0.0|
-|Ránquil|95.5|31.8|
-|Treguaco|69.7|69.5|
-|San Carlos|176.4|181.1|
-|Coihueco|48.7|48.4|
-|Ñiquén|77.9|69.3|
-|San Fabián|63.5|21.0|
-|San Nicolás|113.5|88.6|
-
-#### Delitos asociados a drogas (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|78.3|83.3|
-|Región de Ñuble|70.2|75.5|
-|Chillán|78.9|94.7|
-|Bulnes|74.9|74.8|
-|Chillán Viejo|43.2|42.6|
-|El Carmen|40.7|0.0|
-|Pemuco|325.0|186.0|
-|Pinto|58.1|66.1|
-|Quillón|73.5|62.6|
-|San Ignacio|36.1|36.1|
-|Yungay|69.4|122.4|
-|Quirihue|81.8|57.2|
-|Cobquecura|38.1|57.3|
-|Coelemu|11.8|35.5|
-|Ninhue|0.0|0.0|
-|Portezuelo|20.4|0.0|
-|Ránquil|47.7|47.7|
-|Treguaco|0.0|69.5|
-|San Carlos|72.3|52.7|
-|Coihueco|90.5|121.1|
-|Ñiquén|26.0|17.3|
-|San Fabián|84.6|42.0|
-|San Nicolás|56.7|88.6|
-
-#### Robos en lugares habitados y no habitados (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|446.5|464.2|
-|Región de Ñuble|578.5|629.3|
-|Chillán|575.1|739.1|
-|Bulnes|784.0|510.3|
-|Chillán Viejo|702.1|645.3|
-|El Carmen|366.7|506.8|
-|Pemuco|684.8|558.1|
-|Pinto|490.1|536.7|
-|Quillón|771.3|808.0|
-|San Ignacio|481.2|433.4|
-|Yungay|667.4|638.8|
-|Quirihue|458.0|425.0|
-|Cobquecura|342.7|305.5|
-|Coelemu|438.3|497.2|
-|Ninhue|315.7|316.6|
-|Portezuelo|326.0|490.7|
-|Ránquil|461.5|1287.8|
-|Treguaco|557.9|521.6|
-|San Carlos|737.2|548.5|
-|Coihueco|309.7|428.9|
-|Ñiquén|302.9|502.6|
-|San Fabián|655.7|546.1|
-|San Nicolás|648.4|652.5|
-
-#### Robo de vehículo motorizado (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|168.2|148.3|
-|Región de Ñuble|116.2|104.5|
-|Chillán|233.7|182.9|
-|Bulnes|48.5|52.8|
-|Chillán Viejo|106.5|125.1|
-|El Carmen|48.9|8.2|
-|Pemuco|23.2|46.5|
-|Pinto|8.3|24.8|
-|Quillón|73.5|78.2|
-|San Ignacio|24.1|12.0|
-|Yungay|0.0|42.6|
-|Quirihue|40.9|32.7|
-|Cobquecura|0.0|19.1|
-|Coelemu|23.7|47.4|
-|Ninhue|0.0|0.0|
-|Portezuelo|20.4|0.0|
-|Ránquil|15.9|47.7|
-|Treguaco|17.4|17.4|
-|San Carlos|54.7|93.2|
-|Coihueco|13.9|17.3|
-|Ñiquén|34.6|17.3|
-|San Fabián|0.0|21.0|
-|San Nicolás|32.4|40.3|
-
-#### Abigeato (Tasa por 100000 habitantes)
-
-|Unidad Territorial|2022|2023|
-|-|-|-|
-|TOTAL PAÍS|12.4|14.8|
-|Región de Ñuble|29.0|39.3|
-|Chillán|8.4|5.4|
-|Bulnes|30.8|70.4|
-|Chillán Viejo|20.1|45.5|
-|El Carmen|24.4|73.6|
-|Pemuco|58.0|34.9|
-|Pinto|41.5|90.8|
-|Quillón|31.5|31.3|
-|San Ignacio|18.0|36.1|
-|Yungay|42.7|47.9|
-|Quirihue|73.6|73.6|
-|Cobquecura|19.0|76.4|
-|Coelemu|23.7|5.9|
-|Ninhue|55.7|93.1|
-|Portezuelo|0.0|143.1|
-|Ránquil|31.8|31.8|
-|Treguaco|17.4|34.8|
-|San Carlos|42.3|59.8|
-|Coihueco|55.7|86.5|
-|Ñiquén|103.9|104.0|
-|San Fabián|211.5|189.0|
-|San Nicolás|56.7|56.4|
-
-## Indicadores Gestión del Riesgo de Desastres
-
-### Identificación de amenazas, población e infraestructura crítica expuesta
-
-|N°|Amenaza|Comuna expuesta|Población Expuesta|Infraestructura Crítica expuesta|
-|-|-|-|-|-|
-|1|Incendio Forestal|Región de Ñuble|489029 habitantes|69938 Viviendas<br>629 Establecimientos Educacionales<br> 112 Servicios de Salud<br>41 Cuarteles de Carabineros<br>46 Compañías de Bomberos|
-|2|Erupción Volcánica|Pinto, El Carmen, San Ignacio, Coihueco y San Fabián de Alico|6626 habitantes|1704 Viviendas<br>7 Establecimientos Educacionales<br>1 Servicios de Salud<br>2 Cuarteles de Carabineros<br>2 Compañías de Bomberos|
-|3|Tsunami|Cobquecura, Trehuaco y Coelemu|11249 habitantes|5939 Viviendas<br>22 Establecimientos Educacionales<br>6 Servicios de Salud<br>3 Cuarteles de Carabineros<br>3 Compañías de Bomberos|
-|4|Marejadas|Coelemu y Trehuaco|906 habitantes|514 Viviendas<br>5 Establecimientos Educacionales<br>1 Servicios de Salud<br>1 Cuarteles de Carabineros|
-|5|Déficit Hídrico|Región de Ñuble|26126 habitantes||
-
-### Índice Comunal de Factores Subyacentes al Riesgo de desastres
-
-La evaluación de cada comuna se entrega en la Tabla 3 a continuación, se ha ordenado la tabla en orden descendente desde la comuna con más alto ICFSR. La columna "Rk" indica el ranking a nivel nacional a partir del ICFSR, en forma decreciente; es decir, donde 1 corresponde a la comuna con el mayor nivel del índice ICFSR a nivel nacional (mayor exposición) y 345 corresponde a la comuna con el índice más bajo de todas.
+#### Índice Comunal de Fragilidad Socio-Residencial (ICFSR)
 
 |Comuna|Rk|ICFSR|Clasif. Global|
 |-|-|-|-|
-|Cobquecura|2|0.78|alto|
-|Trehuaco|34|0.58|alto|
-|Pinto|47|0.55|alto|
-|Coelemu|51|0.54|alto|
-|Coihueco|70|0.50|alto|
-|Ninhue|79|0.49|alto|
-|El Carmen|88|0.48|alto|
-|San Fabián|91|0.48|alto|
-|San Ignacio|99|0.46|alto|
-|San Carlos|105|0.46|alto|
-|Yungay|130|0.43|moderado|
-|Quirihue|137|0.42|moderado|
-|Quillón|146|0.41|moderado|
-|San Nicolás|155|0.40|moderado|
-|Ránquil|176|0.37|moderado|
-|Chillán Viejo|213|0.34|moderado|
-|Portezuelo|226|0.32|moderado|
-|Bulnes|249|0.29|moderado|
-|Ñiquén|262|0.28|moderado|
-|Chillán|264|0.27|moderado|
-|Pemuco|288|0.23|moderado|
+|Cobquecura|2|0,78|alto|
+|Trehuaco|34|0,58|alto|
+|Pinto|47|0,55|alto|
+|Coelemu|51|0,54|alto|
+|Coihueco|70|0,5|alto|
+|Ninhue|79|0,49|alto|
+|El Carmen|88|0,48|alto|
+|San Fabián|91|0,48|alto|
+|San Ignacio|99|0,46|alto|
+|San Carlos|105|0,46|alto|
+|Yungay|130|0,43|moderado|
+|Quirihue|137|0,42|moderado|
+|Quillón|146|0,41|moderado|
+|San Nicolás|155|0,4|moderado|
+|Ránquil|176|0,37|moderado|
+|Chillán Viejo|213|0,34|moderado|
+|Portezuelo|226|0,32|moderado|
+|Bulnes|249|0,29|moderado|
+|Ñiquén|262|0,28|moderado|
+|Chillán|264|0,27|moderado|
+|Pemuco|288|0,23|moderado|
 
-## Inmigración extranjera (Fuente: Minuta población migrante en la región del Ñuble, Marzo 2024, Departamento de Estudios, SERMIG)
+### Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC) 2024 - Región de Ñuble
 
-### Distribución nacional de los inmigrantes internacionales, por región, 2023
+#### Percepción de aumento de la delincuencia
 
-|Región|% de Inmigrantes|
+|Nivel Territorial|2023|2024|
+|-|-|-|
+|PAÍS|91,8%|92,8%|
+|COMUNA|84,7%|79,6%|
+|BARRIO|54,3%|47,2%|
+
+#### Percepción de aumento de la delincuencia en el PAÍS, por región
+
+|Región|2023|2024|
+|-|-|-|
+|Arica y Parinacota|88,8%|93,5%|
+|Tarapacá|86,0%|94,6%|
+|Antofagasta|93,2%|91,4%|
+|Atacama|91,2%|92,4%|
+|Coquimbo|87,4%|88,4%|
+|Valparaíso|87,9%|94,9%|
+|Metropolitana|96,2%|95,9%|
+|O´Higgins|89,5|87,5%|
+|Maule|88,4%|89,3%|
+|Ñuble|91,8%|93,7%|
+|Biobío|95,7%|93,8%|
+|Araucanía|94,0|88,9%|
+|Los Ríos|85,4%|82,8%|
+|Los Lagos|89,3|85,9%|
+|Aysén|90,1%|87,5%|
+|Magallanes|85,7%|86,6%|
+
+#### Percepción de aumento de la delincuencia en la COMUNA, por región
+
+|Región|2023|2024|
+|-|-|-|
+|Arica y Parinacota|87,2%|81,1%|
+|Tarapacá|81,2%|79,8%|
+|Antofagasta|89,0%|84,2%|
+|Atacama|84,4%|83,2%|
+|Coquimbo|81,6%|79,8%|
+|Valparaíso|77,9%|79,5%|
+|Metropolitana|72,6%|79,0%|
+|O´Higgins|79,1%|76,1%|
+|Maule|80,4%|79,7%|
+|Ñuble|84,7%|79,6%|
+|Biobío|79,3|79,4%|
+|Araucanía|77,7%|65,9%|
+|Los Ríos|78,6%|72,8%|
+|Los Lagos|76,6%|70,8%|
+|Aysén|71,9%|59,4%|
+|Magallanes|56,4%|48,4%|
+
+#### Percepción de aumento de la delincuencia en el BARRIO, por región
+
+|Región|2023|2024|
+|-|-|-|
+|Arica y Parinacota|61,8%|56,1%|
+|Tarapacá|53,1%|44,7%|
+|Antofagasta|55,7%|55,4%|
+|Atacama|52,6%|53,2%|
+|Coquimbo|51,5%|50,1%|
+|Valparaíso|53,4%|36,3%|
+|Metropolitana|57,0%|54,5%|
+|O´Higgins|54,3%|45,2%|
+|Maule|49,3%|47,0%|
+|Ñuble|54,3%|47,2%|
+|Biobío|53,2%|50,9%|
+|Araucanía|35,4%|38,4%|
+|Los Ríos|45,1%|43,3%|
+|Los Lagos|42,8%|33,6%|
+|Aysén|29,8%|34,1%|
+|Magallanes|17,5%|26,4%|
+
+#### Fuente de percepción sobre delincuencia en el PAÍS
+
+|Fuente|2023|2024|
+|-|-|-|
+|Televisión|49,1%|52,1%|
+|Redes sociales|33,8%|33,0%|
+|Familiares otras personas|5,9%|5,3%|
+|Radio|4,1%|3,6%|
+|Periódicos|1,8%|2,8%|
+|Experiencia personal|5,0%|2,8%|
+
+#### Fuente de percepción sobre delincuencia en la COMUNA
+
+|Fuente|2023|2024|
+|-|-|-|
+|Redes sociales|47,7%|48,5%|
+|Radio|16,9%|18,1%|
+|Familiares otras personas|17,2%|16,3%|
+|Televisión|7,3%|9,3%|
+|Periódicos|3,2%|4,3%|
+|Experiencia personal|7,5%|3,2%|
+
+#### Fuente de percepción sobre delincuencia en el BARRIO
+
+|Fuente|2024|
 |-|-|
-|Arica y Parinacota|1,9%|
-|Tarapacá|4,5%|
-|Antofagasta|6,7%|
-|Atacama|1,3%|
-|Coquimbo|2,2%|
-|Valparaíso|6,1%|
-|Metropolitana de Santiago|57,8%|
-|Libertador General Bernardo O'Higgins|2,9%|
-|Maule|2,6%|
-|Ñuble|0,8%|
-|Biobío|2,3%|
-|La Araucanía|1,3%|
-|Los Ríos|0,5%|
-|Los Lagos|1,8%|
-|Aysén del General Carlos Ibáñez del Campo|0,2%|
-|Magallanes y de la Antártica Chilena|0,7%|
-|Ignorada|6,4%|
+|Familiares otras personas|59,5%|
+|Redes sociales|27,1%|
+|Experiencia personal|7,5%|
+|Radio|4,0%|
+|Televisión|1,1%|
+|Periódicos|0,4%|
 
-### Estimación de Población Migrante en Ñuble
+#### Percepción de problemas de delincuencia en el barrio
 
-|Año|Número de Inmigrantes|
+|Situación Delictiva|2023|2024|
+|-|-|-|
+|Balaceras o disparos|7,8%|7,1%|
+|Robos o asaltos en la vía pública|5,7%|5,4%|
+|Presencia de pandillas violentas|4,3%|4,5%|
+|Amenazas o peleas entre vecinos|3,1%|4,1%|
+|Vandalismo o daño a la propiedad (excluyendo rayados)|6,0%|4,1%|
+|Peleas callejeras sin armas|4,5%|3,1%|
+|Peleas callejeras con armas blancas o de fuego|3,4%|3,1%|
+
+#### Percepción de desórdenes e incivilidades en el barrio
+
+|Desorden|2023|2024|
+|-|-|-|
+|Consumo de alcohol o droga en la vía pública|22,0%|22,6%|
+|Sitios eriazos descuidados o acumulación de basura|16,8%|20,5%|
+|Lanzamiento de fuegos artificiales|13,2%|17,0%|
+|Presencia de comercio ilegal|13,7%|13,0%|
+|Presencia de personas que habitan y/o duermen en la calle|8,2%|9,9%|
+|Rayados, marcas o pinturas en la propiedad pública o privada|6,3%|6,4%|
+|Venta clandestina de alcohol|6,7%|6,4%|
+|Prostitución o comercio sexual|2,6%|1,3%|
+
+#### Percepción de presencia de armas en el barrio
+
+|Percepción|2023|2024|
+|-|-|-|
+|Siempre|0,6%|1,0%|
+|Casi siempre|1,1%|1,7%|
+|Ocasionalmente|6,1%|6,2%|
+|Casi Nunca|4,5%|7,6%|
+|Nunca|87,2%|83,2%|
+|NS/NR/SD|0,4%|0,3%|
+
+#### Percepción de presencia de drogas en el barrio
+
+|Percepción|2023|2024|
+|-|-|-|
+|Siempre|5,2%|5,1%|
+|Casi siempre|7,8%|4,9%|
+|Ocasionalmente|12,1%|11,4%|
+|Casi Nunca|6,6%|9,2%|
+|Nunca|67,1%|69,0%|
+|NS/NR/SD|1,1%|0,3%|
+
+#### Percepción del trabajo de Carabineros en la comuna
+
+|Aspecto|Percepción|2023|2024|
+|-|-|-|-|
+|Control del tránsito|Muy bueno y bueno|44,9%|46,7%|
+|| Muy mal y Malo|22,2%|25,5%|
+|Frecuencia con que patrulla y vigila las calles|Muy bueno y bueno|42,9%|43,2%|
+|| Muy mal y Malo|25,9%|26,0%|
+|Coordinación y comunicación con los/as vecinos/as de su barrio|Muy bueno y bueno|38,2%|42,1%|
+|| Muy mal y Malo|25,5%|26,5%|
+|Prevención de delitos y faltas en la comuna|Muy bueno y bueno|31,6%|31,1%|
+|| Muy mal y Malo|27,8%|31,4%|
+|Control del tráfico de drogas|Muy bueno y bueno|23,2%|24,2%|
+|| Muy mal y Malo|35,1%|37,5%|
+|Control de armas|Muy bueno y bueno|19,6%|23,7%|
+|| Muy mal y Malo|26,7%|28,1%|
+
+#### Percepción de la presencia policial (Carabineros) en el barrio en los últimos 12 meses
+
+|Percepción|2023|2024|
+|-|-|-|
+|Aumentó|20,7%|18,2%|
+|Se mantuvo|51,2%|51,2%|
+|Disminuyó|25,6%|28,4%|
+|NS/NR/SD|2,5%|2,2%|
+
+#### Percepción de riesgo de ser víctima de un delito
+
+|Año|Respuesta|Porcentaje|
+|-|-|-|
+|2023|Sí|43,5%|
+|2023|No|43,8%|
+|2023|No Sabe|12,7%|
+|2024|Sí|44,8%|
+|2024|No|52,7%|
+|2024|No Sabe|2,5%|
+
+#### Actividades que ha dejado de hacer por temor a ser víctima de un delito
+
+|Actividad|2023|2024|
+|-|-|-|
+|Caminar por ciertas áreas o lugares|67,6%|67,7%|
+|Usar celular y/o artículos electrónicos en público|55,3%|57,4%|
+|Salir de noche|49,5%|56,1%|
+|Llevar o usar dinero en efectivo|50,4%|46,2%|
+|Usar joyas, reloj u objetos de lujo|40,0%|36,5%|
+|Caminar solo/a|38,6%|35,2%|
+|Realizar actividades deportivas, de recreación o esparcimiento en...|16,7% ||
+|Ir al banco|21,4%|16,5%|
+|Tomar micros o buses|19,4%|14,0%|
+|Tomar taxis o colectivos|14,5%|10,8%|
+|Manejar vehículos, motos y/o estacionar fuera de la vivienda (nueva)|| 10,4%|
+|Tomar o usar Uber, Cabify, Didi o similares|11,4%|9,9%|
+
+#### Victimización de hogares
+
+|Año|Percepción Aumento Delincuencia (País)|Victimización Hogares (DMCS)|
+|-|-|-|
+|2018|74,6%|23,8%|
+|2019|83,3%|19,1%|
+|2020|73,1%|19,3%|
+|2021|80,8%|13,8%|
+|2022|90,5%|14,3%|
+|2023|92,2%|15,4%|
+|2024|92,2%|17,9%|
+
+#### Victimización de hogares por tipo de delito
+
+##### Delitos Violentos
+
+|Tipo de delito|2023|2024|
+|-|-|-|
+|Amenaza violenta|2,2%|2,8%|
+|Robo con violencia o intimidación|1,7%|1,3%|
+|Agresiones/lesiones|0,7%|0,9%|
+|Robo por sorpresa con violencia|0,3%|0,3%|
+|Extorsión violenta|0,3%|0,2%|
+|Robo de vehículo con violencia|0,6%|0,0%|
+|Robo de vivienda con violencia|0,1%|0,0%|
+
+##### Robos no violentos
+
+|Tipo de Robo|2023|2024|
+|-|-|-|
+|Robo desde vehículo|8,9%|10,3%|
+|Robo en la vivienda no violento|4,1%|4,7%|
+|Robo por sorpresa no violento|1,2%|1,3%|
+|Robo de vehículo no violento|0,9%|0,8%|
+
+##### Hurtos
+
+|Año|Porcentaje|
 |-|-|
-|2014|3736|
-|2017|9580|
-|2020|11559|
-|2023|12223|
+|2023|3,4%|
+|2024|5,0%|
 
-### Nacionalidad de los inmigrantes internacionales en la región del Ñuble 2023
+##### Vandalismo
 
-|Nacionalidad|% de Inmigrantes|
+|Tipo|2023|2024|
+|-|-|-|
+|Vehículos|5,6%|6,9%|
+|Viviendas|1,9%|1,6%|
+
+##### Delitos económicos
+
+|Tipo de Delito|2023|2024|
+|-|-|-|
+|Fraudes|2,7%|5,9%|
+|Estafas|2,5%|3,3%|
+
+##### Delitos cibernéticos
+
+|Tipo de Delito|2023|2024|
+|-|-|-|
+|Hackeo redes sociales o correo electrónico|2,6%|3,9%|
+|Software Malicioso|0,8%|1,0%|
+|Acoso por internet o Ciberbullying|0,9%|0,9%|
+|Suplantación Identidad|0,6%|0,7%|
+
+##### Delitos de odio
+
+|Año|Porcentaje|
 |-|-|
-|Venezuela|40,5%|
-|Haití|23,6%|
-|Colombia|6,9%|
-|Argentina|5,6%|
-|Perú|4,5%|
-|Ecuador|3,5%|
-|Bolivia|1,8%|
-|Brasil|1,8%|
-|México|1,6%|
-|Cuba|1,4%|
-|España|1,0%|
-|China|0,8%|
-|Estados Unidos|0,8%|
-|Alemania|0,6%|
-|Paraguay|0,5%|
-|República Dominicana|0,5%|
-|Francia|0,4%|
-|Uruguay|0,4%|
-|Italia|0,2%|
-|País Ignorado|0,2%|
-|Otro País|3,2%|
+|2023|0,2%|
+|2024|0,1%|
 
-### Residencias Temporales
+#### Victimización personal por región
 
-#### Solicitudes de Residencias Temporales (2013-2023)
+|Región|2023|2024|
+|-|-|-|
+|Total País|5,7%|5,8%|
+|Arica y Parinacota|5,3%|7,2%|
+|Tarapacá|6,1%|6,5%|
+|Antofagasta|5,0%|3,6%|
+|Atacama|5,7%|4,3%|
+|Coquimbo|2,9%|4,5%|
+|Valparaíso|4,8%|5,9%|
+|Metropolitana|7,1%|7,2%|
+|O'Higgins|3,6%|4,8%|
+|Maule|3,1%|3,4%|
+|Ñuble|3,4%|2,9%|
+|Biobío|4,9%|3,8%|
+|Araucanía|3,7%|4,8%|
+|Los Ríos|3,5%|4,8%|
+|Los Lagos|2,8%|3,0%|
+|Aysén|2,1%|2,0%|
+|Magallanes|2,0%|2,6%|
 
-|Indicador|Valor|
-|-|-|
-|Total de solicitudes|17218|
-|Solicitudes en 2023|398|
-|Cambio respecto a 2022|-10%|
-|Porcentaje de hombres|57,6%|
-|Grupo de edad más prevalente (18-29)|40,9%|
-|Segundo grupo más prevalente (30-44)|35,7%|
+#### Victimización personal por tipo de delito violento
 
-#### Principales países de origen Solicitudes de Residencias Temporales (2013-2023)
+|Tipo de delito|2023|2024|
+|-|-|-|
+|Amenazas Violentas|1,4%|1,9%|
+|Agresiones y lesiones|0,4%|0,5%|
+|Robo con violencia e intimidación|1,1%|0,5%|
+|Extorsión|0,1%|0,1%|
+|Robo por sorpresa|0,3%|0,1%|
+|Robo de Vehículo|0,3%|0,0%|
+|Robo en la vivienda|0,1%|0,0%|
 
-|País|% Solicitudes|
-|-|-|
-|Venezuela|36,4%|
-|Haití|30,7%|
-|Colombia|8,1%|
+#### Denuncia de delitos violentos contra el hogar
 
-#### Residencias Temporales Otorgadas (2013-2023)
+|Año|Denunciaron (Sí)|No Denunciaron (No)|
+|-|-|-|
+|2023|57,7%|42,3%|
+|2024|46,3%|53,7%|
 
-|Indicador|Valor|
-|-|-|
-|Total de residencias otorgadas|17946|
-|Residencias otorgadas en 2023|356|
-|Cambio respecto a 2022|-73%|
-|Porcentaje de hombres|57,6%|
-|Grupo de edad más prevalente (18-29)|39,3%|
-|Segundo grupo más prevalente (30-44)|37,1%|
+#### Denuncia por tipo de delito violento contra el hogar
 
-#### Distribución por tipo de Residencias Temporales Otorgadas (2013-2023)
+|Delito|2023|2024|
+|-|-|-|
+|Agresiones / Lesiones|48,5%|63,6%|
+|Extorsión violenta|60,9%|88,5%|
+|Robo con violencia o intimidación|54,5%|56,2%|
+|Amenaza violenta|49,8%|35,2%|
+|Robo por sorpresa con violencia|71,8%|28,8%|
+|Robo de vehículo con violencia|0,0%|100,0%|
+|Robo de vivienda con violencia|0,0%|100,0%|
 
-|Tipo de Residencia|% Otorgadas|
-|-|-|
-|Temporal|79,1%|
-|Sujeta a contrato|18,2%|
-|Estudiante|2,6%|
+#### Confianza en las instituciones
 
-#### Principales países de origen de Residencias Temporales Otorgadas (2013-2023)
+##### Conocimiento de instituciones
 
-|País|% Otorgadas|
-|-|-|
-|Venezuela|36%|
-|Haití|31,6%|
-|Colombia|8%|
+|Institución|2023 (% Sí)|2024 (% Sí)|
+|-|-|-|
+|Carabineros de Chile|63,9%|75,7%|
+|Policía de Investigaciones (PDI)|47,9%|54,7%|
+|Fiscalía o Ministerio Público|32,4%|35,7%|
 
-### Residencias Definitivas
+##### Confianza en Carabineros de Chile
 
-#### Solicitudes de Residencias Definitivas (2013-2023)
+|Confianza|2023|2024|
+|-|-|-|
+|Mucha y bastante confianza|69,3%|68,5%|
+|Poco o Nada de confianza|30,4%|31,4%|
 
-|Indicador|Valor|
-|-|-|
-|Total de solicitudes|6621|
-|Solicitudes en 2023|1921|
-|Cambio respecto a 2022|+146%|
-|Porcentaje de mujeres|41%|
-|Grupo de edad más prevalente (30-44)|43,7%|
+##### Confianza en la PDI
 
-#### Principales países de origen de Solicitudes de Residencias Definitivas (2013-2023)
+|Confianza|2023|2024|
+|-|-|-|
+|Mucha y bastante confianza|80,5%|80,8%|
+|Poco o Nada de confianza|18,9%|18,2%|
 
-|País|% Solicitudes|
-|-|-|
-|Venezuela|44,8%|
-|Haití|25,4%|
-|Colombia|8,4%|
-|Perú|3,1%|
+##### Confianza en la Fiscalía o Ministerio Público
 
-#### Residencias Definitivas Otorgadas (2013-2023)
-
-|Indicador|Valor|
-|-|-|
-|Total de residencias otorgadas|4185|
-|Residencias otorgadas en 2023|1061|
-|Cambio respecto a 2022|+36%|
-|Porcentaje de mujeres|45,2%|
-|Grupo de edad más prevalente (30-44)|44,2%|
-
-#### Principales países de origen de Residencias Definitivas Otorgadas (2013-2023)
-
-|País|% Otorgadas|
-|-|-|
-|Venezuela|48,5%|
-|Haití|19,7%|
-|Colombia|8,3%|
-|Ecuador|3,7%|
-
-## Conectividad Digital
-
-### Panorama regional (XI Encuesta Acceso y Uso de Internet 2024 – SUBTEL)
-
-|Indicador|Valor|
-|-|-|
-|Hogares con acceso propio y pagado a Internet|94,9 %|
-|Forma de acceso pagado<br>(principal en el hogar)|Solo fija 4,7 % · Solo móvil 49,7 % · Fija + móvil 40,2 % · No sabe 0,4 %|
-|Tipo de conexión más utilizada|Internet móvil con plan/bolsa de gigas (smartphone/tablet) 69,6 % · Banda ancha fija 29,4 % · BAM (módem) ≈ 0 % · Satelital ≈ 0 %|
-|Hogares con 4G y/o 5G|75,4 %<br>- 4G 52 %<br>- 5G ≈ 27 %|
-|Población 2024 (proyección INE)|521 711 habitantes|
-|Población rural|28,7 %|
-|Pobreza por ingresos (CASEN 2022)|12,1 %|
-|Pobreza multidimensional (CASEN 2022)|15,5 %|
-
-> Brecha clave – Casi la mitad de los hogares depende exclusivamente de conexiones móviles; la adopción de 5G aún no supera el 30 %, concentrándose la carencia de banda ancha fija en las comunas más rurales y de menor IDH.
-
-### Indicadores comunales relevantes
-
-|Comuna|Población 2024|% Rural 2024|IDH (2019)|Pobreza 2022|Nota sobre brecha digital*|
-|-|-|-|-|-|-|
-|Chillán|204 091|8,4|0,646 (M-alto)|12,5 %|Alta cobertura fija; 5G < 30 %|
-|Chillán Viejo|35 580|9,5|0,613 (M-bajo)|13,0 %|Similar capital; brecha menor|
-|San Carlos|54 862|26,6|0,549 (Bajo)|9,1 %|Mixta fija+móvil; rural dispersa|
-|Bulnes|22 754|36,5|0,548 (Bajo)|15,0 %|Cobertura fija parcial|
-|Quillón|19 304|35,6|0,529 (Bajo)|9,0 %|Turismo impulsa demanda fija|
-|Quirihue|8 191|57,8|0,554 (M-bajo)|7,8 %|Predomina solo móvil|
-|Coelemu|16 749|38,6|0,566 (M-bajo)|19,5 %|Saturación 4G; poca fibra|
-|Cobquecura|5 224|71,5|0,506 (Bajo)|19,1 %|Conexión satelital costera|
-|Trehuaco|5 645|58,1|0,487 (Bajo)|17,1 %|Baja densidad; solo móvil|
-|Portezuelo|4 876|61,2|0,444 (Bajo)|15,1 %|Muy limitada banda ancha fija|a
-|Ránquil|4 302|69,1|0,578 (M-bajo)|17,5 %|Dependencia móvil|
-|San Nicolás|12 487|55,6|0,546 (Bajo)|16,5 %|Falta despliegue fibra|
-|Ñiquén|5 370|57,8|0,582 (M-bajo)|12,2 %|Cobertura deficitaria|
-|Pemuco|8 583|49,4|0,497 (Bajo)|19,0 %|Solo móvil dominante|
-|El Carmen|12 197|57,9|0,472 (Bajo)|17,8 %|Zonas sin cobertura fija|
-|San Ignacio|17 006|52,2|0,437 (Bajo)|18,0 %|Conectividad crítica|
-|Coihueco|29 067|63,6|0,496 (Bajo)|s/d|Alta ruralidad; brecha alta|
-|Pinto|12 179|47,9|0,521 (Bajo)|10,3 %|4G irregular; turismo nieve|
-|San Fabián|4 793|63,2|0,503 (Bajo)|17,5 %|Áreas de montaña sin fibra|
-|Yungay|18 835|21,1|0,569 (M-bajo)|10,8 %|Buena cobertura urbana|
-
-* Comentario derivado de la combinación ruralidad-IDH-pobreza y patrón regional de acceso.
-
-Fuentes principales: XI Encuesta SUBTEL 2024  y base de indicadores Ñuble 2024 (INE, CASEN).
+|Confianza|2023|2024|
+|-|-|-|
+|Mucha y bastante confianza|44,5%|43,3%|
+|Poco o Nada de confianza|54,5%|56,6%|

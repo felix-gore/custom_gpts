@@ -13,7 +13,7 @@ Modification-Date: 2025-07-03
 Primary-Source: `knowledge/domains/gore_nuble/kb_011_selector_ipr.md`
 Ref-STS-Guide: `GUIDE-STS-MASTER-01`
 
-## 2. Contexto y Principio Rector
+## 2. Contexto y Principio Rectornecesito que actualices todo lo que corresponda en @kb_gn_005_indicadores_nuble.md  a partir de  @kb_gn_504_indicadores_economia_md.md 
 
 ID: FIN-IPR-STS-CONTEXTO-01
 Purp: Orientar la selección estratégica del mecanismo de financiamiento GORE para una Intervención Pública Regional (IPR).
