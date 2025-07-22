@@ -9,16 +9,16 @@ knowledge_base_interaction_and_governance_rules:
   usage_policy_and_source_management:
     policy: EXCLUSIVE_USE
     source_files:
-      - 'kb_gn_000_intro_gores_nuble.md'
-      - 'kb_core_007_estructura_estado_chile_sts.md'
-      - 'kb_gn_200_marco_legal_gores_sts.md'
-      - 'kb_gn_031_ley_19175_sts.md'
-      - 'kb_gn_035_estrategia_gestion_sts.md'
-      - 'kb_gn_018_gestion_prpto_sts.md'
-      - 'kb_gn_019_gestion_ipr_sts.md'
-      - 'kb_gn_011_selector_ipr_sts.md'
-      - 'kb_gn_020_gestion_rendiciones_sts.md'
-      - 'kb_gn_016_intro_tde_sts.md'
+      - 'kb_gn_000_intro_gores_nuble'
+      - 'kb_core_007_estructura_estado_chile_sts'
+      - 'kb_gn_200_marco_legal_gores_sts'
+      - 'kb_gn_031_ley_19175_sts'
+      - 'kb_gn_035_estrategia_gestion_sts'
+      - 'kb_gn_018_gestion_prpto_sts'
+      - 'kb_gn_019_gestion_ipr_sts'
+      - 'kb_gn_011_selector_ipr_sts'
+      - 'kb_gn_020_gestion_rendiciones_sts'
+      - 'kb_gn_016_intro_tde_sts'
   uncertainty_protocol: 'DECLARE_ABSENCE'
   citation_formatting:
     style: OFFICIAL_SOURCE_NAME
@@ -48,14 +48,14 @@ private_internal_reasoning_processes:
     _meta: { expose: false }
     apply_on_trigger: 'Invocado por S-ANALYSIS'
     dimensions:
-      - "Consulta sobre estructura general del Estado y rol de GOREs: Usar 'kb_core_007_estructura_estado_chile_sts.md' y 'kb_gn_000_intro_gores_nuble.md'."
-      - "Consulta sobre marco legal específico de GOREs (Ley 19.175): Usar 'kb_gn_031_ley_19175_sts.md' y 'kb_gn_200_marco_legal_gores_sts.md'."
-      - "Consulta sobre estrategia, gestión y modernización: Usar 'kb_gn_035_estrategia_gestion_sts.md'."
-      - "Consulta sobre presupuesto, finanzas y FNDR: Usar 'kb_gn_018_gestion_prpto_sts.md'."
-      - "Consulta sobre el ciclo de vida de proyectos (IPR): Usar 'kb_gn_019_gestion_ipr_sts.md' y 'kb_gn_011_selector_ipr_sts.md'."
-      - "Consulta sobre rendición de cuentas: Usar 'kb_gn_020_gestion_rendiciones_sts.md'."
-      - "Consulta sobre Transformación Digital del Estado (TDE), Ley 21.180, ciberseguridad o interoperabilidad: Usar 'kb_gn_016_intro_tde_sts.md'."
-      - "Consulta sobre contexto específico de Ñuble (autoridades, datos socioeconómicos): Usar 'kb_gn_000_intro_gores_nuble.md'."
+      - "Consulta sobre estructura general del Estado y rol de GOREs: Usar 'kb_core_007_estructura_estado_chile_sts' y 'kb_gn_000_intro_gores_nuble'."
+      - "Consulta sobre marco legal específico de GOREs (Ley 19.175): Usar 'kb_gn_031_ley_19175_sts' y 'kb_gn_200_marco_legal_gores_sts'."
+      - "Consulta sobre estrategia, gestión y modernización: Usar 'kb_gn_035_estrategia_gestion_sts'."
+      - "Consulta sobre presupuesto, finanzas y FNDR: Usar 'kb_gn_018_gestion_prpto_sts'."
+      - "Consulta sobre el ciclo de vida de proyectos (IPR): Usar 'kb_gn_019_gestion_ipr_sts' y 'kb_gn_011_selector_ipr_sts'."
+      - "Consulta sobre rendición de cuentas: Usar 'kb_gn_020_gestion_rendiciones_sts'."
+      - "Consulta sobre Transformación Digital del Estado (TDE), Ley 21.180, ciberseguridad o interoperabilidad: Usar 'kb_gn_016_intro_tde_sts'."
+      - "Consulta sobre contexto específico de Ñuble (autoridades, datos socioeconómicos): Usar 'kb_gn_000_intro_gores_nuble'."
 
   CM-SYNTHESIZE-ANSWER:
     _meta: { expose: false }
