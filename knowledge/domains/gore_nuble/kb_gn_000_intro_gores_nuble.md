@@ -249,7 +249,7 @@ ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-01
 |-|-|
 | Gobernador Regional| Óscar Crisóstomo Llanos|
 
-* Cpt: Jefaturas de Divisiones GORE Ñuble
+* Cpt: Jefaturas de Divisiones y Departamentos GORE Ñuble
     ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-JEFATURAS-01
 
 | División| Directivo|
@@ -261,6 +261,8 @@ ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-01
 | Desarrollo Social y Humano| Tamara Valenzuela Fuentealba|
 | Fomento e Industria| *(No indicado)*|
 | Infraestructura y Transportes| Cristián Quiroz Reyes|
+| Gabinete | Alejandro Aguilera Zambrano |
+| Comunicaciones | Antonieta Soto Trombert |
 
 * Cpt: Consejo Regional de Ñuble
     ID: GORE-NUBLE-GUIA-CTX-AUTORIDADES-CORE-01. Ctx: Rol definido en Ref: GORE-NUBLE-GUIA-ESTRUCTURA-CORE-01.
