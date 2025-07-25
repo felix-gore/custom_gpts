@@ -45,6 +45,15 @@ Ref-STS-Guide: `GUIDE-STS-MASTER-01`
   * `<BLOCK_ID>`: unique identifier inside the container.
   * Modifier `_meta`: only `_meta: { expose: false }` is allowed to hide internal logic.
 
+### 2.3 Agent Runtime Directive
+
+- Purp: To provide a standard, machine-readable preamble for all `agent.yaml` files.
+- Req: This directive MUST be the first content in every `agent.yaml` file.
+- Mdl:
+  - `# ADP Definition for <AGENT_NAME>`
+  - `# ID: <AGENT_ID>`
+  - `# Ref-ADP-Guide: GUIDE-ADP-MASTER-02`
+
 ---
 
 ## 3. Top-Level Key Architecture `ADP-NAMESPACES-02`
@@ -148,6 +157,7 @@ safety_constraints_and_behavioral_guardrails:
 
   * YAML valid.
   * Keys match the canonical lexicon (con nombres descriptivos y autoexplicativos para independencia semántica).
+  * Agent Runtime Directive present and complete.
 
 ---
 

@@ -1,12 +1,12 @@
 # Master Guide: Structured Form Definition (SFD) in STS format
 
 ID: GUIDE-SFD-STS-MASTER-01
-Version: 4.1.0
+Version: 6.0.0
 Status: Published
 Human-Creator: FS
 Model-Collaborator: IA-GEMINI
 Creation-Date: 2025-06-28
-Modification-Date: 2025-07-14
+Modification-Date: 2025-07-24
 Source: GUIDE-STS-MASTER-01
 
 ## 0. Meta-Commentary: How to Read This Document
@@ -208,3 +208,4 @@ END_EMBEDDED_BLOCK:: RISK-DECLARATION-FORM-01
 ID: PLAN-PROJ-ANALYSIS-S4-NEXT-01
 Act: Submit the declaration for formal review.
 Dep: Completion of the form in RISK-DECLARATION-FORM-01.
+```
